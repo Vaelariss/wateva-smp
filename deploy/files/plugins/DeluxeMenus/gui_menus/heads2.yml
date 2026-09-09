@@ -1,0 +1,798 @@
+menu_title: "&e&lDecor Heads &8- 2/2"
+open_command: [heads2]
+register_command: true
+size: 54
+items:
+  head0:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRlZmQ4NTJiMzMxZjczYzM1MGUxYmI2ZDk0ZTM5NzdkYWEyMDc4M2M1MWVjNTUwMmUyZmM5NjAyNGZkOTBlYzEifX19
+    slot: 0
+    display_name: "&eCactus"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRlZmQ4NTJiMzMxZjczYzM1MGUxYmI2ZDk0ZTM5NzdkYWEyMDc4M2M1MWVjNTUwMmUyZmM5NjAyNGZkOTBlYzEifX19\"}]},item_name='\"Cactus\"'] 1"
+    - "[message] &aBought &eCactus&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head1:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MwMzU2M2M5MjU5YmRjODZiNDRkMWEwMmZlZTM4NTNkZWE2OTY3NzBhMjhjNDcyNGQxM2Y3MTNmNmM1ZWM1NGYifX19
+    slot: 1
+    display_name: "&eAquarium"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MwMzU2M2M5MjU5YmRjODZiNDRkMWEwMmZlZTM4NTNkZWE2OTY3NzBhMjhjNDcyNGQxM2Y3MTNmNmM1ZWM1NGYifX19\"}]},item_name='\"Aquarium\"'] 1"
+    - "[message] &aBought &eAquarium&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head2:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IxNDY5N2VlNmZhMzIyZjYxOTU1ZmI4YjdmNmEzYzgxODJkYzkyYzA0NjQ4ZGYwODUxYmMyYjhjZjJlYWE5NGEifX19
+    slot: 2
+    display_name: "&eBirdcage"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IxNDY5N2VlNmZhMzIyZjYxOTU1ZmI4YjdmNmEzYzgxODJkYzkyYzA0NjQ4ZGYwODUxYmMyYjhjZjJlYWE5NGEifX19\"}]},item_name='\"Birdcage\"'] 1"
+    - "[message] &aBought &eBirdcage&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head3:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYzYTY2NDdhYTNiOGVkNTBiZDBmMjgyOWZhMjgwOTBjZjgyYjA1MjIwMzI3MzM0MjRiNzUwMTllZDcxOWJlY2UifX19
+    slot: 3
+    display_name: "&eBackpack"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYzYTY2NDdhYTNiOGVkNTBiZDBmMjgyOWZhMjgwOTBjZjgyYjA1MjIwMzI3MzM0MjRiNzUwMTllZDcxOWJlY2UifX19\"}]},item_name='\"Backpack\"'] 1"
+    - "[message] &aBought &eBackpack&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head4:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzNjI0MzhmZjRlY2Y4ZjRhMmNhYTEyNzc1NjFjOTUxM2M5YTk4NmRiZTM4YTgwYjliYWZjYmZlZDhiMmE5YzgifX19
+    slot: 4
+    display_name: "&eToolbox"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzNjI0MzhmZjRlY2Y4ZjRhMmNhYTEyNzc1NjFjOTUxM2M5YTk4NmRiZTM4YTgwYjliYWZjYmZlZDhiMmE5YzgifX19\"}]},item_name='\"Toolbox\"'] 1"
+    - "[message] &aBought &eToolbox&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head5:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNjODQ5NzE3OGU2ZTI2M2FhMDkzNDQzOTJlODU2ODMzODkwMDQ5Nzc4YjZjMzQ0N2U2MWJlNmQ0OWVkZTcwYTgifX19
+    slot: 5
+    display_name: "&eTraffic Cone"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNjODQ5NzE3OGU2ZTI2M2FhMDkzNDQzOTJlODU2ODMzODkwMDQ5Nzc4YjZjMzQ0N2U2MWJlNmQ0OWVkZTcwYTgifX19\"}]},item_name='\"Traffic Cone\"'] 1"
+    - "[message] &aBought &eTraffic Cone&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head6:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhY2JiY2E1NjczNzJhOWIyYjM2YzhmNjgxNTQ4NTFiZGE1ZWUxZDUzZTJiYzIwOGExMTUyZDlhMThkMmNiIn19fQ==
+    slot: 6
+    display_name: "&eMailbox"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhY2JiY2E1NjczNzJhOWIyYjM2YzhmNjgxNTQ4NTFiZGE1ZWUxZDUzZTJiYzIwOGExMTUyZDlhMThkMmNiIn19fQ==\"}]},item_name='\"Mailbox\"'] 1"
+    - "[message] &aBought &eMailbox&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head7:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q4OGUwZTgxMmQ0ZmQ5NmJkMTk0NWVjMWFjYzVhYjRkYjIwMDhiNzIwZWZjY2E5ZDA3ZGVlYWJhMjdjOGRkOWYifX19
+    slot: 7
+    display_name: "&eLamp"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q4OGUwZTgxMmQ0ZmQ5NmJkMTk0NWVjMWFjYzVhYjRkYjIwMDhiNzIwZWZjY2E5ZDA3ZGVlYWJhMjdjOGRkOWYifX19\"}]},item_name='\"Lamp\"'] 1"
+    - "[message] &aBought &eLamp&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head8:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IyMDg5YjM1MTkxOTg5Y2Q3NzBhYTdhNGQ4OTI2Y2IwOTEwYjYwMTE3ZmYyN2RlNmQ5ZWE1MTFlZTIwOTFlOGUifX19
+    slot: 8
+    display_name: "&eLantern"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IyMDg5YjM1MTkxOTg5Y2Q3NzBhYTdhNGQ4OTI2Y2IwOTEwYjYwMTE3ZmYyN2RlNmQ5ZWE1MTFlZTIwOTFlOGUifX19\"}]},item_name='\"Lantern\"'] 1"
+    - "[message] &aBought &eLantern&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head9:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZiMjM5M2VjNzgxMjE0NjliZDQ1MTE0NGE1YWI3MjIyYjQ1NDQ4ZTZiY2E3YzNlMzRjODM0YTJmYWVlOTFiOCJ9fX0=
+    slot: 9
+    display_name: "&eFish Bowl"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZiMjM5M2VjNzgxMjE0NjliZDQ1MTE0NGE1YWI3MjIyYjQ1NDQ4ZTZiY2E3YzNlMzRjODM0YTJmYWVlOTFiOCJ9fX0=\"}]},item_name='\"Fish Bowl\"'] 1"
+    - "[message] &aBought &eFish Bowl&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head10:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU2ZjM2ZjI4Y2UyOTI4ZTZiMjE2ZWNkNDQ2YTUxMmEwNTI3YjllNjA2NjUyNmE5YzVhOTM3MzEyMmExZDU5NGMifX19
+    slot: 10
+    display_name: "&eCooking Pot"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU2ZjM2ZjI4Y2UyOTI4ZTZiMjE2ZWNkNDQ2YTUxMmEwNTI3YjllNjA2NjUyNmE5YzVhOTM3MzEyMmExZDU5NGMifX19\"}]},item_name='\"Cooking Pot\"'] 1"
+    - "[message] &aBought &eCooking Pot&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head11:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZlZmI1OGQ0NTYwMjRkMmQ5MmQ5ZWY1OWEzN2UwMTEyYWI3MzQ5MDkxOTYxZjNlYWI0ZjdhZjEzMmRlN2VlY2IifX19
+    slot: 11
+    display_name: "&ePan"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZlZmI1OGQ0NTYwMjRkMmQ5MmQ5ZWY1OWEzN2UwMTEyYWI3MzQ5MDkxOTYxZjNlYWI0ZjdhZjEzMmRlN2VlY2IifX19\"}]},item_name='\"Pan\"'] 1"
+    - "[message] &aBought &ePan&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head12:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VjYmNmZGM4YzQ5NTgxNTc3ZWVhMmY3MWY2ZjdmY2I4NmEzNjFmYWY4NzY1NjkzZWMyMDRiY2VjNmMzMmE2ZSJ9fX0=
+    slot: 12
+    display_name: "&eTea Kettle"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VjYmNmZGM4YzQ5NTgxNTc3ZWVhMmY3MWY2ZjdmY2I4NmEzNjFmYWY4NzY1NjkzZWMyMDRiY2VjNmMzMmE2ZSJ9fX0=\"}]},item_name='\"Tea Kettle\"'] 1"
+    - "[message] &aBought &eTea Kettle&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head13:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRiMjJjNjNkZTA0ZDUxYTdiNmUwYTU1OWNmNjY4OTg1NmY1Y2IzNjk1NDU5ZDMwN2Y2NWQwNmZiMjE3MGNhNCJ9fX0=
+    slot: 13
+    display_name: "&eBottle of Water"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRiMjJjNjNkZTA0ZDUxYTdiNmUwYTU1OWNmNjY4OTg1NmY1Y2IzNjk1NDU5ZDMwN2Y2NWQwNmZiMjE3MGNhNCJ9fX0=\"}]},item_name='\"Bottle of Water\"'] 1"
+    - "[message] &aBought &eBottle of Water&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head14:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI4OWMxMmY1YTU1YWRhMTg2YWY4ZjY1NjFiNzIxM2I1MmNhODcwODk3ODQ0M2EzYzljMDM5ZDk4YWVlMzBlOGMifX19
+    slot: 14
+    display_name: "&eBrown Mushroom Stool"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI4OWMxMmY1YTU1YWRhMTg2YWY4ZjY1NjFiNzIxM2I1MmNhODcwODk3ODQ0M2EzYzljMDM5ZDk4YWVlMzBlOGMifX19\"}]},item_name='\"Brown Mushroom Stool\"'] 1"
+    - "[message] &aBought &eBrown Mushroom Stool&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head15:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QwM2UxOTYzNGIwMDc1MWU3YjljODAzNWZkOWVkNDk4ZTA3MGNhZDMyOTljZDZiYWU5ZDk5NGRiM2JkYzkxYSJ9fX0=
+    slot: 15
+    display_name: "&eTrash Can"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QwM2UxOTYzNGIwMDc1MWU3YjljODAzNWZkOWVkNDk4ZTA3MGNhZDMyOTljZDZiYWU5ZDk5NGRiM2JkYzkxYSJ9fX0=\"}]},item_name='\"Trash Can\"'] 1"
+    - "[message] &aBought &eTrash Can&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head16:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcyODQyNThkMWFlZGEzNzk1NTVjNTllNWQyYzc2NzJlMzk4MzA2ZTBhZWU2ZDFlZWUzYmVjNWZmNGU4NzVlOWUifX19
+    slot: 16
+    display_name: "&eWarped Crate"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcyODQyNThkMWFlZGEzNzk1NTVjNTllNWQyYzc2NzJlMzk4MzA2ZTBhZWU2ZDFlZWUzYmVjNWZmNGU4NzVlOWUifX19\"}]},item_name='\"Warped Crate\"'] 1"
+    - "[message] &aBought &eWarped Crate&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head17:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U1ODQ3YjVkMTU5YTJkMGExZDczYTJjOGJmOGQ5ZWFmMTM0ZjRhNjg1NDE3NmFjZTdkODE5NGZmNzgyZjIxZiJ9fX0=
+    slot: 17
+    display_name: "&eBlue Vase"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U1ODQ3YjVkMTU5YTJkMGExZDczYTJjOGJmOGQ5ZWFmMTM0ZjRhNjg1NDE3NmFjZTdkODE5NGZmNzgyZjIxZiJ9fX0=\"}]},item_name='\"Blue Vase\"'] 1"
+    - "[message] &aBought &eBlue Vase&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head18:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E5YTgzYzNhYmYzYjYxMzY3NDJkOWU5YjY3Mzc4ZWVkMmZlYjQwM2E3Y2Y2MjI2MjJhMDY4ODM0ZmU3NDBmYWYifX19
+    slot: 18
+    display_name: "&eGolden Vase"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E5YTgzYzNhYmYzYjYxMzY3NDJkOWU5YjY3Mzc4ZWVkMmZlYjQwM2E3Y2Y2MjI2MjJhMDY4ODM0ZmU3NDBmYWYifX19\"}]},item_name='\"Golden Vase\"'] 1"
+    - "[message] &aBought &eGolden Vase&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head19:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I4ZWJiNzRmNjY1M2RmZjEyNTQ4MTU5M2Y3OWY1NzMyZjI1NjcyOWNjMTY0MjZhNzMwMDRjZjM3Njk3YTBkZmQifX19
+    slot: 19
+    display_name: "&eClock"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I4ZWJiNzRmNjY1M2RmZjEyNTQ4MTU5M2Y3OWY1NzMyZjI1NjcyOWNjMTY0MjZhNzMwMDRjZjM3Njk3YTBkZmQifX19\"}]},item_name='\"Clock\"'] 1"
+    - "[message] &aBought &eClock&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head20:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M5YTJiNDZmMjAxMzEzMThkMDY1Mzk2YzMzZmE1MjFiNmU1YzA5MDhiMDQwZWE2N2MxYjQ3MzliMjc0OTc5ZjMifX19
+    slot: 20
+    display_name: "&eRed Telephone"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M5YTJiNDZmMjAxMzEzMThkMDY1Mzk2YzMzZmE1MjFiNmU1YzA5MDhiMDQwZWE2N2MxYjQ3MzliMjc0OTc5ZjMifX19\"}]},item_name='\"Red Telephone\"'] 1"
+    - "[message] &aBought &eRed Telephone&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head21:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjYjYxMThiMTFlMDU2NDY2YTVjNmM1ZGM1ZWI5MjZmNzRhNTBkNTY5NDliMWMyMzRhYWVjMzk5ZDFhNDhkYjMifX19
+    slot: 21
+    display_name: "&eCamera"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjYjYxMThiMTFlMDU2NDY2YTVjNmM1ZGM1ZWI5MjZmNzRhNTBkNTY5NDliMWMyMzRhYWVjMzk5ZDFhNDhkYjMifX19\"}]},item_name='\"Camera\"'] 1"
+    - "[message] &aBought &eCamera&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head22:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk4YTczY2NmOGRjMTVhMTU5YTA2ZWQ3YTZjMDQyNWU5Mzg5YjQyYTljMmZhNmUzMmU5NWQ0NjM1N2JiMTVhZjkifX19
+    slot: 22
+    display_name: "&eGlobe"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk4YTczY2NmOGRjMTVhMTU5YTA2ZWQ3YTZjMDQyNWU5Mzg5YjQyYTljMmZhNmUzMmU5NWQ0NjM1N2JiMTVhZjkifX19\"}]},item_name='\"Globe\"'] 1"
+    - "[message] &aBought &eGlobe&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head23:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RjMmY1YzViZTZiNTc1MDE2NzczNzM1OTc0YzljYTg4MDdlMzAyNWUwMWIwZTY3NmNhNzE0N2UwMDU0NWI1MTAifX19
+    slot: 23
+    display_name: "&eRed Present"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RjMmY1YzViZTZiNTc1MDE2NzczNzM1OTc0YzljYTg4MDdlMzAyNWUwMWIwZTY3NmNhNzE0N2UwMDU0NWI1MTAifX19\"}]},item_name='\"Red Present\"'] 1"
+    - "[message] &aBought &eRed Present&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head24:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E0OTcyYzNkNDNmYzRhZmFhNzY0YzE3Yjc3ZmE0NDExOWI3YTA3ZDAzYTczODdlYjU4OGFhOWIwYWRkN2Q5OCJ9fX0=
+    slot: 24
+    display_name: "&eCherry Cake"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E0OTcyYzNkNDNmYzRhZmFhNzY0YzE3Yjc3ZmE0NDExOWI3YTA3ZDAzYTczODdlYjU4OGFhOWIwYWRkN2Q5OCJ9fX0=\"}]},item_name='\"Cherry Cake\"'] 1"
+    - "[message] &aBought &eCherry Cake&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head25:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI4Y2M1NzQ5YjlkZTkxMWYxZTVmODg0YzI4M2YzZjY2OGY0OTIzN2YzYTVkYjAzNmNiYTZmYmFiM2QyYWQwODIifX19
+    slot: 25
+    display_name: "&eHam and Cheese Pizza"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI4Y2M1NzQ5YjlkZTkxMWYxZTVmODg0YzI4M2YzZjY2OGY0OTIzN2YzYTVkYjAzNmNiYTZmYmFiM2QyYWQwODIifX19\"}]},item_name='\"Ham and Cheese Pizza\"'] 1"
+    - "[message] &aBought &eHam and Cheese Pizza&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head26:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViYWQ4ODQ0MzRiZWE5ZDRkNmY4OTIwYzQ4ZjA1Mzc5NTQ0NTQ0ZDFiMTU3MzM3M2E2MzQ3YWNlNjE5ZmZlNDUifX19
+    slot: 26
+    display_name: "&eSpruce Mug"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViYWQ4ODQ0MzRiZWE5ZDRkNmY4OTIwYzQ4ZjA1Mzc5NTQ0NTQ0ZDFiMTU3MzM3M2E2MzQ3YWNlNjE5ZmZlNDUifX19\"}]},item_name='\"Spruce Mug\"'] 1"
+    - "[message] &aBought &eSpruce Mug&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head27:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U0MDRiNWEwZWQ5NjNiMmE1NGI5YjUxNGNlMGFhYTZiYWMyNDBjYTdkYjAzMWJjMzg0YThlNzMwYWUwYzIzZDUifX19
+    slot: 27
+    display_name: "&ePaper Cup (empty)"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U0MDRiNWEwZWQ5NjNiMmE1NGI5YjUxNGNlMGFhYTZiYWMyNDBjYTdkYjAzMWJjMzg0YThlNzMwYWUwYzIzZDUifX19\"}]},item_name='\"Paper Cup (empty)\"'] 1"
+    - "[message] &aBought &ePaper Cup (empty)&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head28:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJiYmZmZjRkMGFhZmRmZTc1ZTZhZWVkZDA3MGUyYTQ4Nzc1MWNmNDk5MDI4NjcwZGE3MDRhZTNhYWZiNWIxMWIifX19
+    slot: 28
+    display_name: "&eTeapot (white, pink flowers)"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJiYmZmZjRkMGFhZmRmZTc1ZTZhZWVkZDA3MGUyYTQ4Nzc1MWNmNDk5MDI4NjcwZGE3MDRhZTNhYWZiNWIxMWIifX19\"}]},item_name='\"Teapot (white, pink flowers)\"'] 1"
+    - "[message] &aBought &eTeapot (white, pink flowers)&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head29:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg4NmRmNzc5YTQyZmZkYjdhNjc0OTVmZDM1NTQ0NmU1MjY4YzhjOWFhNzFiZDA5NGJkMDhlNWNlZGNmODM3ZDUifX19
+    slot: 29
+    display_name: "&eAzalea Barrel"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg4NmRmNzc5YTQyZmZkYjdhNjc0OTVmZDM1NTQ0NmU1MjY4YzhjOWFhNzFiZDA5NGJkMDhlNWNlZGNmODM3ZDUifX19\"}]},item_name='\"Azalea Barrel\"'] 1"
+    - "[message] &aBought &eAzalea Barrel&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head30:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNkZGZkOGZlMTk0YzFlMDFhYjZiNWM3ZTdlYWI4NjVjZWRiYTlkZjY1YTdhYTA1NjU1YWQ5YTkyYWZmYmI4ZWIifX19
+    slot: 30
+    display_name: "&eBooks (gray)"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNkZGZkOGZlMTk0YzFlMDFhYjZiNWM3ZTdlYWI4NjVjZWRiYTlkZjY1YTdhYTA1NjU1YWQ5YTkyYWZmYmI4ZWIifX19\"}]},item_name='\"Books (gray)\"'] 1"
+    - "[message] &aBought &eBooks (gray)&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head31:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmNjIxNTIwYWViZWQ3NmNlZmZlNWQyMDhhNWNiOTM5Mjc4NGNiODM3Nzg5Mzk3OWQ1MmI3ZWQzODMzNDNmNyJ9fX0=
+    slot: 31
+    display_name: "&ePainting"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmNjIxNTIwYWViZWQ3NmNlZmZlNWQyMDhhNWNiOTM5Mjc4NGNiODM3Nzg5Mzk3OWQ1MmI3ZWQzODMzNDNmNyJ9fX0=\"}]},item_name='\"Painting\"'] 1"
+    - "[message] &aBought &ePainting&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head32:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U2YjRlOTJmMzA5MzVhMTQxMzI4NTgwZGRhNjY2MmYzMjlkYzlhNTIyYmVjNWIzZDA2MjdiMmEzZTU4ZmNiNDQifX19
+    slot: 32
+    display_name: "&eFireplace (christmas edition)"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U2YjRlOTJmMzA5MzVhMTQxMzI4NTgwZGRhNjY2MmYzMjlkYzlhNTIyYmVjNWIzZDA2MjdiMmEzZTU4ZmNiNDQifX19\"}]},item_name='\"Fireplace (christmas edition)\"'] 1"
+    - "[message] &aBought &eFireplace (christmas edition)&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head33:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFmMzFjMzFkNDM4ODAyZGM0MDA3MmYxNThiYmRmMGE2MjNkMmYwNjVlOTcxNTliOTIyNjlmZjc2Yjk4YmMzNGUifX19
+    slot: 33
+    display_name: "&ePurple Fan"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFmMzFjMzFkNDM4ODAyZGM0MDA3MmYxNThiYmRmMGE2MjNkMmYwNjVlOTcxNTliOTIyNjlmZjc2Yjk4YmMzNGUifX19\"}]},item_name='\"Purple Fan\"'] 1"
+    - "[message] &aBought &ePurple Fan&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head34:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MxMjMwYjcwMWI5MWVlZjdhMTQ1NWUzNjk2ZDc2MmExOWVkZjFiNmU2MTAyYzg2MzQ0MzAzZTY2M2Q1MTAxZWMifX19
+    slot: 34
+    display_name: "&eCash Register (gray)"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MxMjMwYjcwMWI5MWVlZjdhMTQ1NWUzNjk2ZDc2MmExOWVkZjFiNmU2MTAyYzg2MzQ0MzAzZTY2M2Q1MTAxZWMifX19\"}]},item_name='\"Cash Register (gray)\"'] 1"
+    - "[message] &aBought &eCash Register (gray)&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head35:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkzOGIwNWU1MGVmMWM4YzAyY2UzMGQ4ZDA5Yjg0NmU3ZTkxNDVhYzQxMTcxNTdmNjUzMGI0ZDhlMWUzMjk4NTQifX19
+    slot: 35
+    display_name: "&eServer"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkzOGIwNWU1MGVmMWM4YzAyY2UzMGQ4ZDA5Yjg0NmU3ZTkxNDVhYzQxMTcxNTdmNjUzMGI0ZDhlMWUzMjk4NTQifX19\"}]},item_name='\"Server\"'] 1"
+    - "[message] &aBought &eServer&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head36:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FkNGIzYjUwMGQwMjcyZTgzM2FmZDQyNWI5NmU5MTMxZWNiYjhiOTM1NzJmZjVlYzQxZDllNThmZDNmMzkyMTcifX19
+    slot: 36
+    display_name: "&eAquarium"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FkNGIzYjUwMGQwMjcyZTgzM2FmZDQyNWI5NmU5MTMxZWNiYjhiOTM1NzJmZjVlYzQxZDllNThmZDNmMzkyMTcifX19\"}]},item_name='\"Aquarium\"'] 1"
+    - "[message] &aBought &eAquarium&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head37:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM0NWZkMTc0ZjI1MDM3YjdmOWVjYTczM2NmZDA0NmE4YjYzNTExMjAyNjQ4NTM3MDViY2FhNWI2M2UxN2MxNyJ9fX0=
+    slot: 37
+    display_name: "&eWooden Mailbox"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM0NWZkMTc0ZjI1MDM3YjdmOWVjYTczM2NmZDA0NmE4YjYzNTExMjAyNjQ4NTM3MDViY2FhNWI2M2UxN2MxNyJ9fX0=\"}]},item_name='\"Wooden Mailbox\"'] 1"
+    - "[message] &aBought &eWooden Mailbox&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  head38:
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNmMjk1YjFkNmM5ZjM1ZWFiNzQyYjc2MDIzNjA5OTU4Y2U2YmFjZmEwMjQxNGEwMWJhNTdhYTQyMThhODBhMGQifX19
+    slot: 38
+    display_name: "&eBronze Bowl"
+    lore:
+    - "&7Price: &a$1500"
+    - "&7Place it like a block. Bedrock sees it too."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1500
+          deny_commands:
+          - "[message] &cYou need $1500 for that head."
+    left_click_commands:
+    - "[console] eco take %player_name% 1500"
+    - "[console] minecraft:give %player_name% player_head[profile={properties:[{name:\"textures\",value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNmMjk1YjFkNmM5ZjM1ZWFiNzQyYjc2MDIzNjA5OTU4Y2U2YmFjZmEwMjQxNGEwMWJhNTdhYTQyMThhODBhMGQifX19\"}]},item_name='\"Bronze Bowl\"'] 1"
+    - "[message] &aBought &eBronze Bowl&a for $1500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  prev:
+    material: ARROW
+    slot: 45
+    display_name: "&ePrevious page"
+    left_click_commands:
+    - "[openguimenu] heads"
+  back:
+    material: BARRIER
+    slot: 49
+    display_name: "&cBack to /shop"
+    left_click_commands:
+    - "[close]"
+    - "[player] shop"

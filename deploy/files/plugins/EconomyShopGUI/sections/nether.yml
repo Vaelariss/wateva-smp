@@ -1,0 +1,15 @@
+enable: true
+slot: 14
+title: " &8>> &5&lNether &r&8<< "
+sub-section: false
+hidden: false
+display-item: false
+economy: VAULT
+item:
+  material: NETHERRACK
+  name: '&5&lNether'
+  lore:
+  - "&7Netherrack, blackstone, quartz, fungus"
+fill-item:
+  material: BLACK_STAINED_GLASS_PANE
+  name: ' '

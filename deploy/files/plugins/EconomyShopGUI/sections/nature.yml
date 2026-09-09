@@ -1,0 +1,15 @@
+enable: true
+slot: 4
+title: " &8>> &2&lNature &r&8<< "
+sub-section: false
+hidden: false
+display-item: false
+economy: VAULT
+item:
+  material: MOSS_BLOCK
+  name: '&2&lNature'
+  lore:
+  - "&7Dirt, sand, leaves, flowers, coral, ice"
+fill-item:
+  material: BLACK_STAINED_GLASS_PANE
+  name: ' '

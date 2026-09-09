@@ -1,0 +1,15 @@
+enable: true
+slot: 10
+title: " &8>> &b&lOres &r&8<< "
+sub-section: false
+hidden: false
+display-item: false
+economy: VAULT
+item:
+  material: RAW_IRON
+  name: '&b&lOres'
+  lore:
+  - "&7Raw ores, ingots, gems, mineral blocks"
+fill-item:
+  material: BLACK_STAINED_GLASS_PANE
+  name: ' '

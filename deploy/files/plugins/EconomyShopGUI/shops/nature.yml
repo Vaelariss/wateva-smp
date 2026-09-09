@@ -1,0 +1,583 @@
+pages:
+  page1:
+    gui-rows: 6
+    title: "&2&lNature &8- Page 1"
+    items:
+      item1:
+        material: DIRT
+        buy: 15
+        sell: 5
+      item2:
+        material: GRASS_BLOCK
+        buy: 33
+        sell: 11
+      item3:
+        material: COARSE_DIRT
+        buy: 21
+        sell: 7
+      item4:
+        material: ROOTED_DIRT
+        buy: 30
+        sell: 10
+      item5:
+        material: PODZOL
+        buy: 45
+        sell: 15
+      item6:
+        material: MYCELIUM
+        buy: 90
+        sell: 30
+      item7:
+        material: SAND
+        buy: 24
+        sell: 8
+      item8:
+        material: RED_SAND
+        buy: 755
+        sell: 250
+      item9:
+        material: GRAVEL
+        buy: 27
+        sell: 9
+      item10:
+        material: CLAY_BALL
+        buy: 45
+        sell: 15
+      item11:
+        material: MOSS_BLOCK
+        buy: 7
+        sell: 2
+      item12:
+        material: MOSS_CARPET
+        buy: 4
+        sell: 1
+      item13:
+        material: PALE_MOSS_BLOCK
+        buy: 75
+        sell: 25
+      item14:
+        material: SNOW_BLOCK
+        buy: 45
+        sell: 15
+      item15:
+        material: SNOWBALL
+        buy: 6
+        sell: 2
+      item16:
+        material: ICE
+        buy: 750
+        sell: 250
+      item17:
+        material: PACKED_ICE
+        buy: 360
+        sell: 120
+      item18:
+        material: BLUE_ICE
+        buy: 3000
+        sell: 1000
+      item19:
+        material: OAK_SAPLING
+        buy: 60
+        sell: 20
+      item20:
+        material: SPRUCE_SAPLING
+        buy: 60
+        sell: 20
+      item21:
+        material: BIRCH_SAPLING
+        buy: 60
+        sell: 20
+      item22:
+        material: JUNGLE_SAPLING
+        buy: 60
+        sell: 20
+      item23:
+        material: ACACIA_SAPLING
+        buy: 60
+        sell: 20
+      item24:
+        material: DARK_OAK_SAPLING
+        buy: 335
+        sell: 110
+      item25:
+        material: MANGROVE_PROPAGULE
+        buy: 60
+        sell: 20
+      item26:
+        material: CHERRY_SAPLING
+        buy: 60
+        sell: 20
+      item27:
+        material: PALE_OAK_SAPLING
+        buy: 60
+        sell: 20
+      item28:
+        material: AZALEA
+        buy: 120
+        sell: 40
+      item29:
+        material: FLOWERING_AZALEA
+        buy: 180
+        sell: 60
+      item30:
+        material: OAK_LEAVES
+        buy: 45
+        sell: 15
+      item31:
+        material: CHERRY_LEAVES
+        buy: 3
+        sell: 1
+      item32:
+        material: AZALEA_LEAVES
+        buy: 15
+        sell: 5
+      item33:
+        material: FLOWERING_AZALEA_LEAVES
+        buy: 660
+        sell: 220
+      item34:
+        material: PALE_OAK_LEAVES
+        buy: 15
+        sell: 5
+      item35:
+        material: SHORT_GRASS
+        buy: 9
+        sell: 3
+      item36:
+        material: TALL_GRASS
+        buy: 15
+        sell: 5
+      item37:
+        material: FERN
+        buy: 15
+        sell: 5
+      item38:
+        material: LARGE_FERN
+        buy: 1205000
+        sell: 400000
+      item39:
+        material: DEAD_BUSH
+        buy: 15
+        sell: 5
+      item40:
+        material: BUSH
+        buy: 30
+        sell: 10
+      item41:
+        material: FIREFLY_BUSH
+        buy: 120
+        sell: 40
+      item42:
+        material: SHORT_DRY_GRASS
+        buy: 9
+        sell: 3
+      item43:
+        material: TALL_DRY_GRASS
+        buy: 15
+        sell: 5
+      item44:
+        material: WILDFLOWERS
+        buy: 60
+        sell: 20
+      item45:
+        material: LEAF_LITTER
+        buy: 8
+        sell: 3
+  page2:
+    gui-rows: 6
+    title: "&2&lNature &8- Page 2"
+    items:
+      item1:
+        material: POPPY
+        buy: 8
+        sell: 3
+      item2:
+        material: DANDELION
+        buy: 45
+        sell: 15
+      item3:
+        material: BLUE_ORCHID
+        buy: 45
+        sell: 15
+      item4:
+        material: ALLIUM
+        buy: 3
+        sell: 1
+      item5:
+        material: AZURE_BLUET
+        buy: 3
+        sell: 1
+      item6:
+        material: RED_TULIP
+        buy: 45
+        sell: 15
+      item7:
+        material: ORANGE_TULIP
+        buy: 45
+        sell: 15
+      item8:
+        material: WHITE_TULIP
+        buy: 45
+        sell: 15
+      item9:
+        material: PINK_TULIP
+        buy: 140
+        sell: 46
+      item10:
+        material: OXEYE_DAISY
+        buy: 6
+        sell: 2
+      item11:
+        material: CORNFLOWER
+        buy: 21
+        sell: 7
+      item12:
+        material: LILY_OF_THE_VALLEY
+        buy: 30
+        sell: 10
+      item13:
+        material: SUNFLOWER
+        buy: 90
+        sell: 30
+      item14:
+        material: LILAC
+        buy: 90
+        sell: 30
+      item15:
+        material: ROSE_BUSH
+        buy: 90
+        sell: 30
+      item16:
+        material: PEONY
+        buy: 90
+        sell: 30
+      item17:
+        material: PINK_PETALS
+        buy: 3
+        sell: 1
+      item18:
+        material: OPEN_EYEBLOSSOM
+        buy: 90
+        sell: 30
+      item19:
+        material: CLOSED_EYEBLOSSOM
+        buy: 90
+        sell: 30
+      item20:
+        material: RED_MUSHROOM
+        buy: 90
+        sell: 30
+      item21:
+        material: BROWN_MUSHROOM
+        buy: 30
+        sell: 10
+      item22:
+        material: RED_MUSHROOM_BLOCK
+        buy: 60
+        sell: 20
+      item23:
+        material: BROWN_MUSHROOM_BLOCK
+        buy: 60
+        sell: 20
+      item24:
+        material: MUSHROOM_STEM
+        buy: 900
+        sell: 300
+      item25:
+        material: VINE
+        buy: 45
+        sell: 15
+      item26:
+        material: GLOW_LICHEN
+        buy: 15
+        sell: 5
+      item27:
+        material: LILY_PAD
+        buy: 75
+        sell: 25
+      item28:
+        material: SEAGRASS
+        buy: 11
+        sell: 4
+      item29:
+        material: SEA_PICKLE
+        buy: 3
+        sell: 1
+      item30:
+        material: CACTUS_FLOWER
+        buy: 90
+        sell: 30
+      item31:
+        material: BIG_DRIPLEAF
+        buy: 90
+        sell: 30
+      item32:
+        material: SMALL_DRIPLEAF
+        buy: 90
+        sell: 30
+      item33:
+        material: SPORE_BLOSSOM
+        buy: 9000
+        sell: 3000
+      item34:
+        material: HANGING_ROOTS
+        buy: 45
+        sell: 15
+      item35:
+        material: POINTED_DRIPSTONE
+        buy: 90
+        sell: 30
+      item36:
+        material: TUBE_CORAL
+        buy: 120
+        sell: 40
+      item37:
+        material: BRAIN_CORAL
+        buy: 120
+        sell: 40
+      item38:
+        material: BUBBLE_CORAL
+        buy: 120
+        sell: 40
+      item39:
+        material: FIRE_CORAL
+        buy: 120
+        sell: 40
+      item40:
+        material: HORN_CORAL
+        buy: 120
+        sell: 40
+      item41:
+        material: TUBE_CORAL_BLOCK
+        buy: 180
+        sell: 60
+      item42:
+        material: BRAIN_CORAL_BLOCK
+        buy: 180
+        sell: 60
+      item43:
+        material: BUBBLE_CORAL_BLOCK
+        buy: 180
+        sell: 60
+      item44:
+        material: FIRE_CORAL_BLOCK
+        buy: 180
+        sell: 60
+      item45:
+        material: HORN_CORAL_BLOCK
+        buy: 180
+        sell: 60
+  page3:
+    gui-rows: 6
+    title: "&2&lNature &8- Page 3"
+    items:
+      item1:
+        material: SCULK
+        buy: 300
+        sell: 100
+      item2:
+        material: SCULK_VEIN
+        buy: 150
+        sell: 50
+      item3:
+        material: SCULK_CATALYST
+        buy: 270
+        sell: 90
+      item4:
+        material: SCULK_SHRIEKER
+        buy: 26000
+        sell: 8600
+      item5:
+        material: RESIN_BLOCK
+        buy: 810
+        sell: 270
+      item6:
+        material: FLINT
+        buy: 13
+        sell: 4
+      item7:
+        material: CLAY
+        buy: 180
+        sell: 60
+      item8:
+        material: MANGROVE_ROOTS
+        buy: 30
+        sell: 10
+      item9:
+        material: MUD
+        buy: 30
+        sell: 10
+      item10:
+        material: MUDDY_MANGROVE_ROOTS
+        buy: 45
+        sell: 15
+      item11:
+        material: PACKED_MUD
+        buy: 330
+        sell: 110
+      item12:
+        material: PALE_HANGING_MOSS
+        buy: 60
+        sell: 20
+      item13:
+        material: PALE_MOSS_CARPET
+        buy: 50
+        sell: 17
+      item14:
+        material: RESIN_BRICK
+        buy: 99
+        sell: 33
+      item15:
+        material: SNOW
+        buy: 22
+        sell: 8
+      item16:
+        material: ACACIA_LEAVES
+        buy: 15
+        sell: 5
+        hidden: true
+      item17:
+        material: BIRCH_LEAVES
+        buy: 15
+        sell: 5
+        hidden: true
+      item18:
+        material: BRAIN_CORAL_FAN
+        buy: 120
+        sell: 40
+        hidden: true
+      item19:
+        material: BUBBLE_CORAL_FAN
+        buy: 120
+        sell: 40
+        hidden: true
+      item20:
+        material: DARK_OAK_LEAVES
+        buy: 155
+        sell: 51
+        hidden: true
+      item21:
+        material: DEAD_BRAIN_CORAL
+        buy: 30
+        sell: 10
+        hidden: true
+      item22:
+        material: DEAD_BRAIN_CORAL_BLOCK
+        buy: 45
+        sell: 15
+        hidden: true
+      item23:
+        material: DEAD_BRAIN_CORAL_FAN
+        buy: 30
+        sell: 10
+        hidden: true
+      item24:
+        material: DEAD_BUBBLE_CORAL
+        buy: 30
+        sell: 10
+        hidden: true
+      item25:
+        material: DEAD_BUBBLE_CORAL_BLOCK
+        buy: 45
+        sell: 15
+        hidden: true
+      item26:
+        material: DEAD_BUBBLE_CORAL_FAN
+        buy: 30
+        sell: 10
+        hidden: true
+      item27:
+        material: DEAD_FIRE_CORAL
+        buy: 30
+        sell: 10
+        hidden: true
+      item28:
+        material: DEAD_FIRE_CORAL_BLOCK
+        buy: 45
+        sell: 15
+        hidden: true
+      item29:
+        material: DEAD_FIRE_CORAL_FAN
+        buy: 30
+        sell: 10
+        hidden: true
+      item30:
+        material: DEAD_HORN_CORAL
+        buy: 30
+        sell: 10
+        hidden: true
+      item31:
+        material: DEAD_HORN_CORAL_BLOCK
+        buy: 45
+        sell: 15
+        hidden: true
+      item32:
+        material: DEAD_HORN_CORAL_FAN
+        buy: 1950
+        sell: 650
+        hidden: true
+      item33:
+        material: DEAD_TUBE_CORAL
+        buy: 30
+        sell: 10
+        hidden: true
+      item34:
+        material: DEAD_TUBE_CORAL_BLOCK
+        buy: 45
+        sell: 15
+        hidden: true
+      item35:
+        material: DEAD_TUBE_CORAL_FAN
+        buy: 30
+        sell: 10
+        hidden: true
+      item36:
+        material: FIRE_CORAL_FAN
+        buy: 120
+        sell: 40
+        hidden: true
+      item37:
+        material: HORN_CORAL_FAN
+        buy: 120
+        sell: 40
+        hidden: true
+      item38:
+        material: JUNGLE_LEAVES
+        buy: 15
+        sell: 5
+        hidden: true
+      item39:
+        material: MANGROVE_LEAVES
+        buy: 15
+        sell: 5
+        hidden: true
+      item40:
+        material: RESIN_BRICK_SLAB
+        buy: 200
+        sell: 66
+        hidden: true
+      item41:
+        material: RESIN_BRICK_STAIRS
+        buy: 395
+        sell: 130
+        hidden: true
+      item42:
+        material: RESIN_BRICK_WALL
+        buy: 395
+        sell: 130
+        hidden: true
+      item43:
+        material: RESIN_BRICKS
+        buy: 395
+        sell: 130
+        hidden: true
+      item44:
+        material: SPRUCE_LEAVES
+        buy: 15
+        sell: 5
+        hidden: true
+      item45:
+        material: TUBE_CORAL_FAN
+        buy: 120
+        sell: 40
+        hidden: true

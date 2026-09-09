@@ -1,0 +1,15 @@
+enable: true
+slot: 7
+title: " &8>> &4&lRedstone &r&8<< "
+sub-section: false
+hidden: false
+display-item: false
+economy: VAULT
+item:
+  material: REDSTONE
+  name: '&4&lRedstone'
+  lore:
+  - "&7Redstone, rails, storage, workstations"
+fill-item:
+  material: BLACK_STAINED_GLASS_PANE
+  name: ' '

@@ -1,0 +1,15 @@
+enable: true
+slot: 23
+title: " &8>> &6&lSpawners &r&8<< "
+sub-section: false
+hidden: false
+display-item: false
+economy: VAULT
+item:
+  material: SPAWNER
+  name: '&6&lSpawners'
+  lore:
+  - "&7The long-term investment"
+fill-item:
+  material: BLACK_STAINED_GLASS_PANE
+  name: ' '

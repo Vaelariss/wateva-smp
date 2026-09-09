@@ -1,0 +1,15 @@
+enable: true
+slot: 12
+title: " &8>> &6&lFood &r&8<< "
+sub-section: false
+hidden: false
+display-item: false
+economy: VAULT
+item:
+  material: COOKED_BEEF
+  name: '&6&lFood'
+  lore:
+  - "&7Cooked and crafted food"
+fill-item:
+  material: BLACK_STAINED_GLASS_PANE
+  name: ' '

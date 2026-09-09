@@ -1,0 +1,200 @@
+pages:
+  page1:
+    gui-rows: 6
+    title: "&e&lDecoration &8- Page 1"
+    items:
+      item1:
+        material: TORCH
+        buy: 46
+        sell: 16
+      item2:
+        material: LANTERN
+        buy: 315
+        sell: 105
+      item3:
+        material: GLASS
+        buy: 65
+        sell: 22
+      item4:
+        material: GLASS_PANE
+        buy: 66
+        sell: 22
+      item5:
+        material: TINTED_GLASS
+        buy: 900
+        sell: 300
+      item6:
+        material: SEA_LANTERN
+        buy: 2400
+        sell: 800
+      item7:
+        material: CANDLE
+        buy: 150
+        sell: 50
+      item8:
+        material: ITEM_FRAME
+        buy: 290
+        sell: 96
+      item9:
+        material: GLOW_ITEM_FRAME
+        buy: 1500
+        sell: 500
+      item10:
+        material: PAINTING
+        buy: 140
+        sell: 46
+      item11:
+        material: ARMOR_STAND
+        buy: 64
+        sell: 21
+      item12:
+        material: FLOWER_POT
+        buy: 150
+        sell: 50
+      item13:
+        material: DECORATED_POT
+        buy: 200
+        sell: 66
+      item14:
+        material: BOOKSHELF
+        buy: 1500
+        sell: 500
+      item15:
+        material: CHISELED_BOOKSHELF
+        buy: 110
+        sell: 38
+      item16:
+        material: LECTERN
+        buy: 1550
+        sell: 510
+      item17:
+        material: BELL
+        buy: 5400
+        sell: 1800
+      item18:
+        material: CAMPFIRE
+        buy: 380
+        sell: 125
+      item19:
+        material: SCAFFOLDING
+        buy: 42
+        sell: 14
+      item20:
+        material: IRON_BARS
+        buy: 110
+        sell: 38
+      item21:
+        material: IRON_CHAIN
+        buy: 365
+        sell: 120
+      item22:
+        material: JACK_O_LANTERN
+        buy: 795
+        sell: 265
+      item23:
+        material: OCHRE_FROGLIGHT
+        buy: 750
+        sell: 250
+      item24:
+        material: VERDANT_FROGLIGHT
+        buy: 300
+        sell: 100
+      item25:
+        material: PEARLESCENT_FROGLIGHT
+        buy: 900
+        sell: 300
+      item26:
+        material: BOOK
+        buy: 600
+        sell: 200
+      item27:
+        material: IRON_DOOR
+        buy: 600
+        sell: 200
+      item28:
+        material: IRON_TRAPDOOR
+        buy: 1200
+        sell: 400
+      item29:
+        material: PAPER
+        buy: 120
+        sell: 40
+      item30:
+        material: SMOOTH_STONE
+        buy: 49
+        sell: 16
+      item31:
+        material: CHISELED_CINNABAR
+        buy: 45
+        sell: 15
+        hidden: true
+      item32:
+        material: CHISELED_DEEPSLATE
+        buy: 15
+        sell: 5
+        hidden: true
+      item33:
+        material: CHISELED_RED_SANDSTONE
+        buy: 3000
+        sell: 1000
+        hidden: true
+      item34:
+        material: CHISELED_RESIN_BRICKS
+        buy: 395
+        sell: 130
+        hidden: true
+      item35:
+        material: CHISELED_SANDSTONE
+        buy: 96
+        sell: 32
+        hidden: true
+      item36:
+        material: CHISELED_STONE_BRICKS
+        buy: 18
+        sell: 6
+        hidden: true
+      item37:
+        material: CHISELED_SULFUR
+        buy: 45
+        sell: 15
+        hidden: true
+      item38:
+        material: CHISELED_TUFF
+        buy: 3
+        sell: 1
+        hidden: true
+      item39:
+        material: CHISELED_TUFF_BRICKS
+        buy: 3
+        sell: 1
+        hidden: true
+      item40:
+        material: CUT_RED_SANDSTONE
+        buy: 3000
+        sell: 1000
+        hidden: true
+      item41:
+        material: CUT_SANDSTONE
+        buy: 96
+        sell: 32
+        hidden: true
+      item42:
+        material: WAXED_COPPER_GOLEM_STATUE
+        buy: 1100
+        sell: 360
+        hidden: true
+      item43:
+        material: WAXED_EXPOSED_COPPER_GOLEM_STATUE
+        buy: 1100
+        sell: 360
+        hidden: true
+      item44:
+        material: WAXED_OXIDIZED_COPPER_GOLEM_STATUE
+        buy: 1100
+        sell: 360
+        hidden: true
+      item45:
+        material: WAXED_WEATHERED_COPPER_GOLEM_STATUE
+        buy: 1100
+        sell: 360
+        hidden: true

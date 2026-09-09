@@ -1,0 +1,318 @@
+pages:
+  page1:
+    gui-rows: 6
+    title: "&5&lNether &8- Page 1"
+    items:
+      item1:
+        material: NETHERRACK
+        buy: 21
+        sell: 5
+      item2:
+        material: SOUL_SAND
+        buy: 4
+        sell: 1
+      item3:
+        material: SOUL_SOIL
+        buy: 120
+        sell: 30
+      item4:
+        material: BASALT
+        buy: 24
+        sell: 6
+      item5:
+        material: SMOOTH_BASALT
+        buy: 40
+        sell: 10
+      item6:
+        material: BLACKSTONE
+        buy: 32
+        sell: 8
+      item7:
+        material: POLISHED_BLACKSTONE
+        buy: 32
+        sell: 8
+      item8:
+        material: POLISHED_BLACKSTONE_BRICKS
+        buy: 115
+        sell: 29
+      item9:
+        material: GILDED_BLACKSTONE
+        buy: 1210000
+        sell: 300000
+      item10:
+        material: NETHER_BRICKS
+        buy: 160
+        sell: 40
+      item11:
+        material: RED_NETHER_BRICKS
+        buy: 680
+        sell: 170
+      item12:
+        material: NETHER_BRICK
+        buy: 40
+        sell: 10
+      item13:
+        material: QUARTZ_BLOCK
+        buy: 2000
+        sell: 500
+      item14:
+        material: QUARTZ_BRICKS
+        buy: 2000
+        sell: 500
+      item15:
+        material: QUARTZ_PILLAR
+        buy: 2000
+        sell: 500
+      item16:
+        material: GLOWSTONE
+        buy: 160
+        sell: 40
+      item17:
+        material: GLOWSTONE_DUST
+        buy: 40
+        sell: 10
+      item18:
+        material: SHROOMLIGHT
+        buy: 8000
+        sell: 2000
+      item19:
+        material: MAGMA_BLOCK
+        buy: 200
+        sell: 50
+      item20:
+        material: NETHER_WART_BLOCK
+        buy: 2700
+        sell: 675
+      item21:
+        material: WARPED_WART_BLOCK
+        buy: 800
+        sell: 200
+      item22:
+        material: CRIMSON_NYLIUM
+        buy: 8
+        sell: 2
+      item23:
+        material: WARPED_NYLIUM
+        buy: 100
+        sell: 25
+      item24:
+        material: CRIMSON_FUNGUS
+        buy: 120
+        sell: 30
+      item25:
+        material: WARPED_FUNGUS
+        buy: 120
+        sell: 30
+      item26:
+        material: CRIMSON_ROOTS
+        buy: 40
+        sell: 10
+      item27:
+        material: WARPED_ROOTS
+        buy: 8
+        sell: 2
+      item28:
+        material: NETHER_SPROUTS
+        buy: 40
+        sell: 10
+      item29:
+        material: WEEPING_VINES
+        buy: 80
+        sell: 20
+      item30:
+        material: TWISTING_VINES
+        buy: 80
+        sell: 20
+      item31:
+        material: MAGMA_CREAM
+        buy: 600
+        sell: 150
+      item32:
+        material: LODESTONE
+        buy: 1950
+        sell: 490
+      item33:
+        material: RESPAWN_ANCHOR
+        buy: 23500
+        sell: 5850
+      item34:
+        material: CRYING_OBSIDIAN
+        buy: 1000
+        sell: 250
+      item35:
+        material: NETHER_GOLD_ORE
+        buy: 770
+        sell: 190
+      item36:
+        material: NETHER_QUARTZ_ORE
+        buy: 2000
+        sell: 500
+      item37:
+        material: NETHER_WART
+        buy: 300
+        sell: 75
+      item38:
+        material: QUARTZ
+        buy: 800
+        sell: 200
+      item39:
+        material: SOUL_CAMPFIRE
+        buy: 270
+        sell: 67
+      item40:
+        material: SOUL_LANTERN
+        buy: 420
+        sell: 105
+      item41:
+        material: SOUL_TORCH
+        buy: 63
+        sell: 16
+      item42:
+        material: SMOOTH_QUARTZ
+        buy: 2200
+        sell: 550
+        hidden: true
+      item43:
+        material: BLACKSTONE_SLAB
+        buy: 16
+        sell: 4
+        hidden: true
+      item44:
+        material: BLACKSTONE_STAIRS
+        buy: 32
+        sell: 8
+        hidden: true
+      item45:
+        material: BLACKSTONE_WALL
+        buy: 32
+        sell: 8
+        hidden: true
+  page2:
+    gui-rows: 6
+    title: "&5&lNether &8- Page 2"
+    items:
+      item1:
+        material: CHISELED_NETHER_BRICKS
+        buy: 160
+        sell: 40
+        hidden: true
+      item2:
+        material: CHISELED_POLISHED_BLACKSTONE
+        buy: 32
+        sell: 8
+        hidden: true
+      item3:
+        material: CHISELED_QUARTZ_BLOCK
+        buy: 2000
+        sell: 500
+        hidden: true
+      item4:
+        material: CRACKED_NETHER_BRICKS
+        buy: 175
+        sell: 44
+        hidden: true
+      item5:
+        material: CRACKED_POLISHED_BLACKSTONE_BRICKS
+        buy: 415
+        sell: 105
+        hidden: true
+      item6:
+        material: NETHER_BRICK_SLAB
+        buy: 80
+        sell: 20
+        hidden: true
+      item7:
+        material: NETHER_BRICK_STAIRS
+        buy: 160
+        sell: 40
+        hidden: true
+      item8:
+        material: NETHER_BRICK_WALL
+        buy: 160
+        sell: 40
+        hidden: true
+      item9:
+        material: NETHER_BRICK_FENCE
+        buy: 120
+        sell: 30
+        hidden: true
+      item10:
+        material: POLISHED_BASALT
+        buy: 24
+        sell: 6
+        hidden: true
+      item11:
+        material: POLISHED_BLACKSTONE_BRICK_SLAB
+        buy: 16
+        sell: 4
+        hidden: true
+      item12:
+        material: POLISHED_BLACKSTONE_BRICK_STAIRS
+        buy: 32
+        sell: 8
+        hidden: true
+      item13:
+        material: POLISHED_BLACKSTONE_BRICK_WALL
+        buy: 32
+        sell: 8
+        hidden: true
+      item14:
+        material: POLISHED_BLACKSTONE_SLAB
+        buy: 16
+        sell: 4
+        hidden: true
+      item15:
+        material: POLISHED_BLACKSTONE_STAIRS
+        buy: 32
+        sell: 8
+        hidden: true
+      item16:
+        material: POLISHED_BLACKSTONE_WALL
+        buy: 32
+        sell: 8
+        hidden: true
+      item17:
+        material: POLISHED_BLACKSTONE_BUTTON
+        buy: 32
+        sell: 8
+        hidden: true
+      item18:
+        material: POLISHED_BLACKSTONE_PRESSURE_PLATE
+        buy: 64
+        sell: 16
+        hidden: true
+      item19:
+        material: QUARTZ_SLAB
+        buy: 1000
+        sell: 250
+        hidden: true
+      item20:
+        material: QUARTZ_STAIRS
+        buy: 2000
+        sell: 500
+        hidden: true
+      item21:
+        material: RED_NETHER_BRICK_SLAB
+        buy: 340
+        sell: 85
+        hidden: true
+      item22:
+        material: RED_NETHER_BRICK_STAIRS
+        buy: 680
+        sell: 170
+        hidden: true
+      item23:
+        material: RED_NETHER_BRICK_WALL
+        buy: 680
+        sell: 170
+        hidden: true
+      item24:
+        material: SMOOTH_QUARTZ_SLAB
+        buy: 1100
+        sell: 275
+        hidden: true
+      item25:
+        material: SMOOTH_QUARTZ_STAIRS
+        buy: 2200
+        sell: 550
+        hidden: true

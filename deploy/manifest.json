@@ -1,0 +1,239 @@
+{
+ "files": [
+  {
+   "dest": "plugins/DeluxeMenus/config.yml",
+   "size": 659,
+   "sha1": "d3f64e04c1eb4b8b465ee570ba18cecd531e04b0"
+  },
+  {
+   "dest": "plugins/DeluxeMenus/gui_menus/furniture.yml",
+   "size": 31288,
+   "sha1": "69cecd7e21a8cdf09ae2b57c45715414c9e2be02"
+  },
+  {
+   "dest": "plugins/DeluxeMenus/gui_menus/furniture2.yml",
+   "size": 31476,
+   "sha1": "ba82956cdab273b2ea367ad47ac1decec79d9ca6"
+  },
+  {
+   "dest": "plugins/DeluxeMenus/gui_menus/furniture3.yml",
+   "size": 31072,
+   "sha1": "87e3051f9950889509eb17c59042f61d77b30abc"
+  },
+  {
+   "dest": "plugins/DeluxeMenus/gui_menus/furniture4.yml",
+   "size": 31260,
+   "sha1": "361a1edcb5b210c260743da98decd9c15ad06961"
+  },
+  {
+   "dest": "plugins/DeluxeMenus/gui_menus/furniture5.yml",
+   "size": 31571,
+   "sha1": "d083f550f92810ea9afe4748a4c6a757ec899439"
+  },
+  {
+   "dest": "plugins/DeluxeMenus/gui_menus/furniture6.yml",
+   "size": 31079,
+   "sha1": "ba1a8fcd96c8cb978838eb0ec17e8e0414d146d3"
+  },
+  {
+   "dest": "plugins/DeluxeMenus/gui_menus/furniture7.yml",
+   "size": 5130,
+   "sha1": "e79b94729ee1ab931c308d53ac2d1722eacc6f66"
+  },
+  {
+   "dest": "plugins/DeluxeMenus/gui_menus/heads.yml",
+   "size": 48695,
+   "sha1": "2c7ed678d2a63bc7af32fdeedb4de14067eb58fb"
+  },
+  {
+   "dest": "plugins/DeluxeMenus/gui_menus/heads2.yml",
+   "size": 42502,
+   "sha1": "a4fb8f4385ce7e21f18476d19951ccaee5acb8fc"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/config.yml",
+   "size": 51714,
+   "sha1": "17e67e31a9930e36a28e22ccaedf24ba7d2b9cda"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/sections/building.yml",
+   "size": 313,
+   "sha1": "58d4166d22267388bdcbbb34777f2639c465c071"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/sections/colours.yml",
+   "size": 312,
+   "sha1": "869a3006934fad2aab55c7acb8d92dbe697dc033"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/sections/copper.yml",
+   "size": 303,
+   "sha1": "5024653926c4c249c0316d3e6c46f1ab127c61d4"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/sections/decoration.yml",
+   "size": 308,
+   "sha1": "e1b3e173f08d1d20960a128787c7c867152b73dd"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/sections/end.yml",
+   "size": 294,
+   "sha1": "76125e0c23c29c53fcc502ad61611e0ccd04a1ce"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/sections/farming.yml",
+   "size": 291,
+   "sha1": "47bd08ff92734bcff5eb1c0f02505ff6dd210b32"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/sections/food.yml",
+   "size": 286,
+   "sha1": "ee85508b401792fa2f265935be22894d49bcf830"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/sections/gear.yml",
+   "size": 306,
+   "sha1": "6b321f1a5126420eee28f19e4eaeb2f5730296e4"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/sections/mob_drops.yml",
+   "size": 296,
+   "sha1": "e9974211dadfaa8c99017f6fa054ab7083f40b1d"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/sections/nature.yml",
+   "size": 304,
+   "sha1": "888a465a96e0f3d1c095fc04d262ae620b26acae"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/sections/nether.yml",
+   "size": 304,
+   "sha1": "a1f794395a6d4f226655e35af4e014aea86887fc"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/sections/ores.yml",
+   "size": 298,
+   "sha1": "b08a78dfef51c270ec96037e809511e9ae2a3a66"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/sections/rare.yml",
+   "size": 287,
+   "sha1": "79609b71565b6685a0a23f5bc34878783093a5ca"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/sections/redstone.yml",
+   "size": 305,
+   "sha1": "b106095d33540e2b4cf58b2b79b3516bb5947e30"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/sections/spawners.yml",
+   "size": 291,
+   "sha1": "734e2c59673c22b15c16d8bc3d23a9ec4d207515"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/sections/wood.yml",
+   "size": 287,
+   "sha1": "6ba689a162f73460329fe34463cef7c43749dc2b"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/shops/building.yml",
+   "size": 21359,
+   "sha1": "ee5a8508db53313c9d7db5b03950e5499f0c96cc"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/shops/colours.yml",
+   "size": 20452,
+   "sha1": "73883413ea414ee3e551fb20b7e2cbc3bf542659"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/shops/copper.yml",
+   "size": 6726,
+   "sha1": "5be53b5f126a15a021bc4a74b3475ad8dd2ae423"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/shops/decoration.yml",
+   "size": 4252,
+   "sha1": "005ae32ca9faa302ab3a34227b05192916a74148"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/shops/end.yml",
+   "size": 1461,
+   "sha1": "e41e039bf2e1208e19df6ce8b496527146c04fec"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/shops/farming.yml",
+   "size": 3315,
+   "sha1": "569cab9e602f295e51dad50347374939e4b0b03b"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/shops/food.yml",
+   "size": 1386,
+   "sha1": "79a2b2df0290cabb20a7d4eedba5d5b0a2890458"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/shops/gear.yml",
+   "size": 14862,
+   "sha1": "8744288714957eec775ed1e743bbebeb560efcce"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/shops/mob_drops.yml",
+   "size": 3260,
+   "sha1": "fc5bf95110e6f56fb356e96e81d143f682a1932f"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/shops/nature.yml",
+   "size": 12021,
+   "sha1": "57d53abd73c36dd9c07bb263cce6650c48f24f3f"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/shops/nether.yml",
+   "size": 6903,
+   "sha1": "b273fa354ceac396b93d784d1eefe87ba77f02a1"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/shops/ores.yml",
+   "size": 4821,
+   "sha1": "ae6f6f2ea51ba11b017a78871da3762c4ffa0690"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/shops/rare.yml",
+   "size": 12035,
+   "sha1": "55462a6654ffd6529a31c52b7ffc814866d8eea9"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/shops/redstone.yml",
+   "size": 4286,
+   "sha1": "fe3a07b756a08842a91a68693375fe9730b417a4"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/shops/spawners.yml",
+   "size": 4894,
+   "sha1": "6c5886808a004c0dbd79f9bbcccea9b77b4d8c7b"
+  },
+  {
+   "dest": "plugins/EconomyShopGUI/shops/wood.yml",
+   "size": 20314,
+   "sha1": "226bd57bb3a13f22b512eaa51d2f044cbd1a7d11"
+  },
+  {
+   "dest": "plugins/Geyser-Spigot/custom_skulls.json",
+   "size": 6355,
+   "sha1": "9a19d1a741d85dbc2583a518771ce4a11a7b5c52"
+  },
+  {
+   "dest": "plugins/MyFurniture/config.yml",
+   "size": 1235,
+   "sha1": "430a4ca7d16a0b829a4095192c51d4a1df662b3f"
+  },
+  {
+   "dest": "plugins/WatevaGuide/config.yml",
+   "size": 3050,
+   "sha1": "c62e6485c6560808e9dedbbeb7ed19e2537a7fe7"
+  }
+ ],
+ "mirror": [
+  "plugins/EconomyShopGUI/sections",
+  "plugins/EconomyShopGUI/shops",
+  "plugins/DeluxeMenus/gui_menus"
+ ]
+}

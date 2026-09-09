@@ -1,0 +1,124 @@
+book:
+  title: "&e&lWATEVA Guide"
+  author: "WATEVA"
+  pages:
+    - |
+      &e&lWATEVA
+      &0Java + Bedrock survival
+
+      &8Type &1/guide&8 anytime to reopen this book.
+
+      &0Start here:
+      &1/rtp&0 - go to the wild
+      &1/sethome&0 - save your base
+      &1/home&0 - go back
+      &1/spawn&0 - the hub
+    - |
+      &e&lMoney
+
+      &1/shop&0 - buy + sell
+      &1/sellall hand&0 - quick sell
+      &1/ah&0 - player market
+      &1/bal /pay /baltop
+
+      &0Mob drops sell well. Spawners = long-term money.
+    - |
+      &e&lProgression
+
+      &1/skills&0 - RPG skills + mana
+      &1/jobs browse&0 - get paid to play
+      &1/quests&0 - daily quests
+      &1/playtime&0 - your time
+    - |
+      &e&lTeams
+
+      &1/team create <name>
+      &1/team invite <player>
+      &1/team ally <team>
+      &1/team sethome&0 + &1home
+      &1/team warp set <name> <password>&0 - secret spots!
+      &1/team chat
+    - |
+      &e&lTech + Crafting
+
+      &1/recipes&0 - EVERY custom recipe, searchable
+      &1/sf guide&0 - Slimefun: 550+ machines
+      &1/furniture&0 - buy 100+ pieces (Java)
+      &0Stonecutter + a LOG = chairs, tables (Java + Bedrock)
+      &1/heads&0 - decor heads, everyone sees them
+      &1/createmap <url>&0 - picture on a map
+    - |
+      &e&lFun
+
+      &1/coinflip <amount>&0 - gamble
+      &1/bounty <player> <amt>&0 - price on their head
+      &1/gmenu&0 - cosmetics
+      &1/sit&0 - or right-click stairs
+      &1/skin <name>&0 - new skin
+
+      &0Casino + crates + chess: at spawn!
+    - |
+      &e&lRules
+
+      &0Spawn is protected.
+      &0Griefing is logged + rolled back.
+      &0Anticheat is on.
+
+      &0Night sky events are real - look up after dark.
+
+      &e&lHave fun!
+
+adminbook:
+  title: "&c&lWATEVA Admin"
+  author: "WATEVA"
+  pages:
+    - |
+      &c&lADMIN GUIDE
+      &0Type &4/adminguide&0 anytime.
+
+      &0Moderation:
+      &4/co inspect&0 - who did it
+      &4/co rollback u:<name> t:1h
+      &4/openinv <player>
+      &4/grim alerts
+      &4/maintenance on|off
+    - |
+      &c&lBuilding
+
+      &4//wand&0 - select corners
+      &4//set <block>
+      &4//paste /undo
+      &4/rg define <name>
+      &4/rg flag <name> build deny
+      &4/dh create <name>&0 - holograms
+    - |
+      &c&lNPCs + Crates
+
+      &4/npc create <name>
+      &4/npc skin <name> <player>
+      &4/npc action <n> right_click add player_command <cmd>
+      &4/crazycrates&0 - crate admin
+    - |
+      &c&lEconomy + Ranks
+
+      &4/eco give|take|reset
+      &4/editshop&0 - shop prices
+      &4/lp&0 - permissions
+      &4/mm mobs spawn&0 - bosses
+      &4/mv tp <world>&0 - worlds
+    - |
+      &c&lWhen lag hits
+
+      &4spark tps&0 - check first
+      &4spark profiler start&0 then
+      &4spark profiler stop
+      &0Server restarts fix most things. 2-3 min warmup after.
+
+recipes:
+  price: 100
+  unlock-on-join: true
+  ignored-namespaces:
+  - paper
+  - bukkit
+  - recipeviewer
+  - craftbukkit

@@ -1,0 +1,969 @@
+menu_title: "&e&lFurniture &8- 5/7"
+open_command: [furniture5]
+register_command: true
+size: 54
+items:
+  f0:
+    material: ITEM_FRAME
+    slot: 0
+    display_name: "&eMangrove Mirror"
+    lore:
+    - "&7Price: &a$500"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 500
+          deny_commands:
+          - "[message] &cYou need $500 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 500"
+    - "[console] mf give %player_name% mangrove_mirror 1"
+    - "[message] &aBought &eMangrove Mirror&a for $500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f1:
+    material: ITEM_FRAME
+    slot: 1
+    display_name: "&eOak Mirror"
+    lore:
+    - "&7Price: &a$500"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 500
+          deny_commands:
+          - "[message] &cYou need $500 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 500"
+    - "[console] mf give %player_name% oak_mirror 1"
+    - "[message] &aBought &eOak Mirror&a for $500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f2:
+    material: ITEM_FRAME
+    slot: 2
+    display_name: "&eSpruce Mirror"
+    lore:
+    - "&7Price: &a$500"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 500
+          deny_commands:
+          - "[message] &cYou need $500 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 500"
+    - "[console] mf give %player_name% spruce_mirror 1"
+    - "[message] &aBought &eSpruce Mirror&a for $500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f3:
+    material: ITEM_FRAME
+    slot: 3
+    display_name: "&eWarped Mirror"
+    lore:
+    - "&7Price: &a$500"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 500
+          deny_commands:
+          - "[message] &cYou need $500 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 500"
+    - "[console] mf give %player_name% warped_mirror 1"
+    - "[message] &aBought &eWarped Mirror&a for $500."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f4:
+    material: GLASS_PANE
+    slot: 4
+    display_name: "&eAcacia Standing Mirror"
+    lore:
+    - "&7Price: &a$600"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 600
+          deny_commands:
+          - "[message] &cYou need $600 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 600"
+    - "[console] mf give %player_name% acacia_standing_mirror 1"
+    - "[message] &aBought &eAcacia Standing Mirror&a for $600."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f5:
+    material: GLASS_PANE
+    slot: 5
+    display_name: "&eBamboo Standing Mirror"
+    lore:
+    - "&7Price: &a$600"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 600
+          deny_commands:
+          - "[message] &cYou need $600 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 600"
+    - "[console] mf give %player_name% bamboo_standing_mirror 1"
+    - "[message] &aBought &eBamboo Standing Mirror&a for $600."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f6:
+    material: GLASS_PANE
+    slot: 6
+    display_name: "&eBirch Standing Mirror"
+    lore:
+    - "&7Price: &a$600"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 600
+          deny_commands:
+          - "[message] &cYou need $600 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 600"
+    - "[console] mf give %player_name% birch_standing_mirror 1"
+    - "[message] &aBought &eBirch Standing Mirror&a for $600."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f7:
+    material: GLASS_PANE
+    slot: 7
+    display_name: "&eCherry Standing Mirror"
+    lore:
+    - "&7Price: &a$600"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 600
+          deny_commands:
+          - "[message] &cYou need $600 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 600"
+    - "[console] mf give %player_name% cherry_standing_mirror 1"
+    - "[message] &aBought &eCherry Standing Mirror&a for $600."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f8:
+    material: GLASS_PANE
+    slot: 8
+    display_name: "&eCrimson Standing Mirror"
+    lore:
+    - "&7Price: &a$600"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 600
+          deny_commands:
+          - "[message] &cYou need $600 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 600"
+    - "[console] mf give %player_name% crimson_standing_mirror 1"
+    - "[message] &aBought &eCrimson Standing Mirror&a for $600."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f9:
+    material: GLASS_PANE
+    slot: 9
+    display_name: "&eDark Oak Standing Mirror"
+    lore:
+    - "&7Price: &a$600"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 600
+          deny_commands:
+          - "[message] &cYou need $600 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 600"
+    - "[console] mf give %player_name% dark_oak_standing_mirror 1"
+    - "[message] &aBought &eDark Oak Standing Mirror&a for $600."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f10:
+    material: GLASS_PANE
+    slot: 10
+    display_name: "&eJungle Standing Mirror"
+    lore:
+    - "&7Price: &a$600"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 600
+          deny_commands:
+          - "[message] &cYou need $600 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 600"
+    - "[console] mf give %player_name% jungle_standing_mirror 1"
+    - "[message] &aBought &eJungle Standing Mirror&a for $600."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f11:
+    material: GLASS_PANE
+    slot: 11
+    display_name: "&eMangrove Standing Mirror"
+    lore:
+    - "&7Price: &a$600"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 600
+          deny_commands:
+          - "[message] &cYou need $600 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 600"
+    - "[console] mf give %player_name% mangrove_standing_mirror 1"
+    - "[message] &aBought &eMangrove Standing Mirror&a for $600."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f12:
+    material: GLASS_PANE
+    slot: 12
+    display_name: "&eOak Standing Mirror"
+    lore:
+    - "&7Price: &a$600"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 600
+          deny_commands:
+          - "[message] &cYou need $600 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 600"
+    - "[console] mf give %player_name% oak_standing_mirror 1"
+    - "[message] &aBought &eOak Standing Mirror&a for $600."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f13:
+    material: GLASS_PANE
+    slot: 13
+    display_name: "&eSpruce Standing Mirror"
+    lore:
+    - "&7Price: &a$600"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 600
+          deny_commands:
+          - "[message] &cYou need $600 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 600"
+    - "[console] mf give %player_name% spruce_standing_mirror 1"
+    - "[message] &aBought &eSpruce Standing Mirror&a for $600."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f14:
+    material: GLASS_PANE
+    slot: 14
+    display_name: "&eWarped Standing Mirror"
+    lore:
+    - "&7Price: &a$600"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 600
+          deny_commands:
+          - "[message] &cYou need $600 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 600"
+    - "[console] mf give %player_name% warped_standing_mirror 1"
+    - "[message] &aBought &eWarped Standing Mirror&a for $600."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f15:
+    material: OBSERVER
+    slot: 15
+    display_name: "&eBlack Computer"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% black_computer 1"
+    - "[message] &aBought &eBlack Computer&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f16:
+    material: OBSERVER
+    slot: 16
+    display_name: "&eBlack Laptop"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% black_laptop 1"
+    - "[message] &aBought &eBlack Laptop&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f17:
+    material: OBSERVER
+    slot: 17
+    display_name: "&eBlack Monitor"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% black_monitor 1"
+    - "[message] &aBought &eBlack Monitor&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f18:
+    material: OBSERVER
+    slot: 18
+    display_name: "&eBlue Computer"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% blue_computer 1"
+    - "[message] &aBought &eBlue Computer&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f19:
+    material: OBSERVER
+    slot: 19
+    display_name: "&eBlue Laptop"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% blue_laptop 1"
+    - "[message] &aBought &eBlue Laptop&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f20:
+    material: OBSERVER
+    slot: 20
+    display_name: "&eBrown Computer"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% brown_computer 1"
+    - "[message] &aBought &eBrown Computer&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f21:
+    material: OBSERVER
+    slot: 21
+    display_name: "&eBrown Laptop"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% brown_laptop 1"
+    - "[message] &aBought &eBrown Laptop&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f22:
+    material: OBSERVER
+    slot: 22
+    display_name: "&eCyan Computer"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% cyan_computer 1"
+    - "[message] &aBought &eCyan Computer&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f23:
+    material: OBSERVER
+    slot: 23
+    display_name: "&eCyan Laptop"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% cyan_laptop 1"
+    - "[message] &aBought &eCyan Laptop&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f24:
+    material: OBSERVER
+    slot: 24
+    display_name: "&eGray Computer"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% gray_computer 1"
+    - "[message] &aBought &eGray Computer&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f25:
+    material: OBSERVER
+    slot: 25
+    display_name: "&eGray Laptop"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% gray_laptop 1"
+    - "[message] &aBought &eGray Laptop&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f26:
+    material: OBSERVER
+    slot: 26
+    display_name: "&eGreen Computer"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% green_computer 1"
+    - "[message] &aBought &eGreen Computer&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f27:
+    material: OBSERVER
+    slot: 27
+    display_name: "&eGreen Laptop"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% green_laptop 1"
+    - "[message] &aBought &eGreen Laptop&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f28:
+    material: OBSERVER
+    slot: 28
+    display_name: "&eLight Blue Computer"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% lblue_computer 1"
+    - "[message] &aBought &eLight Blue Computer&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f29:
+    material: OBSERVER
+    slot: 29
+    display_name: "&eLight Blue Laptop"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% lblue_laptop 1"
+    - "[message] &aBought &eLight Blue Laptop&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f30:
+    material: OBSERVER
+    slot: 30
+    display_name: "&eLight Gray Computer"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% lgray_computer 1"
+    - "[message] &aBought &eLight Gray Computer&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f31:
+    material: OBSERVER
+    slot: 31
+    display_name: "&eLight Gray Laptop"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% lgray_laptop 1"
+    - "[message] &aBought &eLight Gray Laptop&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f32:
+    material: OBSERVER
+    slot: 32
+    display_name: "&eLime Computer"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% lime_computer 1"
+    - "[message] &aBought &eLime Computer&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f33:
+    material: OBSERVER
+    slot: 33
+    display_name: "&eLime Laptop"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% lime_laptop 1"
+    - "[message] &aBought &eLime Laptop&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f34:
+    material: OBSERVER
+    slot: 34
+    display_name: "&eMagenta Computer"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% magenta_computer 1"
+    - "[message] &aBought &eMagenta Computer&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f35:
+    material: OBSERVER
+    slot: 35
+    display_name: "&eMagenta Laptop"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% magenta_laptop 1"
+    - "[message] &aBought &eMagenta Laptop&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f36:
+    material: OBSERVER
+    slot: 36
+    display_name: "&eOrange Computer"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% orange_computer 1"
+    - "[message] &aBought &eOrange Computer&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f37:
+    material: OBSERVER
+    slot: 37
+    display_name: "&eOrange Laptop"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% orange_laptop 1"
+    - "[message] &aBought &eOrange Laptop&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f38:
+    material: OBSERVER
+    slot: 38
+    display_name: "&ePink Computer"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% pink_computer 1"
+    - "[message] &aBought &ePink Computer&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f39:
+    material: OBSERVER
+    slot: 39
+    display_name: "&ePink Laptop"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% pink_laptop 1"
+    - "[message] &aBought &ePink Laptop&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f40:
+    material: OBSERVER
+    slot: 40
+    display_name: "&ePurple Computer"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% purple_computer 1"
+    - "[message] &aBought &ePurple Computer&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f41:
+    material: OBSERVER
+    slot: 41
+    display_name: "&ePurple Laptop"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% purple_laptop 1"
+    - "[message] &aBought &ePurple Laptop&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f42:
+    material: OBSERVER
+    slot: 42
+    display_name: "&eRed Computer"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% red_computer 1"
+    - "[message] &aBought &eRed Computer&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f43:
+    material: OBSERVER
+    slot: 43
+    display_name: "&eRed Laptop"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% red_laptop 1"
+    - "[message] &aBought &eRed Laptop&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f44:
+    material: OBSERVER
+    slot: 44
+    display_name: "&eWhite Computer"
+    lore:
+    - "&7Price: &a$1200"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 1200
+          deny_commands:
+          - "[message] &cYou need $1200 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 1200"
+    - "[console] mf give %player_name% white_computer 1"
+    - "[message] &aBought &eWhite Computer&a for $1200."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  prev:
+    material: ARROW
+    slot: 45
+    display_name: "&ePrevious page"
+    left_click_commands:
+    - "[openguimenu] furniture4"
+  next:
+    material: ARROW
+    slot: 53
+    display_name: "&eNext page"
+    left_click_commands:
+    - "[openguimenu] furniture6"
+  back:
+    material: BARRIER
+    slot: 49
+    display_name: "&cBack to /shop"
+    left_click_commands:
+    - "[close]"
+    - "[player] shop"

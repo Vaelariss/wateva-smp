@@ -1,0 +1,15 @@
+enable: true
+slot: 21
+title: " &8>> &d&lRare &r&8<< "
+sub-section: false
+hidden: false
+display-item: false
+economy: VAULT
+item:
+  material: NETHER_STAR
+  name: '&d&lRare'
+  lore:
+  - "&7Sell your treasures here"
+fill-item:
+  material: BLACK_STAINED_GLASS_PANE
+  name: ' '

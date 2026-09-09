@@ -1,0 +1,165 @@
+menu_title: "&e&lFurniture &8- 7/7"
+open_command: [furniture7]
+register_command: true
+size: 54
+items:
+  f0:
+    material: CAULDRON
+    slot: 0
+    display_name: "&eGolden Toilet"
+    lore:
+    - "&7Price: &a$700"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 700
+          deny_commands:
+          - "[message] &cYou need $700 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 700"
+    - "[console] mf give %player_name% golden_toilet 1"
+    - "[message] &aBought &eGolden Toilet&a for $700."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f1:
+    material: CAULDRON
+    slot: 1
+    display_name: "&eJungle Toilet"
+    lore:
+    - "&7Price: &a$700"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 700
+          deny_commands:
+          - "[message] &cYou need $700 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 700"
+    - "[console] mf give %player_name% jungle_toilet 1"
+    - "[message] &aBought &eJungle Toilet&a for $700."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f2:
+    material: CAULDRON
+    slot: 2
+    display_name: "&eMangrove Toilet"
+    lore:
+    - "&7Price: &a$700"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 700
+          deny_commands:
+          - "[message] &cYou need $700 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 700"
+    - "[console] mf give %player_name% mangrove_toilet 1"
+    - "[message] &aBought &eMangrove Toilet&a for $700."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f3:
+    material: CAULDRON
+    slot: 3
+    display_name: "&eOak Toilet"
+    lore:
+    - "&7Price: &a$700"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 700
+          deny_commands:
+          - "[message] &cYou need $700 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 700"
+    - "[console] mf give %player_name% oak_toilet 1"
+    - "[message] &aBought &eOak Toilet&a for $700."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f4:
+    material: CAULDRON
+    slot: 4
+    display_name: "&eSpruce Toilet"
+    lore:
+    - "&7Price: &a$700"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 700
+          deny_commands:
+          - "[message] &cYou need $700 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 700"
+    - "[console] mf give %player_name% spruce_toilet 1"
+    - "[message] &aBought &eSpruce Toilet&a for $700."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f5:
+    material: CAULDRON
+    slot: 5
+    display_name: "&eWarped Toilet"
+    lore:
+    - "&7Price: &a$700"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 700
+          deny_commands:
+          - "[message] &cYou need $700 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 700"
+    - "[console] mf give %player_name% warped_toilet 1"
+    - "[message] &aBought &eWarped Toilet&a for $700."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f6:
+    material: CAULDRON
+    slot: 6
+    display_name: "&eWhite Toilet"
+    lore:
+    - "&7Price: &a$700"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 700
+          deny_commands:
+          - "[message] &cYou need $700 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 700"
+    - "[console] mf give %player_name% white_toilet 1"
+    - "[message] &aBought &eWhite Toilet&a for $700."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  prev:
+    material: ARROW
+    slot: 45
+    display_name: "&ePrevious page"
+    left_click_commands:
+    - "[openguimenu] furniture6"
+  back:
+    material: BARRIER
+    slot: 49
+    display_name: "&cBack to /shop"
+    left_click_commands:
+    - "[close]"
+    - "[player] shop"

@@ -1,0 +1,15 @@
+enable: true
+slot: 3
+title: " &8>> &c&lCopper &r&8<< "
+sub-section: false
+hidden: false
+display-item: false
+economy: VAULT
+item:
+  material: COPPER_BLOCK
+  name: '&c&lCopper'
+  lore:
+  - "&7Copper blocks, bulbs, grates, chests"
+fill-item:
+  material: BLACK_STAINED_GLASS_PANE
+  name: ' '

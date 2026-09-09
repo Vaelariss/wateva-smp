@@ -1,0 +1,15 @@
+enable: true
+slot: 2
+title: " &8>> &6&lWood &r&8<< "
+sub-section: false
+hidden: false
+display-item: false
+economy: VAULT
+item:
+  material: OAK_LOG
+  name: '&6&lWood'
+  lore:
+  - "&7Logs and planks of every tree"
+fill-item:
+  material: BLACK_STAINED_GLASS_PANE
+  name: ' '

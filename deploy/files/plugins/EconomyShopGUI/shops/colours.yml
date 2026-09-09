@@ -1,0 +1,949 @@
+pages:
+  page1:
+    gui-rows: 6
+    title: "&d&lColours &8- Page 1"
+    items:
+      item1:
+        material: WHITE_WOOL
+        buy: 150
+        sell: 50
+      item2:
+        material: ORANGE_WOOL
+        buy: 90
+        sell: 30
+      item3:
+        material: MAGENTA_WOOL
+        buy: 90
+        sell: 30
+      item4:
+        material: LIGHT_BLUE_WOOL
+        buy: 90
+        sell: 30
+      item5:
+        material: YELLOW_WOOL
+        buy: 90
+        sell: 30
+      item6:
+        material: LIME_WOOL
+        buy: 90
+        sell: 30
+      item7:
+        material: GREEN_WOOL
+        buy: 90
+        sell: 30
+      item8:
+        material: CYAN_WOOL
+        buy: 90
+        sell: 30
+      item9:
+        material: LIGHT_GRAY_WOOL
+        buy: 90
+        sell: 30
+      item10:
+        material: GRAY_WOOL
+        buy: 90
+        sell: 30
+      item11:
+        material: PINK_WOOL
+        buy: 90
+        sell: 30
+      item12:
+        material: PURPLE_WOOL
+        buy: 90
+        sell: 30
+      item13:
+        material: BLUE_WOOL
+        buy: 90
+        sell: 30
+      item14:
+        material: BROWN_WOOL
+        buy: 90
+        sell: 30
+      item15:
+        material: RED_WOOL
+        buy: 90
+        sell: 30
+      item16:
+        material: BLACK_WOOL
+        buy: 90
+        sell: 30
+      item17:
+        material: WHITE_CARPET
+        buy: 90
+        sell: 30
+      item18:
+        material: ORANGE_CARPET
+        buy: 60
+        sell: 20
+      item19:
+        material: MAGENTA_CARPET
+        buy: 60
+        sell: 20
+      item20:
+        material: LIGHT_BLUE_CARPET
+        buy: 60
+        sell: 20
+      item21:
+        material: YELLOW_CARPET
+        buy: 60
+        sell: 20
+      item22:
+        material: LIME_CARPET
+        buy: 60
+        sell: 20
+      item23:
+        material: GREEN_CARPET
+        buy: 60
+        sell: 20
+      item24:
+        material: CYAN_CARPET
+        buy: 60
+        sell: 20
+      item25:
+        material: LIGHT_GRAY_CARPET
+        buy: 60
+        sell: 20
+      item26:
+        material: GRAY_CARPET
+        buy: 60
+        sell: 20
+      item27:
+        material: PINK_CARPET
+        buy: 60
+        sell: 20
+      item28:
+        material: PURPLE_CARPET
+        buy: 60
+        sell: 20
+      item29:
+        material: BLUE_CARPET
+        buy: 60
+        sell: 20
+      item30:
+        material: BROWN_CARPET
+        buy: 60
+        sell: 20
+      item31:
+        material: RED_CARPET
+        buy: 60
+        sell: 20
+      item32:
+        material: BLACK_CARPET
+        buy: 60
+        sell: 20
+      item33:
+        material: WHITE_CONCRETE
+        buy: 79
+        sell: 26
+      item34:
+        material: ORANGE_CONCRETE
+        buy: 78
+        sell: 26
+      item35:
+        material: MAGENTA_CONCRETE
+        buy: 26
+        sell: 9
+      item36:
+        material: LIGHT_BLUE_CONCRETE
+        buy: 78
+        sell: 26
+      item37:
+        material: YELLOW_CONCRETE
+        buy: 31
+        sell: 10
+      item38:
+        material: LIME_CONCRETE
+        buy: 70
+        sell: 23
+      item39:
+        material: GREEN_CONCRETE
+        buy: 42
+        sell: 14
+      item40:
+        material: CYAN_CONCRETE
+        buy: 95
+        sell: 32
+      item41:
+        material: LIGHT_GRAY_CONCRETE
+        buy: 70
+        sell: 23
+      item42:
+        material: GRAY_CONCRETE
+        buy: 75
+        sell: 25
+      item43:
+        material: PINK_CONCRETE
+        buy: 26
+        sell: 9
+      item44:
+        material: PURPLE_CONCRETE
+        buy: 74
+        sell: 25
+      item45:
+        material: BLUE_CONCRETE
+        buy: 76
+        sell: 25
+  page2:
+    gui-rows: 6
+    title: "&d&lColours &8- Page 2"
+    items:
+      item1:
+        material: BROWN_CONCRETE
+        buy: 34
+        sell: 11
+      item2:
+        material: RED_CONCRETE
+        buy: 27
+        sell: 9
+      item3:
+        material: BLACK_CONCRETE
+        buy: 70
+        sell: 23
+      item4:
+        material: WHITE_TERRACOTTA
+        buy: 64
+        sell: 21
+      item5:
+        material: ORANGE_TERRACOTTA
+        buy: 63
+        sell: 21
+      item6:
+        material: MAGENTA_TERRACOTTA
+        buy: 60
+        sell: 20
+      item7:
+        material: LIGHT_BLUE_TERRACOTTA
+        buy: 63
+        sell: 21
+      item8:
+        material: YELLOW_TERRACOTTA
+        buy: 66
+        sell: 22
+      item9:
+        material: LIME_TERRACOTTA
+        buy: 60
+        sell: 20
+      item10:
+        material: GREEN_TERRACOTTA
+        buy: 76
+        sell: 26
+      item11:
+        material: CYAN_TERRACOTTA
+        buy: 70
+        sell: 23
+      item12:
+        material: LIGHT_GRAY_TERRACOTTA
+        buy: 60
+        sell: 20
+      item13:
+        material: GRAY_TERRACOTTA
+        buy: 62
+        sell: 21
+      item14:
+        material: PINK_TERRACOTTA
+        buy: 60
+        sell: 20
+      item15:
+        material: PURPLE_TERRACOTTA
+        buy: 62
+        sell: 21
+      item16:
+        material: BLUE_TERRACOTTA
+        buy: 63
+        sell: 21
+      item17:
+        material: BROWN_TERRACOTTA
+        buy: 69
+        sell: 23
+      item18:
+        material: RED_TERRACOTTA
+        buy: 61
+        sell: 20
+      item19:
+        material: BLACK_TERRACOTTA
+        buy: 60
+        sell: 20
+      item20:
+        material: WHITE_STAINED_GLASS
+        buy: 185
+        sell: 62
+      item21:
+        material: ORANGE_STAINED_GLASS
+        buy: 185
+        sell: 61
+      item22:
+        material: MAGENTA_STAINED_GLASS
+        buy: 175
+        sell: 59
+      item23:
+        material: LIGHT_BLUE_STAINED_GLASS
+        buy: 185
+        sell: 61
+      item24:
+        material: YELLOW_STAINED_GLASS
+        buy: 190
+        sell: 63
+      item25:
+        material: LIME_STAINED_GLASS
+        buy: 175
+        sell: 59
+      item26:
+        material: GREEN_STAINED_GLASS
+        buy: 220
+        sell: 73
+      item27:
+        material: CYAN_STAINED_GLASS
+        buy: 200
+        sell: 67
+      item28:
+        material: LIGHT_GRAY_STAINED_GLASS
+        buy: 175
+        sell: 59
+      item29:
+        material: GRAY_STAINED_GLASS
+        buy: 180
+        sell: 60
+      item30:
+        material: PINK_STAINED_GLASS
+        buy: 175
+        sell: 59
+      item31:
+        material: PURPLE_STAINED_GLASS
+        buy: 180
+        sell: 60
+      item32:
+        material: BLUE_STAINED_GLASS
+        buy: 180
+        sell: 61
+      item33:
+        material: BROWN_STAINED_GLASS
+        buy: 200
+        sell: 66
+      item34:
+        material: RED_STAINED_GLASS
+        buy: 180
+        sell: 59
+      item35:
+        material: BLACK_STAINED_GLASS
+        buy: 175
+        sell: 59
+      item36:
+        material: WHITE_DYE
+        buy: 30
+        sell: 10
+      item37:
+        material: ORANGE_DYE
+        buy: 26
+        sell: 9
+      item38:
+        material: MAGENTA_DYE
+        buy: 3
+        sell: 1
+      item39:
+        material: LIGHT_BLUE_DYE
+        buy: 26
+        sell: 8
+      item40:
+        material: YELLOW_DYE
+        buy: 45
+        sell: 15
+      item41:
+        material: LIME_DYE
+        buy: 3
+        sell: 1
+      item42:
+        material: GREEN_DYE
+        buy: 130
+        sell: 44
+      item43:
+        material: CYAN_DYE
+        buy: 76
+        sell: 26
+      item44:
+        material: LIGHT_GRAY_DYE
+        buy: 3
+        sell: 1
+      item45:
+        material: GRAY_DYE
+        buy: 16
+        sell: 6
+  page3:
+    gui-rows: 6
+    title: "&d&lColours &8- Page 3"
+    items:
+      item1:
+        material: PINK_DYE
+        buy: 3
+        sell: 1
+      item2:
+        material: PURPLE_DYE
+        buy: 14
+        sell: 5
+      item3:
+        material: BLUE_DYE
+        buy: 21
+        sell: 7
+      item4:
+        material: BROWN_DYE
+        buy: 69
+        sell: 23
+      item5:
+        material: RED_DYE
+        buy: 8
+        sell: 3
+      item6:
+        material: BLACK_DYE
+        buy: 3
+        sell: 1
+      item7:
+        material: WHITE_BED
+        buy: 345
+        sell: 115
+      item8:
+        material: ORANGE_BED
+        buy: 315
+        sell: 105
+      item9:
+        material: MAGENTA_BED
+        buy: 315
+        sell: 105
+      item10:
+        material: LIGHT_BLUE_BED
+        buy: 315
+        sell: 105
+      item11:
+        material: YELLOW_BED
+        buy: 315
+        sell: 105
+      item12:
+        material: LIME_BED
+        buy: 315
+        sell: 105
+      item13:
+        material: GREEN_BED
+        buy: 315
+        sell: 105
+      item14:
+        material: CYAN_BED
+        buy: 315
+        sell: 105
+      item15:
+        material: LIGHT_GRAY_BED
+        buy: 315
+        sell: 105
+      item16:
+        material: GRAY_BED
+        buy: 315
+        sell: 105
+      item17:
+        material: PINK_BED
+        buy: 315
+        sell: 105
+      item18:
+        material: PURPLE_BED
+        buy: 315
+        sell: 105
+      item19:
+        material: BLUE_BED
+        buy: 315
+        sell: 105
+      item20:
+        material: BROWN_BED
+        buy: 315
+        sell: 105
+      item21:
+        material: RED_BED
+        buy: 315
+        sell: 105
+      item22:
+        material: BLACK_BED
+        buy: 315
+        sell: 105
+      item23:
+        material: WHITE_CONCRETE_POWDER
+        buy: 29
+        sell: 10
+        hidden: true
+      item24:
+        material: ORANGE_CONCRETE_POWDER
+        buy: 29
+        sell: 10
+        hidden: true
+      item25:
+        material: MAGENTA_CONCRETE_POWDER
+        buy: 26
+        sell: 9
+        hidden: true
+      item26:
+        material: LIGHT_BLUE_CONCRETE_POWDER
+        buy: 29
+        sell: 10
+        hidden: true
+      item27:
+        material: YELLOW_CONCRETE_POWDER
+        buy: 31
+        sell: 10
+        hidden: true
+      item28:
+        material: LIME_CONCRETE_POWDER
+        buy: 26
+        sell: 9
+        hidden: true
+      item29:
+        material: GREEN_CONCRETE_POWDER
+        buy: 42
+        sell: 14
+        hidden: true
+      item30:
+        material: CYAN_CONCRETE_POWDER
+        buy: 35
+        sell: 12
+        hidden: true
+      item31:
+        material: LIGHT_GRAY_CONCRETE_POWDER
+        buy: 26
+        sell: 9
+        hidden: true
+      item32:
+        material: GRAY_CONCRETE_POWDER
+        buy: 28
+        sell: 9
+        hidden: true
+      item33:
+        material: PINK_CONCRETE_POWDER
+        buy: 26
+        sell: 9
+        hidden: true
+      item34:
+        material: PURPLE_CONCRETE_POWDER
+        buy: 27
+        sell: 9
+        hidden: true
+      item35:
+        material: BLUE_CONCRETE_POWDER
+        buy: 28
+        sell: 9
+        hidden: true
+      item36:
+        material: BROWN_CONCRETE_POWDER
+        buy: 34
+        sell: 11
+        hidden: true
+      item37:
+        material: RED_CONCRETE_POWDER
+        buy: 27
+        sell: 9
+        hidden: true
+      item38:
+        material: BLACK_CONCRETE_POWDER
+        buy: 26
+        sell: 9
+        hidden: true
+      item39:
+        material: WHITE_GLAZED_TERRACOTTA
+        buy: 70
+        sell: 23
+        hidden: true
+      item40:
+        material: ORANGE_GLAZED_TERRACOTTA
+        buy: 70
+        sell: 23
+        hidden: true
+      item41:
+        material: MAGENTA_GLAZED_TERRACOTTA
+        buy: 66
+        sell: 22
+        hidden: true
+      item42:
+        material: LIGHT_BLUE_GLAZED_TERRACOTTA
+        buy: 70
+        sell: 23
+        hidden: true
+      item43:
+        material: YELLOW_GLAZED_TERRACOTTA
+        buy: 72
+        sell: 24
+        hidden: true
+      item44:
+        material: LIME_GLAZED_TERRACOTTA
+        buy: 66
+        sell: 22
+        hidden: true
+      item45:
+        material: GREEN_GLAZED_TERRACOTTA
+        buy: 84
+        sell: 28
+        hidden: true
+  page4:
+    gui-rows: 6
+    title: "&d&lColours &8- Page 4"
+    items:
+      item1:
+        material: CYAN_GLAZED_TERRACOTTA
+        buy: 77
+        sell: 26
+        hidden: true
+      item2:
+        material: LIGHT_GRAY_GLAZED_TERRACOTTA
+        buy: 66
+        sell: 22
+        hidden: true
+      item3:
+        material: GRAY_GLAZED_TERRACOTTA
+        buy: 68
+        sell: 23
+        hidden: true
+      item4:
+        material: PINK_GLAZED_TERRACOTTA
+        buy: 66
+        sell: 22
+        hidden: true
+      item5:
+        material: PURPLE_GLAZED_TERRACOTTA
+        buy: 68
+        sell: 23
+        hidden: true
+      item6:
+        material: BLUE_GLAZED_TERRACOTTA
+        buy: 69
+        sell: 23
+        hidden: true
+      item7:
+        material: BROWN_GLAZED_TERRACOTTA
+        buy: 75
+        sell: 25
+        hidden: true
+      item8:
+        material: RED_GLAZED_TERRACOTTA
+        buy: 67
+        sell: 22
+        hidden: true
+      item9:
+        material: BLACK_GLAZED_TERRACOTTA
+        buy: 66
+        sell: 22
+        hidden: true
+      item10:
+        material: WHITE_STAINED_GLASS_PANE
+        buy: 185
+        sell: 62
+        hidden: true
+      item11:
+        material: ORANGE_STAINED_GLASS_PANE
+        buy: 185
+        sell: 62
+        hidden: true
+      item12:
+        material: MAGENTA_STAINED_GLASS_PANE
+        buy: 180
+        sell: 59
+        hidden: true
+      item13:
+        material: LIGHT_BLUE_STAINED_GLASS_PANE
+        buy: 185
+        sell: 62
+        hidden: true
+      item14:
+        material: YELLOW_STAINED_GLASS_PANE
+        buy: 190
+        sell: 64
+        hidden: true
+      item15:
+        material: LIME_STAINED_GLASS_PANE
+        buy: 180
+        sell: 59
+        hidden: true
+      item16:
+        material: GREEN_STAINED_GLASS_PANE
+        buy: 220
+        sell: 74
+        hidden: true
+      item17:
+        material: CYAN_STAINED_GLASS_PANE
+        buy: 205
+        sell: 68
+        hidden: true
+      item18:
+        material: LIGHT_GRAY_STAINED_GLASS_PANE
+        buy: 180
+        sell: 59
+        hidden: true
+      item19:
+        material: GRAY_STAINED_GLASS_PANE
+        buy: 185
+        sell: 61
+        hidden: true
+      item20:
+        material: PINK_STAINED_GLASS_PANE
+        buy: 180
+        sell: 59
+        hidden: true
+      item21:
+        material: PURPLE_STAINED_GLASS_PANE
+        buy: 180
+        sell: 61
+        hidden: true
+      item22:
+        material: BLUE_STAINED_GLASS_PANE
+        buy: 185
+        sell: 61
+        hidden: true
+      item23:
+        material: BROWN_STAINED_GLASS_PANE
+        buy: 200
+        sell: 67
+        hidden: true
+      item24:
+        material: RED_STAINED_GLASS_PANE
+        buy: 180
+        sell: 60
+        hidden: true
+      item25:
+        material: BLACK_STAINED_GLASS_PANE
+        buy: 180
+        sell: 59
+        hidden: true
+      item26:
+        material: WHITE_CANDLE
+        buy: 180
+        sell: 60
+        hidden: true
+      item27:
+        material: ORANGE_CANDLE
+        buy: 175
+        sell: 59
+        hidden: true
+      item28:
+        material: MAGENTA_CANDLE
+        buy: 155
+        sell: 51
+        hidden: true
+      item29:
+        material: LIGHT_BLUE_CANDLE
+        buy: 175
+        sell: 58
+        hidden: true
+      item30:
+        material: YELLOW_CANDLE
+        buy: 195
+        sell: 65
+        hidden: true
+      item31:
+        material: LIME_CANDLE
+        buy: 155
+        sell: 51
+        hidden: true
+      item32:
+        material: GREEN_CANDLE
+        buy: 280
+        sell: 94
+        hidden: true
+      item33:
+        material: CYAN_CANDLE
+        buy: 225
+        sell: 76
+        hidden: true
+      item34:
+        material: LIGHT_GRAY_CANDLE
+        buy: 155
+        sell: 51
+        hidden: true
+      item35:
+        material: GRAY_CANDLE
+        buy: 165
+        sell: 56
+        hidden: true
+      item36:
+        material: PINK_CANDLE
+        buy: 155
+        sell: 51
+        hidden: true
+      item37:
+        material: PURPLE_CANDLE
+        buy: 165
+        sell: 55
+        hidden: true
+      item38:
+        material: BLUE_CANDLE
+        buy: 170
+        sell: 57
+        hidden: true
+      item39:
+        material: BROWN_CANDLE
+        buy: 220
+        sell: 73
+        hidden: true
+      item40:
+        material: RED_CANDLE
+        buy: 160
+        sell: 53
+        hidden: true
+      item41:
+        material: BLACK_CANDLE
+        buy: 155
+        sell: 51
+        hidden: true
+      item42:
+        material: WHITE_BANNER
+        buy: 905
+        sell: 300
+        hidden: true
+      item43:
+        material: ORANGE_BANNER
+        buy: 545
+        sell: 180
+        hidden: true
+      item44:
+        material: MAGENTA_BANNER
+        buy: 545
+        sell: 180
+        hidden: true
+      item45:
+        material: LIGHT_BLUE_BANNER
+        buy: 545
+        sell: 180
+        hidden: true
+  page5:
+    gui-rows: 6
+    title: "&d&lColours &8- Page 5"
+    items:
+      item1:
+        material: YELLOW_BANNER
+        buy: 545
+        sell: 180
+        hidden: true
+      item2:
+        material: LIME_BANNER
+        buy: 545
+        sell: 180
+        hidden: true
+      item3:
+        material: GREEN_BANNER
+        buy: 545
+        sell: 180
+        hidden: true
+      item4:
+        material: CYAN_BANNER
+        buy: 545
+        sell: 180
+        hidden: true
+      item5:
+        material: LIGHT_GRAY_BANNER
+        buy: 545
+        sell: 180
+        hidden: true
+      item6:
+        material: GRAY_BANNER
+        buy: 545
+        sell: 180
+        hidden: true
+      item7:
+        material: PINK_BANNER
+        buy: 545
+        sell: 180
+        hidden: true
+      item8:
+        material: PURPLE_BANNER
+        buy: 545
+        sell: 180
+        hidden: true
+      item9:
+        material: BLUE_BANNER
+        buy: 545
+        sell: 180
+        hidden: true
+      item10:
+        material: BROWN_BANNER
+        buy: 545
+        sell: 180
+        hidden: true
+      item11:
+        material: RED_BANNER
+        buy: 545
+        sell: 180
+        hidden: true
+      item12:
+        material: BLACK_BANNER
+        buy: 545
+        sell: 180
+        hidden: true
+      item13:
+        material: WHITE_SHULKER_BOX
+        buy: 27000
+        sell: 9050
+        hidden: true
+      item14:
+        material: ORANGE_SHULKER_BOX
+        buy: 27000
+        sell: 9050
+        hidden: true
+      item15:
+        material: MAGENTA_SHULKER_BOX
+        buy: 27000
+        sell: 9050
+        hidden: true
+      item16:
+        material: LIGHT_BLUE_SHULKER_BOX
+        buy: 27000
+        sell: 9050
+        hidden: true
+      item17:
+        material: YELLOW_SHULKER_BOX
+        buy: 27000
+        sell: 9050
+        hidden: true
+      item18:
+        material: LIME_SHULKER_BOX
+        buy: 27000
+        sell: 9050
+        hidden: true
+      item19:
+        material: GREEN_SHULKER_BOX
+        buy: 27500
+        sell: 9100
+        hidden: true
+      item20:
+        material: CYAN_SHULKER_BOX
+        buy: 27000
+        sell: 9050
+        hidden: true
+      item21:
+        material: LIGHT_GRAY_SHULKER_BOX
+        buy: 27000
+        sell: 9050
+        hidden: true
+      item22:
+        material: GRAY_SHULKER_BOX
+        buy: 27000
+        sell: 9050
+        hidden: true
+      item23:
+        material: PINK_SHULKER_BOX
+        buy: 27000
+        sell: 9050
+        hidden: true
+      item24:
+        material: PURPLE_SHULKER_BOX
+        buy: 27000
+        sell: 9050
+        hidden: true
+      item25:
+        material: BLUE_SHULKER_BOX
+        buy: 27000
+        sell: 9050
+        hidden: true
+      item26:
+        material: BROWN_SHULKER_BOX
+        buy: 27000
+        sell: 9050
+        hidden: true
+      item27:
+        material: RED_SHULKER_BOX
+        buy: 27000
+        sell: 9050
+        hidden: true
+      item28:
+        material: BLACK_SHULKER_BOX
+        buy: 27000
+        sell: 9050
+        hidden: true

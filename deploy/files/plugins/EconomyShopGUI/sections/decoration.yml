@@ -1,0 +1,15 @@
+enable: true
+slot: 6
+title: " &8>> &e&lDecoration &r&8<< "
+sub-section: false
+hidden: false
+display-item: false
+economy: VAULT
+item:
+  material: LANTERN
+  name: '&e&lDecoration'
+  lore:
+  - "&7Lights, frames, pots, shelves, statues"
+fill-item:
+  material: BLACK_STAINED_GLASS_PANE
+  name: ' '

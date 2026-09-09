@@ -1,0 +1,70 @@
+pages:
+  page1:
+    gui-rows: 6
+    title: "&5&lEnd &8- Page 1"
+    items:
+      item1:
+        material: END_STONE
+        buy: 80
+        sell: 20
+      item2:
+        material: END_STONE_BRICKS
+        buy: 80
+        sell: 20
+      item3:
+        material: PURPUR_BLOCK
+        buy: 480
+        sell: 120
+      item4:
+        material: PURPUR_PILLAR
+        buy: 480
+        sell: 120
+      item5:
+        material: CHORUS_FRUIT
+        buy: 80
+        sell: 20
+      item6:
+        material: POPPED_CHORUS_FRUIT
+        buy: 290
+        sell: 72
+      item7:
+        material: CHORUS_FLOWER
+        buy: 1200
+        sell: 300
+      item8:
+        material: END_ROD
+        buy: 520
+        sell: 130
+      item9:
+        material: ENDER_PEARL
+        buy: 1400
+        sell: 350
+      item10:
+        material: SHULKER_BOX
+        buy: 36000
+        sell: 9050
+      item11:
+        material: END_STONE_BRICK_SLAB
+        buy: 40
+        sell: 10
+        hidden: true
+      item12:
+        material: END_STONE_BRICK_STAIRS
+        buy: 80
+        sell: 20
+        hidden: true
+      item13:
+        material: END_STONE_BRICK_WALL
+        buy: 80
+        sell: 20
+        hidden: true
+      item14:
+        material: PURPUR_SLAB
+        buy: 240
+        sell: 60
+        hidden: true
+      item15:
+        material: PURPUR_STAIRS
+        buy: 480
+        sell: 120
+        hidden: true

@@ -1,0 +1,161 @@
+pages:
+  page1:
+    gui-rows: 6
+    title: "&c&lMob Drops &8- Page 1"
+    items:
+      item1:
+        material: BONE
+        buy: 560
+        sell: 140
+      item2:
+        material: ROTTEN_FLESH
+        buy: 12
+        sell: 3
+      item3:
+        material: STRING
+        buy: 120
+        sell: 30
+      item4:
+        material: GUNPOWDER
+        buy: 100
+        sell: 26
+      item5:
+        material: SPIDER_EYE
+        buy: 160
+        sell: 40
+      item6:
+        material: FERMENTED_SPIDER_EYE
+        buy: 335
+        sell: 83
+      item7:
+        material: BLAZE_ROD
+        buy: 1600
+        sell: 400
+      item8:
+        material: BLAZE_POWDER
+        buy: 800
+        sell: 200
+      item9:
+        material: SLIME_BALL
+        buy: 480
+        sell: 120
+      item10:
+        material: SLIME_BLOCK
+        buy: 4000
+        sell: 1000
+      item11:
+        material: LEATHER
+        buy: 320
+        sell: 80
+      item12:
+        material: FEATHER
+        buy: 80
+        sell: 20
+      item13:
+        material: BEEF
+        buy: 97
+        sell: 24
+      item14:
+        material: PORKCHOP
+        buy: 20
+        sell: 5
+      item15:
+        material: CHICKEN
+        buy: 20
+        sell: 5
+      item16:
+        material: MUTTON
+        buy: 705
+        sell: 175
+      item17:
+        material: RABBIT
+        buy: 410
+        sell: 100
+      item18:
+        material: RABBIT_HIDE
+        buy: 80
+        sell: 20
+      item19:
+        material: RABBIT_FOOT
+        buy: 44000
+        sell: 11000
+      item20:
+        material: COD
+        buy: 80
+        sell: 20
+      item21:
+        material: SALMON
+        buy: 8
+        sell: 2
+      item22:
+        material: TROPICAL_FISH
+        buy: 4
+        sell: 1
+      item23:
+        material: PUFFERFISH
+        buy: 3200
+        sell: 800
+      item24:
+        material: INK_SAC
+        buy: 600
+        sell: 150
+      item25:
+        material: GLOW_INK_SAC
+        buy: 1600
+        sell: 405
+      item26:
+        material: PHANTOM_MEMBRANE
+        buy: 14500
+        sell: 3600
+      item27:
+        material: GHAST_TEAR
+        buy: 405
+        sell: 100
+      item28:
+        material: PRISMARINE_SHARD
+        buy: 92
+        sell: 23
+      item29:
+        material: PRISMARINE_CRYSTALS
+        buy: 300
+        sell: 75
+      item30:
+        material: BREEZE_ROD
+        buy: 36000
+        sell: 9000
+      item31:
+        material: WIND_CHARGE
+        buy: 8000
+        sell: 2000
+      item32:
+        material: ARMADILLO_SCUTE
+        buy: 1200
+        sell: 300
+      item33:
+        material: TURTLE_SCUTE
+        buy: 33000
+        sell: 8200
+      item34:
+        material: COBWEB
+        buy: 4000
+        sell: 1000
+      item35:
+        material: WITHER_ROSE
+        buy: 4
+        sell: 1
+      item36:
+        material: FIRE_CHARGE
+        buy: 380
+        sell: 95
+      item37:
+        material: GLASS_BOTTLE
+        buy: 235
+        sell: 58
+      item38:
+        material: RESIN_CLUMP
+        buy: 120
+        sell: 30
+      item39:
+        material: BONE_BLOCK
+        buy: 1700
+        sell: 420

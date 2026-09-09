@@ -1,0 +1,969 @@
+menu_title: "&e&lFurniture &8- 2/7"
+open_command: [furniture2]
+register_command: true
+size: 54
+items:
+  f0:
+    material: RED_WOOL
+    slot: 0
+    display_name: "&eLeftsofa Red"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% leftsofa_red 1"
+    - "[message] &aBought &eLeftsofa Red&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f1:
+    material: RED_WOOL
+    slot: 1
+    display_name: "&eLeftsofa White"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% leftsofa_white 1"
+    - "[message] &aBought &eLeftsofa White&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f2:
+    material: RED_WOOL
+    slot: 2
+    display_name: "&eLeftsofa Yellow"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% leftsofa_yellow 1"
+    - "[message] &aBought &eLeftsofa Yellow&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f3:
+    material: RED_WOOL
+    slot: 3
+    display_name: "&eMiddlesofa Black"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% middlesofa_black 1"
+    - "[message] &aBought &eMiddlesofa Black&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f4:
+    material: RED_WOOL
+    slot: 4
+    display_name: "&eMiddlesofa Blue"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% middlesofa_blue 1"
+    - "[message] &aBought &eMiddlesofa Blue&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f5:
+    material: RED_WOOL
+    slot: 5
+    display_name: "&eMiddlesofa Brown"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% middlesofa_brown 1"
+    - "[message] &aBought &eMiddlesofa Brown&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f6:
+    material: RED_WOOL
+    slot: 6
+    display_name: "&eMiddlesofa Cyan"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% middlesofa_cyan 1"
+    - "[message] &aBought &eMiddlesofa Cyan&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f7:
+    material: RED_WOOL
+    slot: 7
+    display_name: "&eMiddlesofa Gray"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% middlesofa_gray 1"
+    - "[message] &aBought &eMiddlesofa Gray&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f8:
+    material: RED_WOOL
+    slot: 8
+    display_name: "&eMiddlesofa Green"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% middlesofa_green 1"
+    - "[message] &aBought &eMiddlesofa Green&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f9:
+    material: RED_WOOL
+    slot: 9
+    display_name: "&eMiddlesofa Light Blue"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% middlesofa_light_blue 1"
+    - "[message] &aBought &eMiddlesofa Light Blue&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f10:
+    material: RED_WOOL
+    slot: 10
+    display_name: "&eMiddlesofa Light Gray"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% middlesofa_light_gray 1"
+    - "[message] &aBought &eMiddlesofa Light Gray&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f11:
+    material: RED_WOOL
+    slot: 11
+    display_name: "&eMiddlesofa Lime"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% middlesofa_lime 1"
+    - "[message] &aBought &eMiddlesofa Lime&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f12:
+    material: RED_WOOL
+    slot: 12
+    display_name: "&eMiddlesofa Magenta"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% middlesofa_magenta 1"
+    - "[message] &aBought &eMiddlesofa Magenta&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f13:
+    material: RED_WOOL
+    slot: 13
+    display_name: "&eMiddlesofa Orange"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% middlesofa_orange 1"
+    - "[message] &aBought &eMiddlesofa Orange&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f14:
+    material: RED_WOOL
+    slot: 14
+    display_name: "&eMiddlesofa Pink"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% middlesofa_pink 1"
+    - "[message] &aBought &eMiddlesofa Pink&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f15:
+    material: RED_WOOL
+    slot: 15
+    display_name: "&eMiddlesofa Purple"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% middlesofa_purple 1"
+    - "[message] &aBought &eMiddlesofa Purple&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f16:
+    material: RED_WOOL
+    slot: 16
+    display_name: "&eMiddlesofa Red"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% middlesofa_red 1"
+    - "[message] &aBought &eMiddlesofa Red&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f17:
+    material: RED_WOOL
+    slot: 17
+    display_name: "&eMiddlesofa White"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% middlesofa_white 1"
+    - "[message] &aBought &eMiddlesofa White&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f18:
+    material: RED_WOOL
+    slot: 18
+    display_name: "&eMiddlesofa Yellow"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% middlesofa_yellow 1"
+    - "[message] &aBought &eMiddlesofa Yellow&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f19:
+    material: RED_WOOL
+    slot: 19
+    display_name: "&eRightsofa Black"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% rightsofa_black 1"
+    - "[message] &aBought &eRightsofa Black&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f20:
+    material: RED_WOOL
+    slot: 20
+    display_name: "&eRightsofa Blue"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% rightsofa_blue 1"
+    - "[message] &aBought &eRightsofa Blue&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f21:
+    material: RED_WOOL
+    slot: 21
+    display_name: "&eRightsofa Brown"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% rightsofa_brown 1"
+    - "[message] &aBought &eRightsofa Brown&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f22:
+    material: RED_WOOL
+    slot: 22
+    display_name: "&eRightsofa Cyan"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% rightsofa_cyan 1"
+    - "[message] &aBought &eRightsofa Cyan&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f23:
+    material: RED_WOOL
+    slot: 23
+    display_name: "&eRightsofa Gray"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% rightsofa_gray 1"
+    - "[message] &aBought &eRightsofa Gray&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f24:
+    material: RED_WOOL
+    slot: 24
+    display_name: "&eRightsofa Green"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% rightsofa_green 1"
+    - "[message] &aBought &eRightsofa Green&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f25:
+    material: RED_WOOL
+    slot: 25
+    display_name: "&eRightsofa Light Blue"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% rightsofa_light_blue 1"
+    - "[message] &aBought &eRightsofa Light Blue&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f26:
+    material: RED_WOOL
+    slot: 26
+    display_name: "&eRightsofa Light Gray"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% rightsofa_light_gray 1"
+    - "[message] &aBought &eRightsofa Light Gray&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f27:
+    material: RED_WOOL
+    slot: 27
+    display_name: "&eRightsofa Lime"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% rightsofa_lime 1"
+    - "[message] &aBought &eRightsofa Lime&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f28:
+    material: RED_WOOL
+    slot: 28
+    display_name: "&eRightsofa Magenta"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% rightsofa_magenta 1"
+    - "[message] &aBought &eRightsofa Magenta&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f29:
+    material: RED_WOOL
+    slot: 29
+    display_name: "&eRightsofa Orange"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% rightsofa_orange 1"
+    - "[message] &aBought &eRightsofa Orange&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f30:
+    material: RED_WOOL
+    slot: 30
+    display_name: "&eRightsofa Pink"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% rightsofa_pink 1"
+    - "[message] &aBought &eRightsofa Pink&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f31:
+    material: RED_WOOL
+    slot: 31
+    display_name: "&eRightsofa Purple"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% rightsofa_purple 1"
+    - "[message] &aBought &eRightsofa Purple&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f32:
+    material: RED_WOOL
+    slot: 32
+    display_name: "&eRightsofa Red"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% rightsofa_red 1"
+    - "[message] &aBought &eRightsofa Red&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f33:
+    material: RED_WOOL
+    slot: 33
+    display_name: "&eRightsofa White"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% rightsofa_white 1"
+    - "[message] &aBought &eRightsofa White&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f34:
+    material: RED_WOOL
+    slot: 34
+    display_name: "&eRightsofa Yellow"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% rightsofa_yellow 1"
+    - "[message] &aBought &eRightsofa Yellow&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f35:
+    material: RED_WOOL
+    slot: 35
+    display_name: "&eSinglesofa Black"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% singlesofa_black 1"
+    - "[message] &aBought &eSinglesofa Black&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f36:
+    material: RED_WOOL
+    slot: 36
+    display_name: "&eSinglesofa Blue"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% singlesofa_blue 1"
+    - "[message] &aBought &eSinglesofa Blue&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f37:
+    material: RED_WOOL
+    slot: 37
+    display_name: "&eSinglesofa Brown"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% singlesofa_brown 1"
+    - "[message] &aBought &eSinglesofa Brown&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f38:
+    material: RED_WOOL
+    slot: 38
+    display_name: "&eSinglesofa Cyan"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% singlesofa_cyan 1"
+    - "[message] &aBought &eSinglesofa Cyan&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f39:
+    material: RED_WOOL
+    slot: 39
+    display_name: "&eSinglesofa Gray"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% singlesofa_gray 1"
+    - "[message] &aBought &eSinglesofa Gray&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f40:
+    material: RED_WOOL
+    slot: 40
+    display_name: "&eSinglesofa Green"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% singlesofa_green 1"
+    - "[message] &aBought &eSinglesofa Green&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f41:
+    material: RED_WOOL
+    slot: 41
+    display_name: "&eSinglesofa Light Blue"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% singlesofa_light_blue 1"
+    - "[message] &aBought &eSinglesofa Light Blue&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f42:
+    material: RED_WOOL
+    slot: 42
+    display_name: "&eSinglesofa Light Gray"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% singlesofa_light_gray 1"
+    - "[message] &aBought &eSinglesofa Light Gray&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f43:
+    material: RED_WOOL
+    slot: 43
+    display_name: "&eSinglesofa Lime"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% singlesofa_lime 1"
+    - "[message] &aBought &eSinglesofa Lime&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  f44:
+    material: RED_WOOL
+    slot: 44
+    display_name: "&eSinglesofa Magenta"
+    lore:
+    - "&7Price: &a$800"
+    - "&7Java: right-click to place, sit on chairs."
+    - "&8Bedrock players cannot see this furniture yet."
+    - "&eClick to buy"
+    left_click_requirement:
+      requirements:
+        money:
+          type: has money
+          amount: 800
+          deny_commands:
+          - "[message] &cYou need $800 for that."
+    left_click_commands:
+    - "[console] eco take %player_name% 800"
+    - "[console] mf give %player_name% singlesofa_magenta 1"
+    - "[message] &aBought &eSinglesofa Magenta&a for $800."
+    - "[sound] ENTITY_EXPERIENCE_ORB_PICKUP"
+  prev:
+    material: ARROW
+    slot: 45
+    display_name: "&ePrevious page"
+    left_click_commands:
+    - "[openguimenu] furniture"
+  next:
+    material: ARROW
+    slot: 53
+    display_name: "&eNext page"
+    left_click_commands:
+    - "[openguimenu] furniture3"
+  back:
+    material: BARRIER
+    slot: 49
+    display_name: "&cBack to /shop"
+    left_click_commands:
+    - "[close]"
+    - "[player] shop"

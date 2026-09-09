@@ -1,0 +1,15 @@
+enable: true
+slot: 13
+title: " &8>> &c&lMob Drops &r&8<< "
+sub-section: false
+hidden: false
+display-item: false
+economy: VAULT
+item:
+  material: BONE
+  name: '&c&lMob Drops'
+  lore:
+  - "&7Everything a mob leaves behind"
+fill-item:
+  material: BLACK_STAINED_GLASS_PANE
+  name: ' '

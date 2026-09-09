@@ -1,0 +1,15 @@
+enable: true
+slot: 15
+title: " &8>> &5&lEnd &r&8<< "
+sub-section: false
+hidden: false
+display-item: false
+economy: VAULT
+item:
+  material: END_STONE
+  name: '&5&lEnd'
+  lore:
+  - "&7End stone, purpur, chorus, shulkers"
+fill-item:
+  material: BLACK_STAINED_GLASS_PANE
+  name: ' '

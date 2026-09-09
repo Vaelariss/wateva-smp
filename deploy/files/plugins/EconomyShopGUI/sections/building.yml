@@ -1,0 +1,15 @@
+enable: true
+slot: 1
+title: " &8>> &7&lBuilding &r&8<< "
+sub-section: false
+hidden: false
+display-item: false
+economy: VAULT
+item:
+  material: STONE_BRICKS
+  name: '&7&lBuilding'
+  lore:
+  - "&7Stone, bricks, deepslate, sandstone, glass"
+fill-item:
+  material: BLACK_STAINED_GLASS_PANE
+  name: ' '

@@ -1,0 +1,207 @@
+pages:
+  page1:
+    gui-rows: 6
+    title: "&4&lRedstone &8- Page 1"
+    items:
+      item1:
+        material: REDSTONE_TORCH
+        buy: 600
+        sell: 150
+      item2:
+        material: REPEATER
+        buy: 2000
+        sell: 500
+      item3:
+        material: COMPARATOR
+        buy: 3200
+        sell: 800
+      item4:
+        material: OBSERVER
+        buy: 2000
+        sell: 500
+      item5:
+        material: PISTON
+        buy: 2200
+        sell: 550
+      item6:
+        material: STICKY_PISTON
+        buy: 2600
+        sell: 650
+      item7:
+        material: HOPPER
+        buy: 2900
+        sell: 720
+      item8:
+        material: DROPPER
+        buy: 270
+        sell: 68
+      item9:
+        material: DISPENSER
+        buy: 2000
+        sell: 500
+      item10:
+        material: LEVER
+        buy: 24
+        sell: 6
+      item11:
+        material: STONE_BUTTON
+        buy: 24
+        sell: 6
+      item12:
+        material: STONE_PRESSURE_PLATE
+        buy: 48
+        sell: 12
+      item13:
+        material: TRIPWIRE_HOOK
+        buy: 215
+        sell: 54
+      item14:
+        material: TARGET
+        buy: 12000
+        sell: 3000
+      item15:
+        material: DAYLIGHT_DETECTOR
+        buy: 4850
+        sell: 1200
+      item16:
+        material: REDSTONE_LAMP
+        buy: 800
+        sell: 200
+      item17:
+        material: NOTE_BLOCK
+        buy: 320
+        sell: 80
+      item18:
+        material: JUKEBOX
+        buy: 12000
+        sell: 3050
+      item19:
+        material: TNT
+        buy: 2200
+        sell: 545
+      item20:
+        material: HONEY_BLOCK
+        buy: 2000
+        sell: 500
+      item21:
+        material: RAIL
+        buy: 150
+        sell: 38
+      item22:
+        material: POWERED_RAIL
+        buy: 400
+        sell: 100
+      item23:
+        material: DETECTOR_RAIL
+        buy: 435
+        sell: 110
+      item24:
+        material: ACTIVATOR_RAIL
+        buy: 520
+        sell: 130
+      item25:
+        material: CHEST
+        buy: 160
+        sell: 40
+      item26:
+        material: TRAPPED_CHEST
+        buy: 375
+        sell: 94
+      item27:
+        material: BARREL
+        buy: 140
+        sell: 35
+      item28:
+        material: ENDER_CHEST
+        buy: 6800
+        sell: 1700
+      item29:
+        material: FURNACE
+        buy: 130
+        sell: 32
+      item30:
+        material: BLAST_FURNACE
+        buy: 2350
+        sell: 590
+      item31:
+        material: SMOKER
+        buy: 450
+        sell: 110
+      item32:
+        material: CRAFTING_TABLE
+        buy: 80
+        sell: 20
+      item33:
+        material: CRAFTER
+        buy: 7600
+        sell: 1900
+      item34:
+        material: STONECUTTER
+        buy: 470
+        sell: 120
+      item35:
+        material: GRINDSTONE
+        buy: 68
+        sell: 17
+      item36:
+        material: SMITHING_TABLE
+        buy: 880
+        sell: 220
+      item37:
+        material: ANVIL
+        buy: 4000
+        sell: 1000
+      item38:
+        material: ENCHANTING_TABLE
+        buy: 36000
+        sell: 9000
+      item39:
+        material: BREWING_STAND
+        buy: 1650
+        sell: 410
+      item40:
+        material: CAULDRON
+        buy: 2800
+        sell: 700
+      item41:
+        material: LOOM
+        buy: 280
+        sell: 70
+      item42:
+        material: CARTOGRAPHY_TABLE
+        buy: 400
+        sell: 100
+      item43:
+        material: FLETCHING_TABLE
+        buy: 115
+        sell: 29
+      item44:
+        material: SCULK_SENSOR
+        buy: 2000
+        sell: 500
+      item45:
+        material: CALIBRATED_SCULK_SENSOR
+        buy: 3200
+        sell: 800
+  page2:
+    gui-rows: 6
+    title: "&4&lRedstone &8- Page 2"
+    items:
+      item1:
+        material: CHIPPED_ANVIL
+        buy: 40
+        sell: 10
+      item2:
+        material: DAMAGED_ANVIL
+        buy: 6000
+        sell: 1500
+      item3:
+        material: HEAVY_WEIGHTED_PRESSURE_PLATE
+        buy: 800
+        sell: 200
+        hidden: true
+      item4:
+        material: LIGHT_WEIGHTED_PRESSURE_PLATE
+        buy: 2400
+        sell: 600
+        hidden: true

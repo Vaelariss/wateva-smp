@@ -1,0 +1,69 @@
+pages:
+  page1:
+    gui-rows: 6
+    title: "&6&lFood &8- Page 1"
+    items:
+      item1:
+        material: BREAD
+        buy: 400
+        sell: 100
+      item2:
+        material: COOKED_BEEF
+        buy: 200
+        sell: 50
+      item3:
+        material: COOKED_PORKCHOP
+        buy: 22
+        sell: 6
+      item4:
+        material: COOKED_CHICKEN
+        buy: 22
+        sell: 6
+      item5:
+        material: COOKED_MUTTON
+        buy: 775
+        sell: 195
+      item6:
+        material: COOKED_RABBIT
+        buy: 450
+        sell: 110
+      item7:
+        material: COOKED_COD
+        buy: 88
+        sell: 22
+      item8:
+        material: COOKED_SALMON
+        buy: 9
+        sell: 2
+      item9:
+        material: BAKED_POTATO
+        buy: 40
+        sell: 10
+      item10:
+        material: PUMPKIN_PIE
+        buy: 455
+        sell: 115
+      item11:
+        material: CAKE
+        buy: 5100
+        sell: 1300
+      item12:
+        material: COOKIE
+        buy: 110
+        sell: 28
+      item13:
+        material: MUSHROOM_STEW
+        buy: 175
+        sell: 44
+      item14:
+        material: RABBIT_STEW
+        buy: 685
+        sell: 170
+      item15:
+        material: BEETROOT_SOUP
+        buy: 615
+        sell: 155
+      item16:
+        material: GOLDEN_APPLE
+        buy: 2650
+        sell: 660

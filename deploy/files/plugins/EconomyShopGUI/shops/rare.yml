@@ -1,0 +1,522 @@
+pages:
+  page1:
+    gui-rows: 6
+    title: "&d&lRare &8- Page 1"
+    items:
+      item1:
+        material: TOTEM_OF_UNDYING
+        buy: -1
+        sell: 4200
+      item2:
+        material: ELYTRA
+        buy: -1
+        sell: 500000
+      item3:
+        material: TRIDENT
+        buy: -1
+        sell: 275000
+      item4:
+        material: MACE
+        buy: -1
+        sell: 1510000
+      item5:
+        material: HEAVY_CORE
+        buy: -1
+        sell: 1500000
+      item6:
+        material: NETHER_STAR
+        buy: -1
+        sell: 86000
+      item7:
+        material: BEACON
+        buy: -1
+        sell: 130000
+      item8:
+        material: ENCHANTED_GOLDEN_APPLE
+        buy: -1
+        sell: 745000
+      item9:
+        material: SHULKER_SHELL
+        buy: -1
+        sell: 4500
+      item10:
+        material: HEART_OF_THE_SEA
+        buy: -1
+        sell: 19000
+      item11:
+        material: NAUTILUS_SHELL
+        buy: -1
+        sell: 3000
+      item12:
+        material: CONDUIT
+        buy: -1
+        sell: 43000
+      item13:
+        material: DRAGON_EGG
+        buy: -1
+        sell: 5000000
+      item14:
+        material: DRAGON_HEAD
+        buy: -1
+        sell: 23600000
+      item15:
+        material: DRAGON_BREATH
+        buy: -1
+        sell: 1100
+      item16:
+        material: END_CRYSTAL
+        buy: -1
+        sell: 3000
+      item17:
+        material: ENDER_EYE
+        buy: -1
+        sell: 550
+      item18:
+        material: EXPERIENCE_BOTTLE
+        buy: 4500
+        sell: -1
+      item19:
+        material: ECHO_SHARD
+        buy: -1
+        sell: 2000
+      item20:
+        material: RECOVERY_COMPASS
+        buy: -1
+        sell: 60000
+      item21:
+        material: SPONGE
+        buy: -1
+        sell: 100000
+      item22:
+        material: WET_SPONGE
+        buy: -1
+        sell: 225000
+      item23:
+        material: WITHER_SKELETON_SKULL
+        buy: -1
+        sell: 15000
+      item24:
+        material: SKELETON_SKULL
+        buy: -1
+        sell: 90000
+      item25:
+        material: ZOMBIE_HEAD
+        buy: -1
+        sell: 170000
+      item26:
+        material: CREEPER_HEAD
+        buy: -1
+        sell: 85000
+      item27:
+        material: PIGLIN_HEAD
+        buy: -1
+        sell: 180000
+      item28:
+        material: GOAT_HORN
+        buy: -1
+        sell: 1000
+      item29:
+        material: SNIFFER_EGG
+        buy: -1
+        sell: 15000
+      item30:
+        material: TURTLE_EGG
+        buy: -1
+        sell: 6000
+      item31:
+        material: DRIED_GHAST
+        buy: -1
+        sell: 2900
+      item32:
+        material: SADDLE
+        buy: -1
+        sell: 1000
+      item33:
+        material: NAME_TAG
+        buy: -1
+        sell: 130
+      item34:
+        material: NETHERITE_UPGRADE_SMITHING_TEMPLATE
+        buy: -1
+        sell: 50000
+      item35:
+        material: CREAKING_HEART
+        buy: -1
+        sell: 835
+      item36:
+        material: DISC_FRAGMENT_5
+        buy: -1
+        sell: 5000
+      item37:
+        material: ANGLER_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item38:
+        material: ARCHER_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item39:
+        material: ARMS_UP_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item40:
+        material: BLADE_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item41:
+        material: BOLT_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true
+      item42:
+        material: BORDURE_INDENTED_BANNER_PATTERN
+        buy: 595
+        sell: 150
+        hidden: true
+      item43:
+        material: BREWER_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item44:
+        material: BURN_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item45:
+        material: COAST_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true
+  page2:
+    gui-rows: 6
+    title: "&d&lRare &8- Page 2"
+    items:
+      item1:
+        material: CREEPER_BANNER_PATTERN
+        buy: 20000
+        sell: 5000
+        hidden: true
+      item2:
+        material: DANGER_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item3:
+        material: DUNE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true
+      item4:
+        material: EXPLORER_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item5:
+        material: EYE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true
+      item6:
+        material: FIELD_MASONED_BANNER_PATTERN
+        buy: 1150
+        sell: 285
+        hidden: true
+      item7:
+        material: FLOW_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true
+      item8:
+        material: FLOW_BANNER_PATTERN
+        buy: 20000
+        sell: 5000
+        hidden: true
+      item9:
+        material: FLOW_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item10:
+        material: FLOWER_BANNER_PATTERN
+        buy: 455
+        sell: 115
+        hidden: true
+      item11:
+        material: FRIEND_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item12:
+        material: GLOBE_BANNER_PATTERN
+        buy: 20000
+        sell: 5000
+        hidden: true
+      item13:
+        material: GUSTER_BANNER_PATTERN
+        buy: 20000
+        sell: 5000
+        hidden: true
+      item14:
+        material: GUSTER_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item15:
+        material: HEART_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item16:
+        material: HEARTBREAK_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item17:
+        material: HOST_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true
+      item18:
+        material: HOWL_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item19:
+        material: MINER_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item20:
+        material: MOJANG_BANNER_PATTERN
+        buy: 20000
+        sell: 5000
+        hidden: true
+      item21:
+        material: MOURNER_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item22:
+        material: MUSIC_DISC_11
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item23:
+        material: MUSIC_DISC_13
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item24:
+        material: MUSIC_DISC_5
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item25:
+        material: MUSIC_DISC_BLOCKS
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item26:
+        material: MUSIC_DISC_BOUNCE
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item27:
+        material: MUSIC_DISC_CAT
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item28:
+        material: MUSIC_DISC_CHIRP
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item29:
+        material: MUSIC_DISC_CREATOR
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item30:
+        material: MUSIC_DISC_CREATOR_MUSIC_BOX
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item31:
+        material: MUSIC_DISC_FAR
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item32:
+        material: MUSIC_DISC_LAVA_CHICKEN
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item33:
+        material: MUSIC_DISC_MALL
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item34:
+        material: MUSIC_DISC_MELLOHI
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item35:
+        material: MUSIC_DISC_OTHERSIDE
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item36:
+        material: MUSIC_DISC_PIGSTEP
+        buy: 170000
+        sell: 43000
+        hidden: true
+      item37:
+        material: MUSIC_DISC_PRECIPICE
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item38:
+        material: MUSIC_DISC_RELIC
+        buy: 840000
+        sell: 210000
+        hidden: true
+      item39:
+        material: MUSIC_DISC_STAL
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item40:
+        material: MUSIC_DISC_STRAD
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item41:
+        material: MUSIC_DISC_TEARS
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item42:
+        material: MUSIC_DISC_WAIT
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item43:
+        material: MUSIC_DISC_WARD
+        buy: 80000
+        sell: 20000
+        hidden: true
+      item44:
+        material: PIGLIN_BANNER_PATTERN
+        buy: 260000
+        sell: 65000
+        hidden: true
+      item45:
+        material: PLENTY_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+  page3:
+    gui-rows: 6
+    title: "&d&lRare &8- Page 3"
+    items:
+      item1:
+        material: PRIZE_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item2:
+        material: RAISER_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true
+      item3:
+        material: RIB_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true
+      item4:
+        material: SCRAPE_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item5:
+        material: SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true
+      item6:
+        material: SHAPER_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true
+      item7:
+        material: SHEAF_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item8:
+        material: SHELTER_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item9:
+        material: SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 72000
+        sell: 18000
+        hidden: true
+      item10:
+        material: SKULL_BANNER_PATTERN
+        buy: 20000
+        sell: 5000
+        hidden: true
+      item11:
+        material: SKULL_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item12:
+        material: SNORT_POTTERY_SHERD
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item13:
+        material: SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true
+      item14:
+        material: SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true
+      item15:
+        material: TIDE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true
+      item16:
+        material: VEX_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true
+      item17:
+        material: WARD_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true
+      item18:
+        material: WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true
+      item19:
+        material: WILD_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 40000
+        sell: 10000
+        hidden: true

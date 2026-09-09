@@ -1,0 +1,227 @@
+pages:
+  page1:
+    gui-rows: 6
+    title: "&b&lOres &8- Page 1"
+    items:
+      item1:
+        material: COAL
+        buy: 400
+        sell: 100
+      item2:
+        material: CHARCOAL
+        buy: 215
+        sell: 54
+      item3:
+        material: RAW_IRON
+        buy: 360
+        sell: 90
+      item4:
+        material: IRON_INGOT
+        buy: 400
+        sell: 100
+      item5:
+        material: IRON_NUGGET
+        buy: 44
+        sell: 11
+      item6:
+        material: RAW_COPPER
+        buy: 80
+        sell: 20
+      item7:
+        material: COPPER_INGOT
+        buy: 200
+        sell: 50
+      item8:
+        material: COPPER_NUGGET
+        buy: 22
+        sell: 6
+      item9:
+        material: RAW_GOLD
+        buy: 1000
+        sell: 250
+      item10:
+        material: GOLD_INGOT
+        buy: 1200
+        sell: 300
+      item11:
+        material: GOLD_NUGGET
+        buy: 135
+        sell: 33
+      item12:
+        material: REDSTONE
+        buy: 160
+        sell: 40
+      item13:
+        material: LAPIS_LAZULI
+        buy: 160
+        sell: 40
+      item14:
+        material: EMERALD
+        buy: 2050
+        sell: 515
+      item15:
+        material: DIAMOND
+        buy: 12000
+        sell: 3000
+      item16:
+        material: AMETHYST_SHARD
+        buy: 400
+        sell: 100
+      item17:
+        material: AMETHYST_BLOCK
+        buy: 480
+        sell: 120
+      item18:
+        material: AMETHYST_CLUSTER
+        buy: 1100
+        sell: 270
+      item19:
+        material: NETHERITE_SCRAP
+        buy: -1
+        sell: 1200000
+      item20:
+        material: NETHERITE_INGOT
+        buy: -1
+        sell: 5400000
+      item21:
+        material: ANCIENT_DEBRIS
+        buy: 5200000
+        sell: 1300000
+      item22:
+        material: COAL_BLOCK
+        buy: 4400
+        sell: 1100
+      item23:
+        material: IRON_BLOCK
+        buy: 3100
+        sell: 775
+      item24:
+        material: GOLD_BLOCK
+        buy: 5600
+        sell: 1400
+      item25:
+        material: REDSTONE_BLOCK
+        buy: 5200
+        sell: 1300
+      item26:
+        material: LAPIS_BLOCK
+        buy: 2150
+        sell: 540
+      item27:
+        material: EMERALD_BLOCK
+        buy: 14000
+        sell: 3500
+      item28:
+        material: DIAMOND_BLOCK
+        buy: 120000
+        sell: 30000
+      item29:
+        material: NETHERITE_BLOCK
+        buy: -1
+        sell: 48000000
+      item30:
+        material: COAL_ORE
+        buy: 420
+        sell: 105
+      item31:
+        material: IRON_ORE
+        buy: 245
+        sell: 61
+      item32:
+        material: COPPER_ORE
+        buy: 160
+        sell: 40
+      item33:
+        material: GOLD_ORE
+        buy: 1250
+        sell: 305
+      item34:
+        material: REDSTONE_ORE
+        buy: 800
+        sell: 200
+      item35:
+        material: LAPIS_ORE
+        buy: 520
+        sell: 130
+      item36:
+        material: EMERALD_ORE
+        buy: 20500
+        sell: 5100
+      item37:
+        material: DIAMOND_ORE
+        buy: 53000
+        sell: 13500
+      item38:
+        material: DEEPSLATE_COAL_ORE
+        buy: 1800
+        sell: 450
+        hidden: true
+      item39:
+        material: DEEPSLATE_COPPER_ORE
+        buy: 130
+        sell: 32
+        hidden: true
+      item40:
+        material: DEEPSLATE_DIAMOND_ORE
+        buy: 16500
+        sell: 4100
+        hidden: true
+      item41:
+        material: DEEPSLATE_EMERALD_ORE
+        buy: 2080000
+        sell: 520000
+        hidden: true
+      item42:
+        material: DEEPSLATE_GOLD_ORE
+        buy: 1000
+        sell: 255
+        hidden: true
+      item43:
+        material: DEEPSLATE_IRON_ORE
+        buy: 440
+        sell: 110
+        hidden: true
+      item44:
+        material: DEEPSLATE_LAPIS_ORE
+        buy: 44
+        sell: 11
+        hidden: true
+      item45:
+        material: DEEPSLATE_REDSTONE_ORE
+        buy: 825
+        sell: 205
+        hidden: true
+  page2:
+    gui-rows: 6
+    title: "&b&lOres &8- Page 2"
+    items:
+      item1:
+        material: LARGE_AMETHYST_BUD
+        buy: 400
+        sell: 100
+        hidden: true
+      item2:
+        material: MEDIUM_AMETHYST_BUD
+        buy: 1000
+        sell: 250
+        hidden: true
+      item3:
+        material: RAW_COPPER_BLOCK
+        buy: 720
+        sell: 180
+        hidden: true
+      item4:
+        material: RAW_GOLD_BLOCK
+        buy: 9000
+        sell: 2250
+        hidden: true
+      item5:
+        material: RAW_IRON_BLOCK
+        buy: 3250
+        sell: 810
+        hidden: true
+      item6:
+        material: SMALL_AMETHYST_BUD
+        buy: 200
+        sell: 50
+        hidden: true

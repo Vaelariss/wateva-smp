@@ -1,0 +1,15 @@
+enable: true
+slot: 5
+title: " &8>> &d&lColours &r&8<< "
+sub-section: false
+hidden: false
+display-item: false
+economy: VAULT
+item:
+  material: WHITE_WOOL
+  name: '&d&lColours'
+  lore:
+  - "&7Wool, concrete, terracotta, glass, dyes, beds"
+fill-item:
+  material: BLACK_STAINED_GLASS_PANE
+  name: ' '

@@ -1,0 +1,966 @@
+pages:
+  page1:
+    gui-rows: 6
+    title: "&7&lBuilding &8- Page 1"
+    items:
+      item1:
+        material: COBBLESTONE
+        buy: 12
+        sell: 4
+      item2:
+        material: STONE
+        buy: 18
+        sell: 6
+      item3:
+        material: STONE_BRICKS
+        buy: 18
+        sell: 6
+      item4:
+        material: DEEPSLATE
+        buy: 18
+        sell: 6
+      item5:
+        material: COBBLED_DEEPSLATE
+        buy: 15
+        sell: 5
+      item6:
+        material: DEEPSLATE_BRICKS
+        buy: 15
+        sell: 5
+      item7:
+        material: POLISHED_DEEPSLATE
+        buy: 15
+        sell: 5
+      item8:
+        material: ANDESITE
+        buy: 15
+        sell: 5
+      item9:
+        material: DIORITE
+        buy: 15
+        sell: 5
+      item10:
+        material: GRANITE
+        buy: 15
+        sell: 5
+      item11:
+        material: TUFF
+        buy: 3
+        sell: 1
+      item12:
+        material: CALCITE
+        buy: 45
+        sell: 15
+      item13:
+        material: DRIPSTONE_BLOCK
+        buy: 60
+        sell: 20
+      item14:
+        material: SANDSTONE
+        buy: 96
+        sell: 32
+      item15:
+        material: RED_SANDSTONE
+        buy: 3000
+        sell: 1000
+      item16:
+        material: BRICKS
+        buy: 200
+        sell: 66
+      item17:
+        material: MUD_BRICKS
+        buy: 330
+        sell: 110
+      item18:
+        material: TERRACOTTA
+        buy: 60
+        sell: 20
+      item19:
+        material: MOSSY_COBBLESTONE
+        buy: 19
+        sell: 6
+      item20:
+        material: MOSSY_STONE_BRICKS
+        buy: 25
+        sell: 8
+      item21:
+        material: OBSIDIAN
+        buy: 2100
+        sell: 700
+      item22:
+        material: PRISMARINE
+        buy: 275
+        sell: 92
+      item23:
+        material: CINNABAR
+        buy: 45
+        sell: 15
+      item24:
+        material: SULFUR
+        buy: 45
+        sell: 15
+      item25:
+        material: POLISHED_CINNABAR
+        buy: 45
+        sell: 15
+      item26:
+        material: POLISHED_SULFUR
+        buy: 45
+        sell: 15
+      item27:
+        material: POTENT_SULFUR
+        buy: 120
+        sell: 40
+      item28:
+        material: SULFUR_SPIKE
+        buy: 90
+        sell: 30
+      item29:
+        material: BRICK
+        buy: 50
+        sell: 16
+      item30:
+        material: DARK_PRISMARINE
+        buy: 555
+        sell: 185
+      item31:
+        material: ANDESITE_SLAB
+        buy: 8
+        sell: 2
+        hidden: true
+      item32:
+        material: ANDESITE_STAIRS
+        buy: 15
+        sell: 5
+        hidden: true
+      item33:
+        material: ANDESITE_WALL
+        buy: 15
+        sell: 5
+        hidden: true
+      item34:
+        material: BRICK_SLAB
+        buy: 99
+        sell: 33
+        hidden: true
+      item35:
+        material: BRICK_STAIRS
+        buy: 200
+        sell: 66
+        hidden: true
+      item36:
+        material: BRICK_WALL
+        buy: 200
+        sell: 66
+        hidden: true
+      item37:
+        material: CINNABAR_BRICK_SLAB
+        buy: 22
+        sell: 8
+        hidden: true
+      item38:
+        material: CINNABAR_BRICK_STAIRS
+        buy: 45
+        sell: 15
+        hidden: true
+      item39:
+        material: CINNABAR_BRICK_WALL
+        buy: 45
+        sell: 15
+        hidden: true
+      item40:
+        material: CINNABAR_BRICKS
+        buy: 45
+        sell: 15
+        hidden: true
+      item41:
+        material: CINNABAR_SLAB
+        buy: 22
+        sell: 8
+        hidden: true
+      item42:
+        material: CINNABAR_STAIRS
+        buy: 45
+        sell: 15
+        hidden: true
+      item43:
+        material: CINNABAR_WALL
+        buy: 45
+        sell: 15
+        hidden: true
+      item44:
+        material: COBBLED_DEEPSLATE_SLAB
+        buy: 8
+        sell: 2
+        hidden: true
+      item45:
+        material: COBBLED_DEEPSLATE_STAIRS
+        buy: 15
+        sell: 5
+        hidden: true
+  page2:
+    gui-rows: 6
+    title: "&7&lBuilding &8- Page 2"
+    items:
+      item1:
+        material: COBBLED_DEEPSLATE_WALL
+        buy: 15
+        sell: 5
+        hidden: true
+      item2:
+        material: COBBLESTONE_SLAB
+        buy: 6
+        sell: 2
+        hidden: true
+      item3:
+        material: COBBLESTONE_STAIRS
+        buy: 12
+        sell: 4
+        hidden: true
+      item4:
+        material: COBBLESTONE_WALL
+        buy: 12
+        sell: 4
+        hidden: true
+      item5:
+        material: CRACKED_DEEPSLATE_BRICKS
+        buy: 16
+        sell: 6
+        hidden: true
+      item6:
+        material: CRACKED_DEEPSLATE_TILES
+        buy: 16
+        sell: 6
+        hidden: true
+      item7:
+        material: CRACKED_STONE_BRICKS
+        buy: 20
+        sell: 7
+        hidden: true
+      item8:
+        material: CUT_RED_SANDSTONE_SLAB
+        buy: 1500
+        sell: 500
+        hidden: true
+      item9:
+        material: CUT_SANDSTONE_SLAB
+        buy: 48
+        sell: 16
+        hidden: true
+      item10:
+        material: DARK_PRISMARINE_SLAB
+        buy: 280
+        sell: 92
+        hidden: true
+      item11:
+        material: DARK_PRISMARINE_STAIRS
+        buy: 555
+        sell: 185
+        hidden: true
+      item12:
+        material: DEEPSLATE_BRICK_SLAB
+        buy: 8
+        sell: 2
+        hidden: true
+      item13:
+        material: DEEPSLATE_BRICK_STAIRS
+        buy: 15
+        sell: 5
+        hidden: true
+      item14:
+        material: DEEPSLATE_BRICK_WALL
+        buy: 15
+        sell: 5
+        hidden: true
+      item15:
+        material: DEEPSLATE_TILE_SLAB
+        buy: 8
+        sell: 2
+        hidden: true
+      item16:
+        material: DEEPSLATE_TILE_STAIRS
+        buy: 15
+        sell: 5
+        hidden: true
+      item17:
+        material: DEEPSLATE_TILE_WALL
+        buy: 15
+        sell: 5
+        hidden: true
+      item18:
+        material: DEEPSLATE_TILES
+        buy: 15
+        sell: 5
+        hidden: true
+      item19:
+        material: DIORITE_SLAB
+        buy: 8
+        sell: 2
+        hidden: true
+      item20:
+        material: DIORITE_STAIRS
+        buy: 15
+        sell: 5
+        hidden: true
+      item21:
+        material: DIORITE_WALL
+        buy: 15
+        sell: 5
+        hidden: true
+      item22:
+        material: GOLDEN_DANDELION
+        buy: 845
+        sell: 280
+        hidden: true
+      item23:
+        material: GRANITE_SLAB
+        buy: 8
+        sell: 2
+        hidden: true
+      item24:
+        material: GRANITE_STAIRS
+        buy: 15
+        sell: 5
+        hidden: true
+      item25:
+        material: GRANITE_WALL
+        buy: 15
+        sell: 5
+        hidden: true
+      item26:
+        material: MOSSY_COBBLESTONE_SLAB
+        buy: 9
+        sell: 3
+        hidden: true
+      item27:
+        material: MOSSY_COBBLESTONE_STAIRS
+        buy: 19
+        sell: 6
+        hidden: true
+      item28:
+        material: MOSSY_COBBLESTONE_WALL
+        buy: 19
+        sell: 6
+        hidden: true
+      item29:
+        material: MOSSY_STONE_BRICK_SLAB
+        buy: 12
+        sell: 4
+        hidden: true
+      item30:
+        material: MOSSY_STONE_BRICK_STAIRS
+        buy: 25
+        sell: 8
+        hidden: true
+      item31:
+        material: MOSSY_STONE_BRICK_WALL
+        buy: 25
+        sell: 8
+        hidden: true
+      item32:
+        material: MUD_BRICK_SLAB
+        buy: 165
+        sell: 55
+        hidden: true
+      item33:
+        material: MUD_BRICK_STAIRS
+        buy: 330
+        sell: 110
+        hidden: true
+      item34:
+        material: MUD_BRICK_WALL
+        buy: 330
+        sell: 110
+        hidden: true
+      item35:
+        material: POLISHED_ANDESITE
+        buy: 15
+        sell: 5
+        hidden: true
+      item36:
+        material: POLISHED_ANDESITE_SLAB
+        buy: 8
+        sell: 2
+        hidden: true
+      item37:
+        material: POLISHED_ANDESITE_STAIRS
+        buy: 15
+        sell: 5
+        hidden: true
+      item38:
+        material: POLISHED_CINNABAR_SLAB
+        buy: 22
+        sell: 8
+        hidden: true
+      item39:
+        material: POLISHED_CINNABAR_STAIRS
+        buy: 45
+        sell: 15
+        hidden: true
+      item40:
+        material: POLISHED_CINNABAR_WALL
+        buy: 45
+        sell: 15
+        hidden: true
+      item41:
+        material: POLISHED_DEEPSLATE_SLAB
+        buy: 8
+        sell: 2
+        hidden: true
+      item42:
+        material: POLISHED_DEEPSLATE_STAIRS
+        buy: 15
+        sell: 5
+        hidden: true
+      item43:
+        material: POLISHED_DEEPSLATE_WALL
+        buy: 15
+        sell: 5
+        hidden: true
+      item44:
+        material: POLISHED_DIORITE
+        buy: 15
+        sell: 5
+        hidden: true
+      item45:
+        material: POLISHED_DIORITE_SLAB
+        buy: 8
+        sell: 2
+        hidden: true
+  page3:
+    gui-rows: 6
+    title: "&7&lBuilding &8- Page 3"
+    items:
+      item1:
+        material: POLISHED_DIORITE_STAIRS
+        buy: 15
+        sell: 5
+        hidden: true
+      item2:
+        material: POLISHED_GRANITE
+        buy: 15
+        sell: 5
+        hidden: true
+      item3:
+        material: POLISHED_GRANITE_SLAB
+        buy: 8
+        sell: 2
+        hidden: true
+      item4:
+        material: POLISHED_GRANITE_STAIRS
+        buy: 15
+        sell: 5
+        hidden: true
+      item5:
+        material: POLISHED_SULFUR_SLAB
+        buy: 22
+        sell: 8
+        hidden: true
+      item6:
+        material: POLISHED_SULFUR_STAIRS
+        buy: 45
+        sell: 15
+        hidden: true
+      item7:
+        material: POLISHED_SULFUR_WALL
+        buy: 45
+        sell: 15
+        hidden: true
+      item8:
+        material: POLISHED_TUFF
+        buy: 3
+        sell: 1
+        hidden: true
+      item9:
+        material: POLISHED_TUFF_SLAB
+        buy: 2
+        sell: 1
+        hidden: true
+      item10:
+        material: POLISHED_TUFF_STAIRS
+        buy: 3
+        sell: 1
+        hidden: true
+      item11:
+        material: POLISHED_TUFF_WALL
+        buy: 3
+        sell: 1
+        hidden: true
+      item12:
+        material: PRISMARINE_BRICK_SLAB
+        buy: 310
+        sell: 105
+        hidden: true
+      item13:
+        material: PRISMARINE_BRICK_STAIRS
+        buy: 620
+        sell: 205
+        hidden: true
+      item14:
+        material: PRISMARINE_BRICKS
+        buy: 620
+        sell: 205
+        hidden: true
+      item15:
+        material: PRISMARINE_SLAB
+        buy: 140
+        sell: 46
+        hidden: true
+      item16:
+        material: PRISMARINE_STAIRS
+        buy: 275
+        sell: 92
+        hidden: true
+      item17:
+        material: PRISMARINE_WALL
+        buy: 275
+        sell: 92
+        hidden: true
+      item18:
+        material: RED_SANDSTONE_SLAB
+        buy: 1500
+        sell: 500
+        hidden: true
+      item19:
+        material: RED_SANDSTONE_STAIRS
+        buy: 3000
+        sell: 1000
+        hidden: true
+      item20:
+        material: RED_SANDSTONE_WALL
+        buy: 3000
+        sell: 1000
+        hidden: true
+      item21:
+        material: SANDSTONE_SLAB
+        buy: 48
+        sell: 16
+        hidden: true
+      item22:
+        material: SANDSTONE_STAIRS
+        buy: 96
+        sell: 32
+        hidden: true
+      item23:
+        material: SANDSTONE_WALL
+        buy: 96
+        sell: 32
+        hidden: true
+      item24:
+        material: SMOOTH_RED_SANDSTONE
+        buy: 3300
+        sell: 1100
+        hidden: true
+      item25:
+        material: SMOOTH_RED_SANDSTONE_SLAB
+        buy: 1650
+        sell: 550
+        hidden: true
+      item26:
+        material: SMOOTH_RED_SANDSTONE_STAIRS
+        buy: 3300
+        sell: 1100
+        hidden: true
+      item27:
+        material: SMOOTH_SANDSTONE
+        buy: 105
+        sell: 35
+        hidden: true
+      item28:
+        material: SMOOTH_SANDSTONE_SLAB
+        buy: 53
+        sell: 18
+        hidden: true
+      item29:
+        material: SMOOTH_SANDSTONE_STAIRS
+        buy: 105
+        sell: 35
+        hidden: true
+      item30:
+        material: SMOOTH_STONE_SLAB
+        buy: 28
+        sell: 9
+        hidden: true
+      item31:
+        material: STONE_BRICK_SLAB
+        buy: 9
+        sell: 3
+        hidden: true
+      item32:
+        material: STONE_BRICK_STAIRS
+        buy: 18
+        sell: 6
+        hidden: true
+      item33:
+        material: STONE_BRICK_WALL
+        buy: 18
+        sell: 6
+        hidden: true
+      item34:
+        material: STONE_SLAB
+        buy: 9
+        sell: 3
+        hidden: true
+      item35:
+        material: STONE_STAIRS
+        buy: 18
+        sell: 6
+        hidden: true
+      item36:
+        material: SULFUR_BRICK_SLAB
+        buy: 22
+        sell: 8
+        hidden: true
+      item37:
+        material: SULFUR_BRICK_STAIRS
+        buy: 45
+        sell: 15
+        hidden: true
+      item38:
+        material: SULFUR_BRICK_WALL
+        buy: 45
+        sell: 15
+        hidden: true
+      item39:
+        material: SULFUR_BRICKS
+        buy: 45
+        sell: 15
+        hidden: true
+      item40:
+        material: SULFUR_SLAB
+        buy: 22
+        sell: 8
+        hidden: true
+      item41:
+        material: SULFUR_STAIRS
+        buy: 45
+        sell: 15
+        hidden: true
+      item42:
+        material: SULFUR_WALL
+        buy: 45
+        sell: 15
+        hidden: true
+      item43:
+        material: TUFF_BRICK_SLAB
+        buy: 2
+        sell: 1
+        hidden: true
+      item44:
+        material: TUFF_BRICK_STAIRS
+        buy: 3
+        sell: 1
+        hidden: true
+      item45:
+        material: TUFF_BRICK_WALL
+        buy: 3
+        sell: 1
+        hidden: true
+  page4:
+    gui-rows: 6
+    title: "&7&lBuilding &8- Page 4"
+    items:
+      item1:
+        material: TUFF_BRICKS
+        buy: 3
+        sell: 1
+        hidden: true
+      item2:
+        material: TUFF_SLAB
+        buy: 2
+        sell: 1
+        hidden: true
+      item3:
+        material: TUFF_STAIRS
+        buy: 3
+        sell: 1
+        hidden: true
+      item4:
+        material: TUFF_WALL
+        buy: 3
+        sell: 1
+        hidden: true
+      item5:
+        material: WAXED_CHISELED_COPPER
+        buy: 380
+        sell: 130
+        hidden: true
+      item6:
+        material: WAXED_COPPER_BARS
+        buy: 235
+        sell: 79
+        hidden: true
+      item7:
+        material: WAXED_COPPER_BLOCK
+        buy: 1550
+        sell: 510
+        hidden: true
+      item8:
+        material: WAXED_COPPER_BULB
+        buy: 1500
+        sell: 490
+        hidden: true
+      item9:
+        material: WAXED_COPPER_CHAIN
+        buy: 365
+        sell: 120
+        hidden: true
+      item10:
+        material: WAXED_COPPER_CHEST
+        buy: 1500
+        sell: 500
+        hidden: true
+      item11:
+        material: WAXED_COPPER_DOOR
+        buy: 480
+        sell: 160
+        hidden: true
+      item12:
+        material: WAXED_COPPER_GRATE
+        buy: 380
+        sell: 130
+        hidden: true
+      item13:
+        material: WAXED_COPPER_LANTERN
+        buy: 365
+        sell: 120
+        hidden: true
+      item14:
+        material: WAXED_COPPER_TRAPDOOR
+        buy: 780
+        sell: 260
+        hidden: true
+      item15:
+        material: WAXED_CUT_COPPER
+        buy: 380
+        sell: 130
+        hidden: true
+      item16:
+        material: WAXED_CUT_COPPER_SLAB
+        buy: 190
+        sell: 64
+        hidden: true
+      item17:
+        material: WAXED_CUT_COPPER_STAIRS
+        buy: 380
+        sell: 130
+        hidden: true
+      item18:
+        material: WAXED_EXPOSED_CHISELED_COPPER
+        buy: 215
+        sell: 71
+        hidden: true
+      item19:
+        material: WAXED_EXPOSED_COPPER
+        buy: 855
+        sell: 285
+        hidden: true
+      item20:
+        material: WAXED_EXPOSED_COPPER_BARS
+        buy: 235
+        sell: 79
+        hidden: true
+      item21:
+        material: WAXED_EXPOSED_COPPER_BULB
+        buy: 970
+        sell: 325
+        hidden: true
+      item22:
+        material: WAXED_EXPOSED_COPPER_CHAIN
+        buy: 365
+        sell: 120
+        hidden: true
+      item23:
+        material: WAXED_EXPOSED_COPPER_CHEST
+        buy: 1500
+        sell: 500
+        hidden: true
+      item24:
+        material: WAXED_EXPOSED_COPPER_DOOR
+        buy: 480
+        sell: 160
+        hidden: true
+      item25:
+        material: WAXED_EXPOSED_COPPER_GRATE
+        buy: 215
+        sell: 71
+        hidden: true
+      item26:
+        material: WAXED_EXPOSED_COPPER_LANTERN
+        buy: 365
+        sell: 120
+        hidden: true
+      item27:
+        material: WAXED_EXPOSED_COPPER_TRAPDOOR
+        buy: 780
+        sell: 260
+        hidden: true
+      item28:
+        material: WAXED_EXPOSED_CUT_COPPER
+        buy: 215
+        sell: 71
+        hidden: true
+      item29:
+        material: WAXED_EXPOSED_CUT_COPPER_SLAB
+        buy: 105
+        sell: 36
+        hidden: true
+      item30:
+        material: WAXED_EXPOSED_CUT_COPPER_STAIRS
+        buy: 215
+        sell: 71
+        hidden: true
+      item31:
+        material: WAXED_EXPOSED_LIGHTNING_ROD
+        buy: 630
+        sell: 210
+        hidden: true
+      item32:
+        material: WAXED_LIGHTNING_ROD
+        buy: 630
+        sell: 210
+        hidden: true
+      item33:
+        material: WAXED_OXIDIZED_CHISELED_COPPER
+        buy: 130
+        sell: 42
+        hidden: true
+      item34:
+        material: WAXED_OXIDIZED_COPPER
+        buy: 510
+        sell: 170
+        hidden: true
+      item35:
+        material: WAXED_OXIDIZED_COPPER_BARS
+        buy: 235
+        sell: 79
+        hidden: true
+      item36:
+        material: WAXED_OXIDIZED_COPPER_BULB
+        buy: 710
+        sell: 240
+        hidden: true
+      item37:
+        material: WAXED_OXIDIZED_COPPER_CHAIN
+        buy: 365
+        sell: 120
+        hidden: true
+      item38:
+        material: WAXED_OXIDIZED_COPPER_CHEST
+        buy: 1500
+        sell: 500
+        hidden: true
+      item39:
+        material: WAXED_OXIDIZED_COPPER_DOOR
+        buy: 480
+        sell: 160
+        hidden: true
+      item40:
+        material: WAXED_OXIDIZED_COPPER_GRATE
+        buy: 130
+        sell: 42
+        hidden: true
+      item41:
+        material: WAXED_OXIDIZED_COPPER_LANTERN
+        buy: 365
+        sell: 120
+        hidden: true
+      item42:
+        material: WAXED_OXIDIZED_COPPER_TRAPDOOR
+        buy: 780
+        sell: 260
+        hidden: true
+      item43:
+        material: WAXED_OXIDIZED_CUT_COPPER
+        buy: 130
+        sell: 42
+        hidden: true
+      item44:
+        material: WAXED_OXIDIZED_CUT_COPPER_SLAB
+        buy: 64
+        sell: 21
+        hidden: true
+      item45:
+        material: WAXED_OXIDIZED_CUT_COPPER_STAIRS
+        buy: 130
+        sell: 42
+        hidden: true
+  page5:
+    gui-rows: 6
+    title: "&7&lBuilding &8- Page 5"
+    items:
+      item1:
+        material: WAXED_OXIDIZED_LIGHTNING_ROD
+        buy: 630
+        sell: 210
+        hidden: true
+      item2:
+        material: WAXED_WEATHERED_CHISELED_COPPER
+        buy: 215
+        sell: 71
+        hidden: true
+      item3:
+        material: WAXED_WEATHERED_COPPER
+        buy: 855
+        sell: 285
+        hidden: true
+      item4:
+        material: WAXED_WEATHERED_COPPER_BARS
+        buy: 235
+        sell: 79
+        hidden: true
+      item5:
+        material: WAXED_WEATHERED_COPPER_BULB
+        buy: 970
+        sell: 325
+        hidden: true
+      item6:
+        material: WAXED_WEATHERED_COPPER_CHAIN
+        buy: 365
+        sell: 120
+        hidden: true
+      item7:
+        material: WAXED_WEATHERED_COPPER_CHEST
+        buy: 1500
+        sell: 500
+        hidden: true
+      item8:
+        material: WAXED_WEATHERED_COPPER_DOOR
+        buy: 480
+        sell: 160
+        hidden: true
+      item9:
+        material: WAXED_WEATHERED_COPPER_GRATE
+        buy: 215
+        sell: 71
+        hidden: true
+      item10:
+        material: WAXED_WEATHERED_COPPER_LANTERN
+        buy: 365
+        sell: 120
+        hidden: true
+      item11:
+        material: WAXED_WEATHERED_COPPER_TRAPDOOR
+        buy: 780
+        sell: 260
+        hidden: true
+      item12:
+        material: WAXED_WEATHERED_CUT_COPPER
+        buy: 215
+        sell: 71
+        hidden: true
+      item13:
+        material: WAXED_WEATHERED_CUT_COPPER_SLAB
+        buy: 105
+        sell: 36
+        hidden: true
+      item14:
+        material: WAXED_WEATHERED_CUT_COPPER_STAIRS
+        buy: 215
+        sell: 71
+        hidden: true
+      item15:
+        material: WAXED_WEATHERED_LIGHTNING_ROD
+        buy: 630
+        sell: 210
+        hidden: true

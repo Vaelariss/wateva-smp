@@ -1,0 +1,15 @@
+enable: true
+slot: 16
+title: " &8>> &3&lGear &r&8<< "
+sub-section: false
+hidden: false
+display-item: false
+economy: VAULT
+item:
+  material: DIAMOND_PICKAXE
+  name: '&3&lGear'
+  lore:
+  - "&7Tools, armor, buckets, boats, minecarts"
+fill-item:
+  material: BLACK_STAINED_GLASS_PANE
+  name: ' '

@@ -1,0 +1,693 @@
+pages:
+  page1:
+    gui-rows: 6
+    title: "&3&lGear &8- Page 1"
+    items:
+      item1:
+        material: IRON_PICKAXE
+        buy: 1200
+        sell: 305
+      item2:
+        material: IRON_AXE
+        buy: 1200
+        sell: 305
+      item3:
+        material: IRON_SHOVEL
+        buy: 415
+        sell: 105
+      item4:
+        material: IRON_HOE
+        buy: 815
+        sell: 205
+      item5:
+        material: IRON_SWORD
+        buy: 810
+        sell: 200
+      item6:
+        material: IRON_HELMET
+        buy: 2000
+        sell: 500
+      item7:
+        material: IRON_CHESTPLATE
+        buy: 3200
+        sell: 800
+      item8:
+        material: IRON_LEGGINGS
+        buy: 2800
+        sell: 700
+      item9:
+        material: IRON_BOOTS
+        buy: 1600
+        sell: 400
+      item10:
+        material: DIAMOND_PICKAXE
+        buy: 36000
+        sell: 9000
+      item11:
+        material: DIAMOND_AXE
+        buy: 36000
+        sell: 9000
+      item12:
+        material: DIAMOND_SHOVEL
+        buy: 12000
+        sell: 3000
+      item13:
+        material: DIAMOND_HOE
+        buy: 24000
+        sell: 6000
+      item14:
+        material: DIAMOND_SWORD
+        buy: 24000
+        sell: 6000
+      item15:
+        material: DIAMOND_HELMET
+        buy: 60000
+        sell: 15000
+      item16:
+        material: DIAMOND_CHESTPLATE
+        buy: 96000
+        sell: 24000
+      item17:
+        material: DIAMOND_LEGGINGS
+        buy: 84000
+        sell: 21000
+      item18:
+        material: DIAMOND_BOOTS
+        buy: 48000
+        sell: 12000
+      item19:
+        material: SHIELD
+        buy: 520
+        sell: 130
+      item20:
+        material: BOW
+        buy: 385
+        sell: 96
+      item21:
+        material: CROSSBOW
+        buy: 880
+        sell: 220
+      item22:
+        material: ARROW
+        buy: 26
+        sell: 7
+      item23:
+        material: SPECTRAL_ARROW
+        buy: 93
+        sell: 23
+      item24:
+        material: FISHING_ROD
+        buy: 265
+        sell: 66
+      item25:
+        material: SHEARS
+        buy: 800
+        sell: 200
+      item26:
+        material: FLINT_AND_STEEL
+        buy: 415
+        sell: 105
+      item27:
+        material: BUCKET
+        buy: 1200
+        sell: 300
+      item28:
+        material: WATER_BUCKET
+        buy: 2000
+        sell: 500
+      item29:
+        material: LAVA_BUCKET
+        buy: 16000
+        sell: 4000
+      item30:
+        material: MILK_BUCKET
+        buy: 1200
+        sell: 300
+      item31:
+        material: COMPASS
+        buy: 1750
+        sell: 440
+      item32:
+        material: CLOCK
+        buy: 4950
+        sell: 1250
+      item33:
+        material: SPYGLASS
+        buy: 800
+        sell: 200
+      item34:
+        material: BRUSH
+        buy: 290
+        sell: 72
+      item35:
+        material: LEAD
+        buy: 300
+        sell: 75
+      item36:
+        material: MINECART
+        buy: 2000
+        sell: 500
+      item37:
+        material: CHEST_MINECART
+        buy: 2000
+        sell: 500
+      item38:
+        material: HOPPER_MINECART
+        buy: 2200
+        sell: 550
+      item39:
+        material: OAK_BOAT
+        buy: 100
+        sell: 25
+      item40:
+        material: FIREWORK_ROCKET
+        buy: 87
+        sell: 22
+      item41:
+        material: FIREWORK_STAR
+        buy: 600
+        sell: 150
+      item42:
+        material: CARROT_ON_A_STICK
+        buy: 405
+        sell: 100
+      item43:
+        material: WARPED_FUNGUS_ON_A_STICK
+        buy: 385
+        sell: 96
+      item44:
+        material: WOLF_ARMOR
+        buy: 7200
+        sell: 1800
+      item45:
+        material: TURTLE_HELMET
+        buy: 165000
+        sell: 41000
+  page2:
+    gui-rows: 6
+    title: "&3&lGear &8- Page 2"
+    items:
+      item1:
+        material: LEATHER_HORSE_ARMOR
+        buy: 2250
+        sell: 560
+      item2:
+        material: WOODEN_PICKAXE
+        buy: 76
+        sell: 19
+      item3:
+        material: STONE_PICKAXE
+        buy: 64
+        sell: 16
+      item4:
+        material: ACACIA_BOAT
+        buy: 605
+        sell: 150
+      item5:
+        material: AXOLOTL_BUCKET
+        buy: 4400
+        sell: 1100
+      item6:
+        material: BIRCH_BOAT
+        buy: 505
+        sell: 125
+      item7:
+        material: BLACK_HARNESS
+        buy: 2700
+        sell: 670
+      item8:
+        material: BLUE_HARNESS
+        buy: 2700
+        sell: 670
+      item9:
+        material: BROWN_HARNESS
+        buy: 2700
+        sell: 670
+      item10:
+        material: CHERRY_BOAT
+        buy: 530
+        sell: 130
+      item11:
+        material: COD_BUCKET
+        buy: 1200
+        sell: 300
+      item12:
+        material: COPPER_AXE
+        buy: 615
+        sell: 155
+      item13:
+        material: COPPER_BOOTS
+        buy: 800
+        sell: 200
+      item14:
+        material: COPPER_CHESTPLATE
+        buy: 1600
+        sell: 400
+      item15:
+        material: COPPER_HELMET
+        buy: 1000
+        sell: 250
+      item16:
+        material: COPPER_HOE
+        buy: 415
+        sell: 105
+      item17:
+        material: COPPER_LEGGINGS
+        buy: 1400
+        sell: 350
+      item18:
+        material: COPPER_PICKAXE
+        buy: 615
+        sell: 155
+      item19:
+        material: COPPER_SHOVEL
+        buy: 215
+        sell: 54
+      item20:
+        material: COPPER_SWORD
+        buy: 410
+        sell: 100
+      item21:
+        material: CYAN_HARNESS
+        buy: 2700
+        sell: 670
+      item22:
+        material: DARK_OAK_BOAT
+        buy: 450
+        sell: 110
+      item23:
+        material: GRAY_HARNESS
+        buy: 2700
+        sell: 670
+      item24:
+        material: GREEN_HARNESS
+        buy: 2700
+        sell: 670
+      item25:
+        material: JUNGLE_BOAT
+        buy: 500
+        sell: 125
+      item26:
+        material: LIGHT_BLUE_HARNESS
+        buy: 2700
+        sell: 670
+      item27:
+        material: LIGHT_GRAY_HARNESS
+        buy: 2700
+        sell: 670
+      item28:
+        material: LIME_HARNESS
+        buy: 2700
+        sell: 670
+      item29:
+        material: MAGENTA_HARNESS
+        buy: 2700
+        sell: 670
+      item30:
+        material: MANGROVE_BOAT
+        buy: 100
+        sell: 25
+      item31:
+        material: ORANGE_HARNESS
+        buy: 2700
+        sell: 670
+      item32:
+        material: PALE_OAK_BOAT
+        buy: 100
+        sell: 25
+      item33:
+        material: PINK_HARNESS
+        buy: 2700
+        sell: 670
+      item34:
+        material: POWDER_SNOW_BUCKET
+        buy: 8400
+        sell: 2100
+      item35:
+        material: PUFFERFISH_BUCKET
+        buy: 12000
+        sell: 3000
+      item36:
+        material: PURPLE_HARNESS
+        buy: 2700
+        sell: 670
+      item37:
+        material: RED_HARNESS
+        buy: 2700
+        sell: 670
+      item38:
+        material: SALMON_BUCKET
+        buy: 1200
+        sell: 300
+      item39:
+        material: SPRUCE_BOAT
+        buy: 500
+        sell: 125
+      item40:
+        material: SULFUR_CUBE_BUCKET
+        buy: 1600
+        sell: 400
+      item41:
+        material: TADPOLE_BUCKET
+        buy: 12000
+        sell: 3000
+      item42:
+        material: TROPICAL_FISH_BUCKET
+        buy: 16000
+        sell: 4000
+      item43:
+        material: WHITE_HARNESS
+        buy: 2700
+        sell: 680
+      item44:
+        material: YELLOW_HARNESS
+        buy: 2700
+        sell: 670
+      item45:
+        material: ACACIA_CHEST_BOAT
+        buy: 765
+        sell: 190
+        hidden: true
+  page3:
+    gui-rows: 6
+    title: "&3&lGear &8- Page 3"
+    items:
+      item1:
+        material: BAMBOO_CHEST_RAFT
+        buy: 460
+        sell: 115
+        hidden: true
+      item2:
+        material: BAMBOO_RAFT
+        buy: 300
+        sell: 75
+        hidden: true
+      item3:
+        material: BIRCH_CHEST_BOAT
+        buy: 665
+        sell: 165
+        hidden: true
+      item4:
+        material: CHAINMAIL_BOOTS
+        buy: 100
+        sell: 25
+        hidden: true
+      item5:
+        material: CHAINMAIL_CHESTPLATE
+        buy: 100
+        sell: 25
+        hidden: true
+      item6:
+        material: CHAINMAIL_HELMET
+        buy: 105
+        sell: 26
+        hidden: true
+      item7:
+        material: CHAINMAIL_LEGGINGS
+        buy: 220
+        sell: 55
+        hidden: true
+      item8:
+        material: CHERRY_CHEST_BOAT
+        buy: 690
+        sell: 170
+        hidden: true
+      item9:
+        material: COPPER_HORSE_ARMOR
+        buy: 800
+        sell: 200
+        hidden: true
+      item10:
+        material: COPPER_NAUTILUS_ARMOR
+        buy: 800
+        sell: 200
+        hidden: true
+      item11:
+        material: COPPER_SPEAR
+        buy: 215
+        sell: 54
+        hidden: true
+      item12:
+        material: DARK_OAK_CHEST_BOAT
+        buy: 610
+        sell: 150
+        hidden: true
+      item13:
+        material: DIAMOND_HORSE_ARMOR
+        buy: 48000
+        sell: 12000
+        hidden: true
+      item14:
+        material: DIAMOND_NAUTILUS_ARMOR
+        buy: 48000
+        sell: 12000
+        hidden: true
+      item15:
+        material: DIAMOND_SPEAR
+        buy: 12000
+        sell: 3000
+        hidden: true
+      item16:
+        material: FURNACE_MINECART
+        buy: 2150
+        sell: 530
+        hidden: true
+      item17:
+        material: GOLDEN_AXE
+        buy: 3600
+        sell: 905
+        hidden: true
+      item18:
+        material: GOLDEN_BOOTS
+        buy: 4800
+        sell: 1200
+        hidden: true
+      item19:
+        material: GOLDEN_CHESTPLATE
+        buy: 9600
+        sell: 2400
+        hidden: true
+      item20:
+        material: GOLDEN_HELMET
+        buy: 6000
+        sell: 1500
+        hidden: true
+      item21:
+        material: GOLDEN_HOE
+        buy: 2400
+        sell: 605
+        hidden: true
+      item22:
+        material: GOLDEN_HORSE_ARMOR
+        buy: 3200
+        sell: 800
+        hidden: true
+      item23:
+        material: GOLDEN_LEGGINGS
+        buy: 8400
+        sell: 2100
+        hidden: true
+      item24:
+        material: GOLDEN_NAUTILUS_ARMOR
+        buy: 4800
+        sell: 1200
+        hidden: true
+      item25:
+        material: GOLDEN_PICKAXE
+        buy: 3600
+        sell: 905
+        hidden: true
+      item26:
+        material: GOLDEN_SHOVEL
+        buy: 1200
+        sell: 305
+        hidden: true
+      item27:
+        material: GOLDEN_SPEAR
+        buy: 1200
+        sell: 305
+        hidden: true
+      item28:
+        material: GOLDEN_SWORD
+        buy: 2400
+        sell: 600
+        hidden: true
+      item29:
+        material: IRON_HORSE_ARMOR
+        buy: 1200
+        sell: 300
+        hidden: true
+      item30:
+        material: IRON_NAUTILUS_ARMOR
+        buy: 2400
+        sell: 600
+        hidden: true
+      item31:
+        material: IRON_SPEAR
+        buy: 415
+        sell: 105
+        hidden: true
+      item32:
+        material: JUNGLE_CHEST_BOAT
+        buy: 660
+        sell: 165
+        hidden: true
+      item33:
+        material: LEATHER_BOOTS
+        buy: 1300
+        sell: 320
+        hidden: true
+      item34:
+        material: LEATHER_CHESTPLATE
+        buy: 2550
+        sell: 640
+        hidden: true
+      item35:
+        material: LEATHER_HELMET
+        buy: 1600
+        sell: 400
+        hidden: true
+      item36:
+        material: LEATHER_LEGGINGS
+        buy: 2250
+        sell: 560
+        hidden: true
+      item37:
+        material: MANGROVE_CHEST_BOAT
+        buy: 260
+        sell: 65
+        hidden: true
+      item38:
+        material: NETHERITE_AXE
+        buy: -1
+        sell: 5460000
+        hidden: true
+      item39:
+        material: NETHERITE_BOOTS
+        buy: -1
+        sell: 5460000
+        hidden: true
+      item40:
+        material: NETHERITE_CHESTPLATE
+        buy: -1
+        sell: 5475000
+        hidden: true
+      item41:
+        material: NETHERITE_HELMET
+        buy: -1
+        sell: 5465000
+        hidden: true
+      item42:
+        material: NETHERITE_HOE
+        buy: -1
+        sell: 5455000
+        hidden: true
+      item43:
+        material: NETHERITE_HORSE_ARMOR
+        buy: -1
+        sell: 5500000
+        hidden: true
+      item44:
+        material: NETHERITE_LEGGINGS
+        buy: -1
+        sell: 5470000
+        hidden: true
+      item45:
+        material: NETHERITE_NAUTILUS_ARMOR
+        buy: -1
+        sell: 5500000
+        hidden: true
+  page4:
+    gui-rows: 6
+    title: "&3&lGear &8- Page 4"
+    items:
+      item1:
+        material: NETHERITE_PICKAXE
+        buy: -1
+        sell: 5460000
+        hidden: true
+      item2:
+        material: NETHERITE_SHOVEL
+        buy: -1
+        sell: 5455000
+        hidden: true
+      item3:
+        material: NETHERITE_SPEAR
+        buy: -1
+        sell: 5455000
+        hidden: true
+      item4:
+        material: NETHERITE_SWORD
+        buy: -1
+        sell: 5455000
+        hidden: true
+      item5:
+        material: OAK_CHEST_BOAT
+        buy: 260
+        sell: 65
+        hidden: true
+      item6:
+        material: PALE_OAK_CHEST_BOAT
+        buy: 260
+        sell: 65
+        hidden: true
+      item7:
+        material: SPRUCE_CHEST_BOAT
+        buy: 660
+        sell: 165
+        hidden: true
+      item8:
+        material: STONE_AXE
+        buy: 64
+        sell: 16
+        hidden: true
+      item9:
+        material: STONE_HOE
+        buy: 48
+        sell: 12
+        hidden: true
+      item10:
+        material: STONE_SHOVEL
+        buy: 32
+        sell: 8
+        hidden: true
+      item11:
+        material: STONE_SPEAR
+        buy: 32
+        sell: 8
+        hidden: true
+      item12:
+        material: STONE_SWORD
+        buy: 40
+        sell: 10
+        hidden: true
+      item13:
+        material: TNT_MINECART
+        buy: 8000
+        sell: 2000
+        hidden: true
+      item14:
+        material: WOODEN_AXE
+        buy: 76
+        sell: 19
+        hidden: true
+      item15:
+        material: WOODEN_HOE
+        buy: 56
+        sell: 14
+        hidden: true
+      item16:
+        material: WOODEN_SHOVEL
+        buy: 36
+        sell: 9
+        hidden: true
+      item17:
+        material: WOODEN_SPEAR
+        buy: 36
+        sell: 9
+        hidden: true
+      item18:
+        material: WOODEN_SWORD
+        buy: 48
+        sell: 12
+        hidden: true

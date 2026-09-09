@@ -1,0 +1,300 @@
+pages:
+  page1:
+    gui-rows: 6
+    title: "&c&lCopper &8- Page 1"
+    items:
+      item1:
+        material: COPPER_BLOCK
+        buy: 1350
+        sell: 450
+      item2:
+        material: CUT_COPPER
+        buy: 340
+        sell: 110
+      item3:
+        material: CHISELED_COPPER
+        buy: 340
+        sell: 110
+      item4:
+        material: COPPER_GRATE
+        buy: 340
+        sell: 110
+      item5:
+        material: COPPER_BULB
+        buy: 1350
+        sell: 450
+      item6:
+        material: COPPER_DOOR
+        buy: 300
+        sell: 100
+      item7:
+        material: COPPER_TRAPDOOR
+        buy: 600
+        sell: 200
+      item8:
+        material: COPPER_CHEST
+        buy: 1300
+        sell: 440
+      item9:
+        material: COPPER_LANTERN
+        buy: 185
+        sell: 61
+      item10:
+        material: COPPER_CHAIN
+        buy: 185
+        sell: 61
+      item11:
+        material: COPPER_BARS
+        buy: 56
+        sell: 19
+      item12:
+        material: COPPER_TORCH
+        buy: 51
+        sell: 17
+      item13:
+        material: LIGHTNING_ROD
+        buy: 450
+        sell: 150
+      item14:
+        material: COPPER_GOLEM_STATUE
+        buy: 900
+        sell: 300
+      item15:
+        material: EXPOSED_CHISELED_COPPER
+        buy: 170
+        sell: 56
+        hidden: true
+      item16:
+        material: WEATHERED_CHISELED_COPPER
+        buy: 170
+        sell: 56
+        hidden: true
+      item17:
+        material: OXIDIZED_CHISELED_COPPER
+        buy: 82
+        sell: 28
+        hidden: true
+      item18:
+        material: EXPOSED_COPPER
+        buy: 675
+        sell: 225
+        hidden: true
+      item19:
+        material: WEATHERED_COPPER
+        buy: 675
+        sell: 225
+        hidden: true
+      item20:
+        material: OXIDIZED_COPPER
+        buy: 330
+        sell: 110
+        hidden: true
+      item21:
+        material: EXPOSED_COPPER_BARS
+        buy: 56
+        sell: 19
+        hidden: true
+      item22:
+        material: WEATHERED_COPPER_BARS
+        buy: 56
+        sell: 19
+        hidden: true
+      item23:
+        material: OXIDIZED_COPPER_BARS
+        buy: 56
+        sell: 19
+        hidden: true
+      item24:
+        material: EXPOSED_COPPER_BULB
+        buy: 835
+        sell: 280
+        hidden: true
+      item25:
+        material: WEATHERED_COPPER_BULB
+        buy: 835
+        sell: 280
+        hidden: true
+      item26:
+        material: OXIDIZED_COPPER_BULB
+        buy: 580
+        sell: 190
+        hidden: true
+      item27:
+        material: EXPOSED_COPPER_CHAIN
+        buy: 185
+        sell: 61
+        hidden: true
+      item28:
+        material: WEATHERED_COPPER_CHAIN
+        buy: 185
+        sell: 61
+        hidden: true
+      item29:
+        material: OXIDIZED_COPPER_CHAIN
+        buy: 185
+        sell: 61
+        hidden: true
+      item30:
+        material: EXPOSED_COPPER_CHEST
+        buy: 1300
+        sell: 440
+        hidden: true
+      item31:
+        material: WEATHERED_COPPER_CHEST
+        buy: 1300
+        sell: 440
+        hidden: true
+      item32:
+        material: OXIDIZED_COPPER_CHEST
+        buy: 1300
+        sell: 440
+        hidden: true
+      item33:
+        material: EXPOSED_COPPER_DOOR
+        buy: 300
+        sell: 100
+        hidden: true
+      item34:
+        material: WEATHERED_COPPER_DOOR
+        buy: 300
+        sell: 100
+        hidden: true
+      item35:
+        material: OXIDIZED_COPPER_DOOR
+        buy: 300
+        sell: 100
+        hidden: true
+      item36:
+        material: EXPOSED_COPPER_GOLEM_STATUE
+        buy: 900
+        sell: 300
+        hidden: true
+      item37:
+        material: WEATHERED_COPPER_GOLEM_STATUE
+        buy: 900
+        sell: 300
+        hidden: true
+      item38:
+        material: OXIDIZED_COPPER_GOLEM_STATUE
+        buy: 900
+        sell: 300
+        hidden: true
+      item39:
+        material: EXPOSED_COPPER_GRATE
+        buy: 170
+        sell: 56
+        hidden: true
+      item40:
+        material: WEATHERED_COPPER_GRATE
+        buy: 170
+        sell: 56
+        hidden: true
+      item41:
+        material: OXIDIZED_COPPER_GRATE
+        buy: 82
+        sell: 28
+        hidden: true
+      item42:
+        material: EXPOSED_COPPER_LANTERN
+        buy: 185
+        sell: 61
+        hidden: true
+      item43:
+        material: WEATHERED_COPPER_LANTERN
+        buy: 185
+        sell: 61
+        hidden: true
+      item44:
+        material: OXIDIZED_COPPER_LANTERN
+        buy: 185
+        sell: 61
+        hidden: true
+      item45:
+        material: EXPOSED_COPPER_TRAPDOOR
+        buy: 600
+        sell: 200
+        hidden: true
+  page2:
+    gui-rows: 6
+    title: "&c&lCopper &8- Page 2"
+    items:
+      item1:
+        material: WEATHERED_COPPER_TRAPDOOR
+        buy: 600
+        sell: 200
+        hidden: true
+      item2:
+        material: OXIDIZED_COPPER_TRAPDOOR
+        buy: 600
+        sell: 200
+        hidden: true
+      item3:
+        material: EXPOSED_CUT_COPPER
+        buy: 170
+        sell: 56
+        hidden: true
+      item4:
+        material: WEATHERED_CUT_COPPER
+        buy: 170
+        sell: 56
+        hidden: true
+      item5:
+        material: OXIDIZED_CUT_COPPER
+        buy: 82
+        sell: 28
+        hidden: true
+      item6:
+        material: CUT_COPPER_SLAB
+        buy: 170
+        sell: 56
+        hidden: true
+      item7:
+        material: EXPOSED_CUT_COPPER_SLAB
+        buy: 84
+        sell: 28
+        hidden: true
+      item8:
+        material: WEATHERED_CUT_COPPER_SLAB
+        buy: 84
+        sell: 28
+        hidden: true
+      item9:
+        material: OXIDIZED_CUT_COPPER_SLAB
+        buy: 41
+        sell: 14
+        hidden: true
+      item10:
+        material: CUT_COPPER_STAIRS
+        buy: 340
+        sell: 110
+        hidden: true
+      item11:
+        material: EXPOSED_CUT_COPPER_STAIRS
+        buy: 170
+        sell: 56
+        hidden: true
+      item12:
+        material: WEATHERED_CUT_COPPER_STAIRS
+        buy: 170
+        sell: 56
+        hidden: true
+      item13:
+        material: OXIDIZED_CUT_COPPER_STAIRS
+        buy: 82
+        sell: 28
+        hidden: true
+      item14:
+        material: EXPOSED_LIGHTNING_ROD
+        buy: 450
+        sell: 150
+        hidden: true
+      item15:
+        material: WEATHERED_LIGHTNING_ROD
+        buy: 450
+        sell: 150
+        hidden: true
+      item16:
+        material: OXIDIZED_LIGHTNING_ROD
+        buy: 450
+        sell: 150
+        hidden: true

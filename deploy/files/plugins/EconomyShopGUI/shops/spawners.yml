@@ -1,0 +1,230 @@
+pages:
+  page1:
+    gui-rows: 6
+    title: "&6&lSpawners &8- Page 1"
+    items:
+      item1:
+        material: SPAWNER
+        spawner: PIG
+        buy: 250000
+        sell: -1
+      item2:
+        material: SPAWNER
+        spawner: COW
+        buy: 250000
+        sell: -1
+      item3:
+        material: SPAWNER
+        spawner: CHICKEN
+        buy: 250000
+        sell: -1
+      item4:
+        material: SPAWNER
+        spawner: SHEEP
+        buy: 250000
+        sell: -1
+      item5:
+        material: SPAWNER
+        spawner: RABBIT
+        buy: 300000
+        sell: -1
+      item6:
+        material: SPAWNER
+        spawner: MOOSHROOM
+        buy: 400000
+        sell: -1
+      item7:
+        material: SPAWNER
+        spawner: HORSE
+        buy: 400000
+        sell: -1
+      item8:
+        material: SPAWNER
+        spawner: DONKEY
+        buy: 400000
+        sell: -1
+      item9:
+        material: SPAWNER
+        spawner: WOLF
+        buy: 500000
+        sell: -1
+      item10:
+        material: SPAWNER
+        spawner: CAT
+        buy: 500000
+        sell: -1
+      item11:
+        material: SPAWNER
+        spawner: SQUID
+        buy: 300000
+        sell: -1
+      item12:
+        material: SPAWNER
+        spawner: GLOW_SQUID
+        buy: 600000
+        sell: -1
+      item13:
+        material: SPAWNER
+        spawner: TURTLE
+        buy: 800000
+        sell: -1
+      item14:
+        material: SPAWNER
+        spawner: PANDA
+        buy: 1500000
+        sell: -1
+      item15:
+        material: SPAWNER
+        spawner: BEE
+        buy: 800000
+        sell: -1
+      item16:
+        material: SPAWNER
+        spawner: GOAT
+        buy: 600000
+        sell: -1
+      item17:
+        material: SPAWNER
+        spawner: FROG
+        buy: 700000
+        sell: -1
+      item18:
+        material: SPAWNER
+        spawner: AXOLOTL
+        buy: 900000
+        sell: -1
+      item19:
+        material: SPAWNER
+        spawner: ZOMBIE
+        buy: 500000
+        sell: -1
+      item20:
+        material: SPAWNER
+        spawner: HUSK
+        buy: 500000
+        sell: -1
+      item21:
+        material: SPAWNER
+        spawner: SKELETON
+        buy: 750000
+        sell: -1
+      item22:
+        material: SPAWNER
+        spawner: STRAY
+        buy: 750000
+        sell: -1
+      item23:
+        material: SPAWNER
+        spawner: BOGGED
+        buy: 750000
+        sell: -1
+      item24:
+        material: SPAWNER
+        spawner: SPIDER
+        buy: 400000
+        sell: -1
+      item25:
+        material: SPAWNER
+        spawner: CAVE_SPIDER
+        buy: 600000
+        sell: -1
+      item26:
+        material: SPAWNER
+        spawner: CREEPER
+        buy: 1000000
+        sell: -1
+      item27:
+        material: SPAWNER
+        spawner: DROWNED
+        buy: 800000
+        sell: -1
+      item28:
+        material: SPAWNER
+        spawner: ZOMBIFIED_PIGLIN
+        buy: 900000
+        sell: -1
+      item29:
+        material: SPAWNER
+        spawner: PIGLIN
+        buy: 900000
+        sell: -1
+      item30:
+        material: SPAWNER
+        spawner: HOGLIN
+        buy: 1200000
+        sell: -1
+      item31:
+        material: SPAWNER
+        spawner: BLAZE
+        buy: 2000000
+        sell: -1
+      item32:
+        material: SPAWNER
+        spawner: GHAST
+        buy: 3000000
+        sell: -1
+      item33:
+        material: SPAWNER
+        spawner: ENDERMAN
+        buy: 3000000
+        sell: -1
+      item34:
+        material: SPAWNER
+        spawner: SLIME
+        buy: 1500000
+        sell: -1
+      item35:
+        material: SPAWNER
+        spawner: MAGMA_CUBE
+        buy: 1500000
+        sell: -1
+      item36:
+        material: SPAWNER
+        spawner: GUARDIAN
+        buy: 4000000
+        sell: -1
+      item37:
+        material: SPAWNER
+        spawner: IRON_GOLEM
+        buy: 10000000
+        sell: -1
+      item38:
+        material: SPAWNER
+        spawner: VILLAGER
+        buy: 2000000
+        sell: -1
+      item39:
+        material: SPAWNER
+        spawner: WITCH
+        buy: 1200000
+        sell: -1
+      item40:
+        material: SPAWNER
+        spawner: PHANTOM
+        buy: 1500000
+        sell: -1
+      item41:
+        material: SPAWNER
+        spawner: SILVERFISH
+        buy: 400000
+        sell: -1
+      item42:
+        material: SPAWNER
+        spawner: ENDERMITE
+        buy: 600000
+        sell: -1
+      item43:
+        material: SPAWNER
+        spawner: BREEZE
+        buy: 2500000
+        sell: -1
+      item44:
+        material: SPAWNER
+        spawner: WITHER_SKELETON
+        buy: 2500000
+        sell: -1
+      item45:
+        material: SPAWNER
+        spawner: SHULKER
+        buy: 4000000
+        sell: -1

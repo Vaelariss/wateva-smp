@@ -1,0 +1,957 @@
+pages:
+  page1:
+    gui-rows: 6
+    title: "&6&lWood &8- Page 1"
+    items:
+      item1:
+        material: OAK_LOG
+        buy: 60
+        sell: 20
+      item2:
+        material: SPRUCE_LOG
+        buy: 300
+        sell: 100
+      item3:
+        material: BIRCH_LOG
+        buy: 305
+        sell: 100
+      item4:
+        material: JUNGLE_LOG
+        buy: 300
+        sell: 100
+      item5:
+        material: ACACIA_LOG
+        buy: 300
+        sell: 100
+      item6:
+        material: DARK_OAK_LOG
+        buy: 270
+        sell: 90
+      item7:
+        material: MANGROVE_LOG
+        buy: 60
+        sell: 20
+      item8:
+        material: CHERRY_LOG
+        buy: 320
+        sell: 105
+      item9:
+        material: PALE_OAK_LOG
+        buy: 60
+        sell: 20
+      item10:
+        material: CRIMSON_STEM
+        buy: 60
+        sell: 20
+      item11:
+        material: WARPED_STEM
+        buy: 91
+        sell: 30
+      item12:
+        material: BAMBOO_BLOCK
+        buy: 90
+        sell: 30
+      item13:
+        material: OAK_PLANKS
+        buy: 15
+        sell: 5
+      item14:
+        material: SPRUCE_PLANKS
+        buy: 75
+        sell: 25
+      item15:
+        material: BIRCH_PLANKS
+        buy: 76
+        sell: 25
+      item16:
+        material: JUNGLE_PLANKS
+        buy: 75
+        sell: 25
+      item17:
+        material: ACACIA_PLANKS
+        buy: 75
+        sell: 25
+      item18:
+        material: DARK_OAK_PLANKS
+        buy: 68
+        sell: 22
+      item19:
+        material: MANGROVE_PLANKS
+        buy: 15
+        sell: 5
+      item20:
+        material: CHERRY_PLANKS
+        buy: 80
+        sell: 26
+      item21:
+        material: PALE_OAK_PLANKS
+        buy: 15
+        sell: 5
+      item22:
+        material: CRIMSON_PLANKS
+        buy: 15
+        sell: 5
+      item23:
+        material: WARPED_PLANKS
+        buy: 23
+        sell: 8
+      item24:
+        material: BAMBOO_PLANKS
+        buy: 45
+        sell: 15
+      item25:
+        material: BAMBOO_MOSAIC
+        buy: 45
+        sell: 15
+      item26:
+        material: STICK
+        buy: 6
+        sell: 2
+      item27:
+        material: LADDER
+        buy: 14
+        sell: 5
+      item28:
+        material: OAK_DOOR
+        buy: 30
+        sell: 10
+      item29:
+        material: OAK_TRAPDOOR
+        buy: 45
+        sell: 15
+      item30:
+        material: OAK_FENCE
+        buy: 24
+        sell: 8
+      item31:
+        material: OAK_SIGN
+        buy: 32
+        sell: 11
+      item32:
+        material: OAK_SHELF
+        buy: 60
+        sell: 20
+      item33:
+        material: SPRUCE_SHELF
+        buy: 300
+        sell: 100
+      item34:
+        material: BIRCH_SHELF
+        buy: 390
+        sell: 130
+      item35:
+        material: JUNGLE_SHELF
+        buy: 300
+        sell: 100
+      item36:
+        material: ACACIA_SHELF
+        buy: 300
+        sell: 100
+      item37:
+        material: DARK_OAK_SHELF
+        buy: 270
+        sell: 90
+      item38:
+        material: MANGROVE_SHELF
+        buy: 60
+        sell: 20
+      item39:
+        material: CHERRY_SHELF
+        buy: 320
+        sell: 105
+      item40:
+        material: PALE_OAK_SHELF
+        buy: 60
+        sell: 20
+      item41:
+        material: BAMBOO_SHELF
+        buy: 90
+        sell: 30
+      item42:
+        material: CRIMSON_SHELF
+        buy: 60
+        sell: 20
+      item43:
+        material: WARPED_SHELF
+        buy: 91
+        sell: 30
+      item44:
+        material: BOWL
+        buy: 11
+        sell: 4
+      item45:
+        material: STRIPPED_OAK_LOG
+        buy: 60
+        sell: 20
+        hidden: true
+  page2:
+    gui-rows: 6
+    title: "&6&lWood &8- Page 2"
+    items:
+      item1:
+        material: STRIPPED_SPRUCE_LOG
+        buy: 300
+        sell: 100
+        hidden: true
+      item2:
+        material: STRIPPED_BIRCH_LOG
+        buy: 390
+        sell: 130
+        hidden: true
+      item3:
+        material: STRIPPED_JUNGLE_LOG
+        buy: 300
+        sell: 100
+        hidden: true
+      item4:
+        material: STRIPPED_ACACIA_LOG
+        buy: 300
+        sell: 100
+        hidden: true
+      item5:
+        material: STRIPPED_DARK_OAK_LOG
+        buy: 270
+        sell: 90
+        hidden: true
+      item6:
+        material: STRIPPED_MANGROVE_LOG
+        buy: 60
+        sell: 20
+        hidden: true
+      item7:
+        material: STRIPPED_CHERRY_LOG
+        buy: 320
+        sell: 105
+        hidden: true
+      item8:
+        material: STRIPPED_PALE_OAK_LOG
+        buy: 60
+        sell: 20
+        hidden: true
+      item9:
+        material: STRIPPED_OAK_WOOD
+        buy: 70
+        sell: 23
+        hidden: true
+      item10:
+        material: STRIPPED_SPRUCE_WOOD
+        buy: 400
+        sell: 135
+        hidden: true
+      item11:
+        material: STRIPPED_BIRCH_WOOD
+        buy: 405
+        sell: 135
+        hidden: true
+      item12:
+        material: STRIPPED_JUNGLE_WOOD
+        buy: 400
+        sell: 135
+        hidden: true
+      item13:
+        material: STRIPPED_ACACIA_WOOD
+        buy: 400
+        sell: 135
+        hidden: true
+      item14:
+        material: STRIPPED_DARK_OAK_WOOD
+        buy: 360
+        sell: 120
+        hidden: true
+      item15:
+        material: STRIPPED_MANGROVE_WOOD
+        buy: 80
+        sell: 27
+        hidden: true
+      item16:
+        material: STRIPPED_CHERRY_WOOD
+        buy: 425
+        sell: 140
+        hidden: true
+      item17:
+        material: STRIPPED_PALE_OAK_WOOD
+        buy: 80
+        sell: 27
+        hidden: true
+      item18:
+        material: OAK_WOOD
+        buy: 70
+        sell: 23
+        hidden: true
+      item19:
+        material: SPRUCE_WOOD
+        buy: 400
+        sell: 135
+        hidden: true
+      item20:
+        material: BIRCH_WOOD
+        buy: 405
+        sell: 135
+        hidden: true
+      item21:
+        material: JUNGLE_WOOD
+        buy: 400
+        sell: 135
+        hidden: true
+      item22:
+        material: ACACIA_WOOD
+        buy: 400
+        sell: 135
+        hidden: true
+      item23:
+        material: DARK_OAK_WOOD
+        buy: 360
+        sell: 120
+        hidden: true
+      item24:
+        material: MANGROVE_WOOD
+        buy: 80
+        sell: 27
+        hidden: true
+      item25:
+        material: CHERRY_WOOD
+        buy: 425
+        sell: 140
+        hidden: true
+      item26:
+        material: PALE_OAK_WOOD
+        buy: 80
+        sell: 27
+        hidden: true
+      item27:
+        material: STRIPPED_CRIMSON_STEM
+        buy: 60
+        sell: 20
+        hidden: true
+      item28:
+        material: STRIPPED_WARPED_STEM
+        buy: 91
+        sell: 30
+        hidden: true
+      item29:
+        material: CRIMSON_HYPHAE
+        buy: 80
+        sell: 27
+        hidden: true
+      item30:
+        material: WARPED_HYPHAE
+        buy: 120
+        sell: 40
+        hidden: true
+      item31:
+        material: STRIPPED_CRIMSON_HYPHAE
+        buy: 80
+        sell: 27
+        hidden: true
+      item32:
+        material: STRIPPED_WARPED_HYPHAE
+        buy: 120
+        sell: 40
+        hidden: true
+      item33:
+        material: OAK_STAIRS
+        buy: 22
+        sell: 8
+        hidden: true
+      item34:
+        material: SPRUCE_STAIRS
+        buy: 110
+        sell: 38
+        hidden: true
+      item35:
+        material: BIRCH_STAIRS
+        buy: 115
+        sell: 38
+        hidden: true
+      item36:
+        material: JUNGLE_STAIRS
+        buy: 110
+        sell: 38
+        hidden: true
+      item37:
+        material: ACACIA_STAIRS
+        buy: 110
+        sell: 38
+        hidden: true
+      item38:
+        material: DARK_OAK_STAIRS
+        buy: 100
+        sell: 34
+        hidden: true
+      item39:
+        material: MANGROVE_STAIRS
+        buy: 22
+        sell: 8
+        hidden: true
+      item40:
+        material: CHERRY_STAIRS
+        buy: 120
+        sell: 40
+        hidden: true
+      item41:
+        material: PALE_OAK_STAIRS
+        buy: 22
+        sell: 8
+        hidden: true
+      item42:
+        material: BAMBOO_STAIRS
+        buy: 68
+        sell: 22
+        hidden: true
+      item43:
+        material: CRIMSON_STAIRS
+        buy: 22
+        sell: 8
+        hidden: true
+      item44:
+        material: WARPED_STAIRS
+        buy: 34
+        sell: 11
+        hidden: true
+      item45:
+        material: OAK_SLAB
+        buy: 8
+        sell: 2
+        hidden: true
+  page3:
+    gui-rows: 6
+    title: "&6&lWood &8- Page 3"
+    items:
+      item1:
+        material: SPRUCE_SLAB
+        buy: 38
+        sell: 12
+        hidden: true
+      item2:
+        material: BIRCH_SLAB
+        buy: 38
+        sell: 13
+        hidden: true
+      item3:
+        material: JUNGLE_SLAB
+        buy: 38
+        sell: 12
+        hidden: true
+      item4:
+        material: ACACIA_SLAB
+        buy: 38
+        sell: 12
+        hidden: true
+      item5:
+        material: DARK_OAK_SLAB
+        buy: 34
+        sell: 11
+        hidden: true
+      item6:
+        material: MANGROVE_SLAB
+        buy: 8
+        sell: 2
+        hidden: true
+      item7:
+        material: CHERRY_SLAB
+        buy: 40
+        sell: 13
+        hidden: true
+      item8:
+        material: PALE_OAK_SLAB
+        buy: 8
+        sell: 2
+        hidden: true
+      item9:
+        material: BAMBOO_SLAB
+        buy: 22
+        sell: 8
+        hidden: true
+      item10:
+        material: CRIMSON_SLAB
+        buy: 8
+        sell: 2
+        hidden: true
+      item11:
+        material: WARPED_SLAB
+        buy: 11
+        sell: 4
+        hidden: true
+      item12:
+        material: SPRUCE_FENCE
+        buy: 105
+        sell: 35
+        hidden: true
+      item13:
+        material: BIRCH_FENCE
+        buy: 105
+        sell: 35
+        hidden: true
+      item14:
+        material: JUNGLE_FENCE
+        buy: 105
+        sell: 35
+        hidden: true
+      item15:
+        material: ACACIA_FENCE
+        buy: 105
+        sell: 35
+        hidden: true
+      item16:
+        material: DARK_OAK_FENCE
+        buy: 94
+        sell: 31
+        hidden: true
+      item17:
+        material: MANGROVE_FENCE
+        buy: 24
+        sell: 8
+        hidden: true
+      item18:
+        material: CHERRY_FENCE
+        buy: 110
+        sell: 37
+        hidden: true
+      item19:
+        material: PALE_OAK_FENCE
+        buy: 24
+        sell: 8
+        hidden: true
+      item20:
+        material: BAMBOO_FENCE
+        buy: 64
+        sell: 21
+        hidden: true
+      item21:
+        material: CRIMSON_FENCE
+        buy: 24
+        sell: 8
+        hidden: true
+      item22:
+        material: WARPED_FENCE
+        buy: 34
+        sell: 11
+        hidden: true
+      item23:
+        material: OAK_FENCE_GATE
+        buy: 54
+        sell: 18
+        hidden: true
+      item24:
+        material: SPRUCE_FENCE_GATE
+        buy: 175
+        sell: 58
+        hidden: true
+      item25:
+        material: BIRCH_FENCE_GATE
+        buy: 175
+        sell: 58
+        hidden: true
+      item26:
+        material: JUNGLE_FENCE_GATE
+        buy: 175
+        sell: 58
+        hidden: true
+      item27:
+        material: ACACIA_FENCE_GATE
+        buy: 175
+        sell: 58
+        hidden: true
+      item28:
+        material: DARK_OAK_FENCE_GATE
+        buy: 160
+        sell: 53
+        hidden: true
+      item29:
+        material: MANGROVE_FENCE_GATE
+        buy: 54
+        sell: 18
+        hidden: true
+      item30:
+        material: CHERRY_FENCE_GATE
+        buy: 185
+        sell: 61
+        hidden: true
+      item31:
+        material: PALE_OAK_FENCE_GATE
+        buy: 54
+        sell: 18
+        hidden: true
+      item32:
+        material: BAMBOO_FENCE_GATE
+        buy: 115
+        sell: 38
+        hidden: true
+      item33:
+        material: CRIMSON_FENCE_GATE
+        buy: 54
+        sell: 18
+        hidden: true
+      item34:
+        material: WARPED_FENCE_GATE
+        buy: 69
+        sell: 23
+        hidden: true
+      item35:
+        material: SPRUCE_DOOR
+        buy: 150
+        sell: 50
+        hidden: true
+      item36:
+        material: BIRCH_DOOR
+        buy: 150
+        sell: 50
+        hidden: true
+      item37:
+        material: JUNGLE_DOOR
+        buy: 150
+        sell: 50
+        hidden: true
+      item38:
+        material: ACACIA_DOOR
+        buy: 150
+        sell: 50
+        hidden: true
+      item39:
+        material: DARK_OAK_DOOR
+        buy: 135
+        sell: 45
+        hidden: true
+      item40:
+        material: MANGROVE_DOOR
+        buy: 30
+        sell: 10
+        hidden: true
+      item41:
+        material: CHERRY_DOOR
+        buy: 160
+        sell: 53
+        hidden: true
+      item42:
+        material: PALE_OAK_DOOR
+        buy: 30
+        sell: 10
+        hidden: true
+      item43:
+        material: BAMBOO_DOOR
+        buy: 90
+        sell: 30
+        hidden: true
+      item44:
+        material: CRIMSON_DOOR
+        buy: 30
+        sell: 10
+        hidden: true
+      item45:
+        material: WARPED_DOOR
+        buy: 45
+        sell: 15
+        hidden: true
+  page4:
+    gui-rows: 6
+    title: "&6&lWood &8- Page 4"
+    items:
+      item1:
+        material: SPRUCE_TRAPDOOR
+        buy: 225
+        sell: 75
+        hidden: true
+      item2:
+        material: BIRCH_TRAPDOOR
+        buy: 225
+        sell: 76
+        hidden: true
+      item3:
+        material: JUNGLE_TRAPDOOR
+        buy: 225
+        sell: 75
+        hidden: true
+      item4:
+        material: ACACIA_TRAPDOOR
+        buy: 225
+        sell: 75
+        hidden: true
+      item5:
+        material: DARK_OAK_TRAPDOOR
+        buy: 200
+        sell: 68
+        hidden: true
+      item6:
+        material: MANGROVE_TRAPDOOR
+        buy: 45
+        sell: 15
+        hidden: true
+      item7:
+        material: CHERRY_TRAPDOOR
+        buy: 240
+        sell: 80
+        hidden: true
+      item8:
+        material: PALE_OAK_TRAPDOOR
+        buy: 45
+        sell: 15
+        hidden: true
+      item9:
+        material: BAMBOO_TRAPDOOR
+        buy: 135
+        sell: 45
+        hidden: true
+      item10:
+        material: CRIMSON_TRAPDOOR
+        buy: 45
+        sell: 15
+        hidden: true
+      item11:
+        material: WARPED_TRAPDOOR
+        buy: 68
+        sell: 23
+        hidden: true
+      item12:
+        material: OAK_BUTTON
+        buy: 15
+        sell: 5
+        hidden: true
+      item13:
+        material: SPRUCE_BUTTON
+        buy: 75
+        sell: 25
+        hidden: true
+      item14:
+        material: BIRCH_BUTTON
+        buy: 76
+        sell: 25
+        hidden: true
+      item15:
+        material: JUNGLE_BUTTON
+        buy: 75
+        sell: 25
+        hidden: true
+      item16:
+        material: ACACIA_BUTTON
+        buy: 75
+        sell: 25
+        hidden: true
+      item17:
+        material: DARK_OAK_BUTTON
+        buy: 68
+        sell: 22
+        hidden: true
+      item18:
+        material: MANGROVE_BUTTON
+        buy: 15
+        sell: 5
+        hidden: true
+      item19:
+        material: CHERRY_BUTTON
+        buy: 80
+        sell: 26
+        hidden: true
+      item20:
+        material: PALE_OAK_BUTTON
+        buy: 15
+        sell: 5
+        hidden: true
+      item21:
+        material: BAMBOO_BUTTON
+        buy: 45
+        sell: 15
+        hidden: true
+      item22:
+        material: CRIMSON_BUTTON
+        buy: 15
+        sell: 5
+        hidden: true
+      item23:
+        material: WARPED_BUTTON
+        buy: 23
+        sell: 8
+        hidden: true
+      item24:
+        material: OAK_PRESSURE_PLATE
+        buy: 30
+        sell: 10
+        hidden: true
+      item25:
+        material: SPRUCE_PRESSURE_PLATE
+        buy: 150
+        sell: 50
+        hidden: true
+      item26:
+        material: BIRCH_PRESSURE_PLATE
+        buy: 150
+        sell: 50
+        hidden: true
+      item27:
+        material: JUNGLE_PRESSURE_PLATE
+        buy: 150
+        sell: 50
+        hidden: true
+      item28:
+        material: ACACIA_PRESSURE_PLATE
+        buy: 150
+        sell: 50
+        hidden: true
+      item29:
+        material: DARK_OAK_PRESSURE_PLATE
+        buy: 135
+        sell: 45
+        hidden: true
+      item30:
+        material: MANGROVE_PRESSURE_PLATE
+        buy: 30
+        sell: 10
+        hidden: true
+      item31:
+        material: CHERRY_PRESSURE_PLATE
+        buy: 160
+        sell: 53
+        hidden: true
+      item32:
+        material: PALE_OAK_PRESSURE_PLATE
+        buy: 30
+        sell: 10
+        hidden: true
+      item33:
+        material: BAMBOO_PRESSURE_PLATE
+        buy: 90
+        sell: 30
+        hidden: true
+      item34:
+        material: CRIMSON_PRESSURE_PLATE
+        buy: 30
+        sell: 10
+        hidden: true
+      item35:
+        material: WARPED_PRESSURE_PLATE
+        buy: 45
+        sell: 15
+        hidden: true
+      item36:
+        material: SPRUCE_SIGN
+        buy: 150
+        sell: 51
+        hidden: true
+      item37:
+        material: BIRCH_SIGN
+        buy: 155
+        sell: 51
+        hidden: true
+      item38:
+        material: JUNGLE_SIGN
+        buy: 150
+        sell: 51
+        hidden: true
+      item39:
+        material: ACACIA_SIGN
+        buy: 150
+        sell: 51
+        hidden: true
+      item40:
+        material: DARK_OAK_SIGN
+        buy: 135
+        sell: 46
+        hidden: true
+      item41:
+        material: MANGROVE_SIGN
+        buy: 32
+        sell: 11
+        hidden: true
+      item42:
+        material: CHERRY_SIGN
+        buy: 160
+        sell: 54
+        hidden: true
+      item43:
+        material: PALE_OAK_SIGN
+        buy: 32
+        sell: 11
+        hidden: true
+      item44:
+        material: BAMBOO_SIGN
+        buy: 92
+        sell: 31
+        hidden: true
+      item45:
+        material: CRIMSON_SIGN
+        buy: 32
+        sell: 11
+        hidden: true
+  page5:
+    gui-rows: 6
+    title: "&6&lWood &8- Page 5"
+    items:
+      item1:
+        material: WARPED_SIGN
+        buy: 47
+        sell: 16
+        hidden: true
+      item2:
+        material: OAK_HANGING_SIGN
+        buy: 180
+        sell: 61
+        hidden: true
+      item3:
+        material: SPRUCE_HANGING_SIGN
+        buy: 420
+        sell: 140
+        hidden: true
+      item4:
+        material: BIRCH_HANGING_SIGN
+        buy: 510
+        sell: 170
+        hidden: true
+      item5:
+        material: JUNGLE_HANGING_SIGN
+        buy: 420
+        sell: 140
+        hidden: true
+      item6:
+        material: ACACIA_HANGING_SIGN
+        buy: 420
+        sell: 140
+        hidden: true
+      item7:
+        material: DARK_OAK_HANGING_SIGN
+        buy: 390
+        sell: 130
+        hidden: true
+      item8:
+        material: MANGROVE_HANGING_SIGN
+        buy: 180
+        sell: 61
+        hidden: true
+      item9:
+        material: CHERRY_HANGING_SIGN
+        buy: 440
+        sell: 145
+        hidden: true
+      item10:
+        material: PALE_OAK_HANGING_SIGN
+        buy: 180
+        sell: 61
+        hidden: true
+      item11:
+        material: BAMBOO_HANGING_SIGN
+        buy: 210
+        sell: 71
+        hidden: true
+      item12:
+        material: CRIMSON_HANGING_SIGN
+        buy: 180
+        sell: 61
+        hidden: true
+      item13:
+        material: WARPED_HANGING_SIGN
+        buy: 215
+        sell: 71
+        hidden: true
+      item14:
+        material: STRIPPED_BAMBOO_BLOCK
+        buy: 90
+        sell: 30
+        hidden: true
+      item15:
+        material: BAMBOO_MOSAIC_STAIRS
+        buy: 68
+        sell: 22
+        hidden: true
+      item16:
+        material: BAMBOO_MOSAIC_SLAB
+        buy: 22
+        sell: 8
+        hidden: true

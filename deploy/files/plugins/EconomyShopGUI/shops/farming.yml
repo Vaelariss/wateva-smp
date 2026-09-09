@@ -1,0 +1,165 @@
+pages:
+  page1:
+    gui-rows: 6
+    title: "&a&lFarming &8- Page 1"
+    items:
+      item1:
+        material: WHEAT
+        buy: 400
+        sell: 100
+      item2:
+        material: WHEAT_SEEDS
+        buy: 4
+        sell: 1
+      item3:
+        material: CARROT
+        buy: 140
+        sell: 35
+      item4:
+        material: POTATO
+        buy: 180
+        sell: 45
+      item5:
+        material: BEETROOT
+        buy: 100
+        sell: 25
+      item6:
+        material: BEETROOT_SEEDS
+        buy: 20
+        sell: 5
+      item7:
+        material: SUGAR_CANE
+        buy: 160
+        sell: 40
+      item8:
+        material: SUGAR
+        buy: 135
+        sell: 33
+      item9:
+        material: PUMPKIN
+        buy: 280
+        sell: 70
+      item10:
+        material: PUMPKIN_SEEDS
+        buy: 20
+        sell: 5
+      item11:
+        material: CARVED_PUMPKIN
+        buy: 1000
+        sell: 250
+      item12:
+        material: MELON
+        buy: 110
+        sell: 27
+      item13:
+        material: MELON_SLICE
+        buy: 12
+        sell: 3
+      item14:
+        material: MELON_SEEDS
+        buy: 20
+        sell: 5
+      item15:
+        material: COCOA_BEANS
+        buy: 92
+        sell: 23
+      item16:
+        material: SWEET_BERRIES
+        buy: 96
+        sell: 24
+      item17:
+        material: GLOW_BERRIES
+        buy: 120
+        sell: 30
+      item18:
+        material: KELP
+        buy: 32
+        sell: 8
+      item19:
+        material: DRIED_KELP
+        buy: 35
+        sell: 9
+      item20:
+        material: DRIED_KELP_BLOCK
+        buy: 1000
+        sell: 255
+      item21:
+        material: BAMBOO
+        buy: 36
+        sell: 9
+      item22:
+        material: CACTUS
+        buy: 160
+        sell: 40
+      item23:
+        material: HAY_BLOCK
+        buy: 3600
+        sell: 900
+      item24:
+        material: BONE_MEAL
+        buy: 185
+        sell: 47
+      item25:
+        material: APPLE
+        buy: 360
+        sell: 90
+      item26:
+        material: GOLDEN_CARROT
+        buy: 1050
+        sell: 260
+      item27:
+        material: GLISTERING_MELON_SLICE
+        buy: 1100
+        sell: 270
+      item28:
+        material: EGG
+        buy: 40
+        sell: 10
+      item29:
+        material: HONEY_BOTTLE
+        buy: 400
+        sell: 100
+      item30:
+        material: HONEYCOMB
+        buy: 240
+        sell: 60
+      item31:
+        material: HONEYCOMB_BLOCK
+        buy: 960
+        sell: 240
+      item32:
+        material: TORCHFLOWER_SEEDS
+        buy: 3600
+        sell: 900
+      item33:
+        material: PITCHER_POD
+        buy: 1200
+        sell: 300
+      item34:
+        material: COMPOSTER
+        buy: 70
+        sell: 18
+      item35:
+        material: BEEHIVE
+        buy: 840
+        sell: 210
+      item36:
+        material: BEE_NEST
+        buy: 40000
+        sell: 10000
+      item37:
+        material: BLUE_EGG
+        buy: 40
+        sell: 10
+      item38:
+        material: BROWN_EGG
+        buy: 40
+        sell: 10
+      item39:
+        material: PITCHER_PLANT
+        buy: 1200
+        sell: 300
+      item40:
+        material: TORCHFLOWER
+        buy: 12000
+        sell: 3000
