@@ -13,6 +13,7 @@ book:
       &1/sethome&0 - save your base
       &1/home&0 - go back
       &1/spawn&0 - the hub
+      &0Live map: &1170.23.138.229:17444
     - |
       &e&lMoney
 
